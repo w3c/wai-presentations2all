@@ -24,7 +24,7 @@ This page helps you make your presentations, talks, meetings, and training acces
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
 
--   TOC is created automatically.
+-  TOC is created automatically.
 {:toc}
 
 {::nomarkdown}
@@ -37,20 +37,19 @@ This page helps you make your presentations, talks, meetings, and training acces
 ## Basics (for organizers & speakers)
 {% include_cached excol.html type="middle" %}
 
-Be open to diversity in your audience and any accessibility issues.
-Basically, be aware that some of your audience might not be able to:
+Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
 
--   **see** well or at all,
--   **hear** well or at all,
--   **move** well or at all,
--   **speak** well or at all, or
--   **understand** information presented in some ways well or at all.
+-  **see** well or at all,
+-  **hear** well or at all,
+-  **move** well or at all,
+-  **speak** well or at all, or
+-  **understand** information presented in some ways well or at all.
 
-Organizers and speakers  should do things like ensure the facility is accessible. They should speak clearly  into the microphone. They should also describe pertinent visuals, and other  considerations listed on this page.
+Organizers and speakers should do things like: ensure the facility is accessible, speak clearly into the microphone, describe pertinent visuals, and other considerations listed on this page.
 
-**Respect participant's needs** and be open  for other accessibility issues. This page addresses several possible issues. But people may have specific accessibility needs that aren't covered here. They may also have a requirement that you didn't think of. For example: Someone might need to take breaks  at set times for insulin injections. Someone with Tourette syndrome  might randomly shout out during a session. Someone with a physical  disability who cannot take notes might need to record the session.
+**Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
-Often speakers won't know if participants have  disabilities. For example, a presentation at a large conference where  organizers didn't ask registrants. You might know the  accessibility needs of participants ahead of time for an  internal training. But sometimes things change. For example, a new  participant could join the training at the last minute. Or someone could  develop accessibility needs before the training.
+Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
 
 Make your event and your presentations fully accessible to prepare for any situation. 
 
@@ -60,32 +59,29 @@ Make your event and your presentations fully accessible to prepare for any situa
 ## Benefits (organizers & speakers)
 {% include_cached excol.html type="middle" %}
 
-Accessibility for people with disabilities benefit everyone. Accessible presentations are also **inclusive** to many other audiences. For example people who are not fluent in the language. People with different learning styles also benefit from accessible presentations.
+Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
 
 Accessible presentations also have additional benefits, such as in these situations:
 
--   A live presentation with visuals that is  recorded and made available online as an audio podcast.  People who are blind or can't see well benefit from the visuals being described. People listening to the podcast later will also get the visual information.
--   [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a  transcript.
--   Transcripts have many benefits. For example, transcripts increase search engine optimization (SEO) if provided online. [Transcripts also have many other benefits ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+-  A live presentation with visuals is recorded and made available online as an audio podcast. During the presentation you describe the visuals. That provides the visual information to people who are blind or can't see the visuals well during the presentation. People listening to the podcast later will also get the visual information.
+-  [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a transcript.
+-  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
-There are more benefits to making online material accessible.  These benefits are listed in [Developing a Web Accessibility Business Case for Your Organization](http://www.w3.org/WAI/bcase/).
+For additional benefits of making online material accessible, see [Developing a Web Accessibility Business Case for Your Organization](http://www.w3.org/WAI/bcase/).
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
 ## Planning the Event (organizers)
 {% include_cached excol.html type="middle" %}
+
 ### Ask speakers and participants if they have accessibility requirements.
 
-There are many ways to ask people about their accessibility requirements. You could include a question on registration forms  for conferences. You could also send an email to company-internal training  participants. Do invite participants to include specific requests. For  example, someone who is hard of hearing might request seating small  discussion groups in a circle to make it easier to hear people talking. Someone with low vision might ask to sit in the front row to see the  screen better.
+For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
+
 ### Ensure the facility and area is accessible to speakers and participants.
 
-Check the building entrance, the meeting rooms or bathrooms. The presentation stage should also be accessible. There are many checklists available online to help ensure a facility is accessible. For example: 
-
-- [Accessible venues - checklist ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://www.pcs.org.uk/en/equality/disability_equality_toolkit/accessible-venues-checklist.cfm)
-- [Accessibility Checklist for Existing Facilities ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://uiaccess.com/facilities.html).
-
-Provide accessibility information, such as the accessible routes  between meeting rooms. Let speakers and participants check out the rooms  in advance. They can then suggest  the best positioning of the speaker, screen,  seating, etc.
+For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
 ### Ensure adequate sound system, and arrange for microphones.
 
@@ -97,19 +93,19 @@ Have good lighting on their face and upper body. Avoid distracting backgrounds, 
 
 ### Arrange for [ALDs/hearing loops](#ald){:.termref}, [interpreters,](#terps){:.termref} and/or [CART](#cart){:.termref} writers, as needed.
 
-*(Assistive listening devices ([ALDs](#ald){:.termref}), hearing loops, or induction loops; and Computer Aided Real–Time Captioning or Communication Access Realtime Translation ([CART](#cart){:.termref}) are explained in the [Terminology](#terms) section.)* Work with participants and service providers to ensure that important details are taken care of. For example, power and a screen are provided for CART. Or microphones and the speakers' computer sound output is connected to the [ALD/hearing loop](#ald){:.termref} system.
+*(Assistive listening devices ([ALDs](#ald){:.termref}), hearing loops, or induction loops; and Computer Aided Real–Time Captioning or Communication Access Realtime Translation ([CART](#cart){:.termref}) are explained in the [Terminology](#terms) section.)* <br/>Work with participants and service providers to ensure that important details are taken care of. For example, power and a screen are provided for CART. Or microphones and the speakers' computer sound output is connected to the [ALD/hearing loop](#ald){:.termref} system.
 
 ### Arrange for good Internet connection when needed.
 
-Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. You will need a reliable connection that has enough bandwidth for remote [CART](#cart){:.termref}.
+Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [CART](#cart){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
 
 ### Consider accessibility when planning the schedule.
 
-Some people may need more time to get from room to room if  the accessible route is longer, or if they move  slowly. Schedule sufficient breaks. People might need to take care of  medical needs during breaks. Keep to the schedule as much as possible,  and inform participants ahead of time of any changes.
+Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
 
 ### Give speakers accessibility requirements and guidance.
 
-Tell speakers your expectation. You expect materials and presentations to be accessible for people with disabilities. Consider  including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in any speaker guideline, e-mails or web pages for guidance.
+Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
 
 {% include_cached excol.html type="end" %}
 
@@ -118,11 +114,11 @@ Tell speakers your expectation. You expect materials and presentations to be acc
 {% include_cached excol.html type="middle" %}
 ### Offer handouts, slides, and other material in accessible formats.
 
-Electronic formats are often the most flexible to meet different people's needs. Formats such as HTML (that is, web page format) and RTF are good formats to use. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
 
 ### Ensure slides, handouts, and other electronic material for participants is accessible.
 
-Provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG 2.0](/WAI/intro/wcag.php), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
+For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG 2.0](/WAI/intro/wcag.php), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
 
 ### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards.
 
@@ -148,7 +144,7 @@ about [providing accessible material](#material) is above.)
 
 ### Work with [interpreters](#terps){:.termref}, translators, and [CART](#cart){:.termref} writers.
 
-Give them  material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
+Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
 ### Caption audio, or otherwise make it available.
 
@@ -158,11 +154,11 @@ for your presentation, that can provide text of the audio.
 
 ### Consider activities.
 
-Remember potential accessibility issues with any participant activities. For example, responding to questions, arranging sticky notes, or small group projects, etc.
+Remember potential accessibility issues with any participant activities. For example, responding to questions, arranging sticky notes, small group projects, etc.
 
 ### Use multiple communication methods for different learning styles.
 
-Some people can better understand verbal information. Other people can better understand pictures and diagrams, and others text.
+Some people can better understand verbal information. Other people can better understand pictures and diagrams. And others better understand text.
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
@@ -170,27 +166,24 @@ Some people can better understand verbal information. Other people can better un
 {% include_cached excol.html type="middle" %}
 ### Make text and important visuals big enough to be read even from the back of the room.
 
-This includes graphics on slides, videos, posters, and other
-non-electronic material.
+This includes graphics on slides, videos, posters, and other non-electronic material.
 
 ### Use an easy-to-read font face.
 
-Simple fonts with consistent thickness are often  easier to read from a distance. Fonts like Times New Roman where parts of the  letters are thin are harder to read. Avoid fancy fonts that are  difficult to read.
+Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
 
 ### Use sufficient color contrast.
 
-While the medium is different, web page guidelines may help determine sufficient contrast. Refer to the [Color contrast guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html) and/or use [evaluation tools](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html#visual-audio-contrast7-resources-head).\
-Use appropriate background and text colors. Some  suggest when presenting in a light room to display dark text on a light  background. When presenting in a darkened room to display light text on a  dark background. Ensure that the weight of text is sufficient (for  example, bold).
+There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Color contrast guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html) and [evaluation tools](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html#visual-audio-contrast7-resources-head).
+Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background. Ensure that the weight of text is sufficient (for example, bold).
+
+While the medium is different, web page guidelines may help determine sufficient contrast. Refer 
+Use appropriate background and text colors. Some suggest when presenting in a light room to display dark text on a light background. When presenting in a darkened room to display light text on a dark background. Ensure that the weight of text is sufficient (for example, bold).
 
 ### <span id="expres">Make provided material accessible.</span>
 
-If you are giving participants material, make it accessible. See
-[provide accessible material](#material) above. An [example of
-presentation material provided in both presentation format and web
-format (HTML and
-CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked
-from the top of the page after "The Benefits of WCAG 2 presentation is
-available in 2 formats:".
+If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of
+presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
@@ -202,42 +195,35 @@ And avoid speaking too fast, so participants and sign language interpreters can 
 
 ### Use simple language.
 
-Avoid or explain jargon, acronyms, and idioms. For example, expressions
-such as "raising the bar" can be interpreted literally by some people
-with cognitive disabilities and can be confusing.
+Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
 ### Give people time to process information.
 
-Pause between topics. When you ask if anyone has questions, some people
-with cognitive disabilities will need extra time to form their thoughts
-into words.
+Pause between topics. When you ask if anyone has questions, some people with cognitive disabilities will need extra time to form their thoughts into words.
 
 ### Be visible.
 
-Be in good light when you talk so participants can see your face. This helps some people hear and understand better. Be careful not to face away from the audience to read projected material, particularly if you don't have a microphone.
+Be visible and in good light when you talk, so participants can see your face. This helps some people hear and understand better. Be careful not to face away from the audience to read projected material, particularly if you don't have a microphone.
 
 ### <span id="usemic">Use a microphone.</span>
 
-Some people might need the audio electronically, even in a small room. This will particularly benefit people using [ALDs/hearing loops](#ald){:.termref} and remote
-[CART](#cart){:.termref} writers. Note that if you ask "Can everyone hear
-me OK?" some people might be uncomfortable saying that they cannot.
+Some people might need the audio electronically, even in a small room. This includes people using [ALDs/hearing loops](#ald){:.termref} and remote [CART](#cart){:.termref} writers. Note that if you ask "Can everyone hear me OK?" some people might be uncomfortable saying that they cannot.
 
 ### Ensure that all relevant sound is audible through the sound system.
 
-For example, before replying, repeat questions and comments from the audience if they don't have a microphone. 
+For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
 
 ### <span id="visuals">Cover all displayed text.</span>
 
-Say all of the information that is on each slide.  (This does not mean that you have to read the slide exactly as it is. It  just means that you cover the visual information in what you say.)
+Say all of the information that is on each slide. (This does not mean that you have to read the slide exactly as it is. It just means that you cover the visual information in what you say.)
 
 ### Describe pertinent parts of graphics, videos, and other visuals.
 
-Describe them to the extent needed to understand the presentation. (You
-usually do not need to describe decorative images.)
+Describe them to the extent needed to understand the presentation. (You usually do not need to describe decorative images.)
 
 ### Describe other visual information.
 
-For example, if you ask a question of the audience, summarize the response. A speaker could ask the audience to raise their hand if they make their websites fully accessible. The speaker should then state how many people responded: "About half raised their hand".
+For example, a speaker asks people to raise their hands if they make their websites fully accessible. The speaker should then describe the visual response: "About half raised their hand".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
@@ -249,29 +235,27 @@ This web page addresses in-person sessions. There are additional considerations 
 
 There are resources online that provide related guidance, such as:
 
--   [ADOD Project ![links off WAI
-    website](http://www.w3.org/Icons/offsite.png)](http://adod.idrc.ocad.ca/)
-    links to Authoring Techniques for Accessible Office Documents,
-    including for word processing and presentation applications
--   [Creating Accessible Presentations ![links off WAI
-    website](http://www.w3.org/Icons/offsite.png)](http://www.jisctechdis.ac.uk/AccessibilityEssentials/2007/AE3/index.html)
--   [Planning an Accessible Conference ![links off WAI
-    website](http://www.w3.org/Icons/offsite.png)](http://www.sigaccess.org/community/accessible_conference/)
--   [Interacting with People with Disabilities ![links off WAI
-    website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/accessucd/interact.html)
+-  [ADOD Project ![links off WAI
+  website](http://www.w3.org/Icons/offsite.png)](http://adod.idrc.ocad.ca/)
+  links to Authoring Techniques for Accessible Office Documents,
+  including for word processing and presentation applications
+-  [Planning an Accessible Conference ![links off WAI
+  website](http://www.w3.org/Icons/offsite.png)](http://www.sigaccess.org/community/accessible_conference/)
+-  [Interacting with People with Disabilities ![links off WAI
+  website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/accessucd/interact.html)
 
 Information on web accessibility:
 
--   [Accessibility -
-    W3C](http://www.w3.org/standards/webdesign/accessibility) - briefly
-    introduces web accessibility and links to more resources.
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag) - introduces guidelines
-    for making web content accessible. This includes presentation material,
-    online learning, and other material provided in web formats.
--   [Web Accessibility Initiative (WAI) home page](/WAI/) - links to
-    guidelines/standards and a wide range of [support
-    material](http://www.w3.org/WAI/yourWAI).
+-  [Accessibility -
+  W3C](http://www.w3.org/standards/webdesign/accessibility) - briefly
+  introduces web accessibility and links to more resources.
+-  [Web Content Accessibility Guidelines (WCAG)
+  Overview](http://www.w3.org/WAI/intro/wcag) - introduces guidelines
+  for making web content accessible. This includes presentation material,
+  online learning, and other material provided in web formats.
+-  [Web Accessibility Initiative (WAI) home page](/WAI/) - links to
+  guidelines/standards and a wide range of [support
+  material](http://www.w3.org/WAI/yourWAI).
 
 
 {% include_cached excol.html type="end" %}
@@ -280,26 +264,16 @@ Information on web accessibility:
 {% include_cached excol.html type="middle" %}
 
 <span id="at">assistive technology</span>
-:   Assistive technologies are software or equipment that people with
-    disabilities use to improve interaction with the web, such as
-    **screen readers** that read aloud web pages for people who cannot
-    read text, **screen magnifiers** for people with some types of low
-    vision, and **voice recognition software** and **selection
-    switches** for people who cannot use a keyboard or mouse.
+:  Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as
+  **screen readers** that read aloud web pages for people who cannot read text, **screen magnifiers** for people with some types of low vision, and **voice recognition software** and **selection switches** for people who cannot use a keyboard or mouse.
 
 <span id="ald">ALDs, hearing loops, induction loops</span>
-:   Assistive listening devices (ALDs), hearing loops, and induction
-    loops amplify sound from the speaker's microphone.
+:  Assistive listening devices (ALDs), hearing loops, and induction loops amplify sound from the speaker's microphone.
 
 <span id="cart">CART</span>
-:   CART, Computer Aided Real–Time Captioning or Communication Access
-    Realtime Translation, is when a professional types what is being
-    said verbatim so that people can read the text output.
+:  CART, Computer Aided Real–Time Captioning or Communication Access Realtime Translation, is when a professional types what is being  said verbatim so that people can read the text output.
 
 <span id="terps">interpreters</span>
-:   This includes sign language interpreters, cued speech
-    transliterators, and others. Note that sign languages are different
-    from spoken languages and there is not a one-to-one translation.
-
+:  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
 
 {% include_cached excol.html type="end" %}
