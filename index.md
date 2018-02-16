@@ -5,10 +5,39 @@ redirect_from: /
 layout: default
 ---
 
+
+{::nomarkdown}
+{% include box.html type="start" class="simple aside" %}
+{:/}
+
 **Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
 Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
 This page helps you make your presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others. Inclusive presentations have <a href="#benefits">many benefits</a>.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 {% include_cached excol.html type="start" id="basic" %}
 ## Basics (for organizers & speakers)
