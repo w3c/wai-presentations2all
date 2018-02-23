@@ -30,7 +30,7 @@ This page helps you make your presentations, talks, meetings, and training acces
 {% include_cached toc.html type="end" %}
 {:/}
 
-@@ "expand all sections" button | "collapse all sections" button @@
+{% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
 ## Basics (for organizers & speakers)
