@@ -1,7 +1,6 @@
 ---
 title: "How to Make Your Presentations Accessible to All"
 permalink: /teach-advocate/accessible-presentations/
-redirect_from: /
 layout: default
 ---
 
