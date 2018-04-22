@@ -5,8 +5,10 @@ layout: default
 github:
   repository: w3c/wai-presentations2all
 footer: >
-  <p><strong>Status: </strong>Updated 20 February 2012 (first published May 2010) [<a href="http://www.w3.org/WAI/EO/changelogs/cl-training-accessible">changelog</a>] <br>
-  Editor: <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and participants of the  Web Accessibility Initiative (<a href="http://www.w3.org/WAI/">WAI</a>) Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), including staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> (IST 035015) funded by the European Commission under the 6th Framework.</p>
+  <p><strong>Date:</strong> Updated  20 February 2012. First published May 2010.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+
 ---
 
 **Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
