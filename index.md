@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-presentations2all
 footer: >
-  <p><strong>Date:</strong> Updated 16 February 2018. First published May 2010.</p>
+  <p><strong>Date:</strong> Updated 24 May 2018. First published May 2010.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -124,7 +124,7 @@ Word processing formats are often the most flexible to meet different people's n
 
 ### Ensure slides, handouts, and other electronic material for participants is accessible.
 
-For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG 2.0](/WAI/intro/wcag.php), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
+For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/WAI/intro/wcag.php), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
 
 ### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards.
 
@@ -132,7 +132,7 @@ For example, provide captions and/or transcripts as appropriate for
 audio, and provide audio description for videos as needed. [Guidelines
 for media on the
 web](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv) is available in
-[WCAG 2.0](/WAI/intro/wcag.php); it includes specific guidance such as
+[WCAG](/WAI/intro/wcag.php); it includes specific guidance such as
 [providing an alternative for audio-only
 content](http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/G158)
 (like podcasts).
