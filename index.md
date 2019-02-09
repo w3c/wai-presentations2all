@@ -71,7 +71,7 @@ Accessible presentations also have additional benefits, such as in these situati
 
 -  A live presentation with visuals is recorded and made available online as an audio podcast. During the presentation you describe the visuals. That provides the visual information to people who are blind or can't see the visuals well during the presentation. People listening to the podcast later will also get the visual information.
 -  [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a transcript.
--  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+-  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
 For additional benefits of making online material accessible, see [Developing a Web Accessibility Business Case for Your Organization](http://www.w3.org/WAI/bcase/).
 
@@ -87,7 +87,7 @@ For example, include a question on registration forms for conferences, send an e
 
 ### Ensure the facility and area is accessible to speakers and participants.
 
-For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities ![links off WAI website](http://www.w3.org/Icons/offsite.png)](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
+For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
 ### Ensure adequate sound system, and arrange for microphones.
 
@@ -241,14 +241,11 @@ This web page addresses in-person sessions. There are additional considerations 
 
 There are resources online that provide related guidance, such as:
 
--  [ADOD Project ![links off WAI
-  website](http://www.w3.org/Icons/offsite.png)](http://adod.idrc.ocad.ca/)
+-  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/)
   links to Authoring Techniques for Accessible Office Documents,
   including for word processing and presentation applications
--  [Planning an Accessible Conference ![links off WAI
-  website](http://www.w3.org/Icons/offsite.png)](http://www.sigaccess.org/community/accessible_conference/)
--  [Interacting with People with Disabilities ![links off WAI
-  website](http://www.w3.org/Icons/offsite.png)](http://www.uiaccess.com/accessucd/interact.html)
+-  [Planning an Accessible Conference {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
+-  [Interacting with People with Disabilities {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
 Information on web accessibility:
 
