@@ -1,13 +1,30 @@
 ---
-title: "How to Make Your Presentations Accessible to All"
-permalink: /teach-advocate/accessible-presentations/
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+
+title: "How to Make Your Presentations Accessible to All"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
+
+lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translator: " "   # Within quote marks, put name or names separated with a comma
+contributors: " "   # Within quote marks, put name(s) or delete this line
+
+permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
+ref: /teach-advocate/accessible-presentations/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-presentations2all
-footer: >
+  branch: gh-pages
+  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+
+footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 24 May 2018. First published May 2010.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+
+# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
+# Read Translations Notes for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
+# end of translation instructions
 
 ---
 
@@ -73,7 +90,7 @@ Accessible presentations also have additional benefits, such as in these situati
 -  [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a transcript.
 -  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
-For additional benefits of making online material accessible, see [Developing a Web Accessibility Business Case for Your Organization](http://www.w3.org/WAI/bcase/).
+For additional benefits of making online material accessible, see [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/).
 
 {% include_cached excol.html type="end" %}
 
