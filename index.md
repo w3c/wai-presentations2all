@@ -14,7 +14,6 @@ ref: /teach-advocate/accessible-presentations/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-presentations2all
-  branch: gh-pages
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
