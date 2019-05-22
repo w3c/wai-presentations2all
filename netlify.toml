@@ -1,0 +1,11 @@
+[Settings]
+
+ID = "wai-presentations2all"
+
+[build]
+
+command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+
+[[redirects]]
+  from = "/"
+  to = "/teach-advocate/accessible-presentations/"
