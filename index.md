@@ -1,31 +1,25 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "How to Make Your Presentations Accessible to All"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
+title: "How to Make Your Presentations Accessible to All"
+nav_title: "Make Presentations Accessible"
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-05-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "Translator Name Here"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
-permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
-ref: /teach-advocate/accessible-presentations/   # Do not change this
-layout: default
+lang: en
+last_updated: 2019-05-30
+permalink: /teach-advocate/accessible-presentations/
+
 github:
   repository: w3c/wai-presentations2all
-  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: index.md
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+ref: /teach-advocate/accessible-presentations/
+footer: >
   <p><strong>Date:</strong> Updated 24 May 2018. First published May 2010.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
-# end of translation instructions
-
 ---
 
 {::nomarkdown}
