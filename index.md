@@ -5,7 +5,7 @@ title: "How to Make Your Presentations Accessible to All"   # Do not translate "
 nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-05-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -65,13 +65,16 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **speak** well or at all, or
 -  **understand** information presented in some ways well or at all.
 
-Organizers and speakers should do things like: ensure the facility is accessible, speak clearly into the microphone, describe pertinent visuals, and other considerations listed on this page.
+Organizers and speakers should:
+
+- ensure the facility is accessible, 
+- speak clearly, and into the microphone, 
+- describe relevant visuals, 
+- and other considerations listed on this page.
 
 **Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
 Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
-
-Make your event and your presentations fully accessible to prepare for any situation. 
 
 {% include_cached excol.html type="start" id="benefits" %}
 ## Benefits (organizers & speakers)
@@ -255,9 +258,10 @@ Information on web accessibility:
 
 
 {% include_cached excol.html type="end" %}
-{% include_cached excol.html type="start" id="terms" %}
-## Terminology (appendix)
-{% include_cached excol.html type="middle" %}
+
+{::nomarkdown}
+{% include box.html type="start" title="Terminology" h="2" class="" id="terms" %}
+{:/}
 
 <span id="at">assistive technology</span>
 :  Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as
@@ -272,4 +276,6 @@ Information on web accessibility:
 <span id="terps">interpreters</span>
 :  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
 
-{% include_cached excol.html type="end" %}
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
