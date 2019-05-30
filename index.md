@@ -55,9 +55,7 @@ Make your presentations, talks, meetings, and trainings accessible to everyone i
 
 {% include_cached excol.html type="all" %}
 
-{% include_cached excol.html type="start" id="basic" %}
-## Basics (for organizers & speakers)
-{% include_cached excol.html type="middle" %}
+## Basics (for organizers & speakers) {#basic}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
 
@@ -74,8 +72,6 @@ Organizers and speakers should do things like: ensure the facility is accessible
 Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
 
 Make your event and your presentations fully accessible to prepare for any situation. 
-
-{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="benefits" %}
 ## Benefits (organizers & speakers)
