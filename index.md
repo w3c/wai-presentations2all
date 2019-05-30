@@ -28,14 +28,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ---
 
-**Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
-
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page helps you make your presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others. Inclusive presentations have <a href="#benefits">many benefits</a>.
+When you ask people to “read the source on the slide”, you probably exclude people who cannot see the slides. If you show a video without captions, hard of hearing people and people speaking other languages might be unable to follow.
+
+Make your presentations, talks, meetings, and trainings accessible to everyone in your potential audience, including people with disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
