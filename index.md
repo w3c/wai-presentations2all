@@ -191,8 +191,6 @@ Simple fonts with consistent thickness are often easier to read from a distance.
 
 There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Color contrast guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html) and [evaluation tools](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html#visual-audio-contrast7-resources-head). Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background. Ensure that the weight of text is sufficient (for example, bold).
 
-While the medium is different, web page guidelines may help determine sufficient contrast. Refer Use appropriate background and text colors. Some suggest when presenting in a light room to display dark text on a light background. When presenting in a darkened room to display light text on a dark background. Ensure that the weight of text is sufficient (for example, bold).
-
 ### Make provided material accessible {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
