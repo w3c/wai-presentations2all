@@ -78,7 +78,7 @@ Organizers and speakers should do things like:
 
 Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
 
-Make your event and your presentations fully accessible to prepare for any situation. 
+Make your event and your presentations accessible so that you are prepared for such situations.
 
 {% include_cached excol.html type="end" %}
 
@@ -282,3 +282,6 @@ Information on web accessibility:
 :  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
 
 {% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="all" %}
+
