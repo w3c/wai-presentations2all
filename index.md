@@ -260,7 +260,7 @@ Information on web accessibility:
 
 -  [[Introduction to Web Accessibility]](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
--  [Web Accessibility Initiative (WAI) home page](https:/www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
+-  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
 
 {% include_cached excol.html type="end" %}
