@@ -5,7 +5,7 @@ title: "How to Make Your Presentations Accessible to All"   # Do not translate "
 nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2020-11-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -18,8 +18,8 @@ github:
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 24 May 2018. First published May 2010.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
+  <p><strong>Date:</strong> Updated 10 November 2020. First published May 2010.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
@@ -35,7 +35,7 @@ Be careful not to leave out information for some people in your audience. For ex
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page helps you make your presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others. Inclusive presentations have <a href="#benefits">many benefits</a>.
+This page helps you make your presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others. Inclusive presentations have <a href="#benefits">many benefits</a>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -68,7 +68,11 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **speak** well or at all, or
 -  **understand** information presented in some ways well or at all.
 
-Organizers and speakers should do things like: ensure the facility is accessible, speak clearly into the microphone, describe pertinent visuals, and other considerations listed on this page.
+Organizers and speakers should do things like:
+-  ensure the facility is accessible
+-  speak clearly into the microphone
+-  describe pertinent visuals
+-  and other considerations listed on this page
 
 **Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
@@ -148,8 +152,7 @@ For example, provide alternative text for images and mark up headings. HTML mate
 
 ### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
 
-For example, provide captions and/or transcripts as appropriate for audio, and provide audio description for videos as needed. [Guidelines for media on the web](http://www.w3.org/WAI/WCAG20/quickref/#media-equiv) is available in [WCAG](/standards-guidelines/wcag/); it includes specific guidance such as [providing an alternative for audio-only content](http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/G158) (like podcasts).
-
+For example, provide captions and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
 ## Planning Your Session (speakers)
@@ -187,9 +190,12 @@ This includes graphics on slides, videos, posters, and other non-electronic mate
 
 Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
 
-### Use sufficient color contrast
+### Use sufficient contrast between colors ("luminance contrast")
 
-There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Color contrast guidelines](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html) and [evaluation tools](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html#visual-audio-contrast7-resources-head). Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background. Ensure that the weight of text is sufficient (for example, bold).
+This includes contrast between text and background colors, and between colors in graphs.
+There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Understanding contrast guideance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) and [contrast evaluation tools](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
+Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
+Ensure that the weight of text is sufficient (for example, bold).
 
 ### Make provided material accessible {#expres}
 
@@ -252,7 +258,7 @@ There are resources online that provide related guidance, such as:
 
 Information on web accessibility:
 
--  [Accessibility - W3C](http://www.w3.org/standards/webdesign/accessibility) - briefly introduces web accessibility and links to more resources.
+-  [[Introduction to Web Accessibility]](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https:/www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
