@@ -197,6 +197,10 @@ There are guidelines for web pages that you can use to help determine sufficient
 Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
 Ensure that the weight of text is sufficient (for example, bold).
 
+### Consider how to use motion or animations
+
+This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
+
 ### Make provided material accessible {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
@@ -258,7 +262,7 @@ There are resources online that provide related guidance, such as:
 
 Information on web accessibility:
 
--  [[Introduction to Web Accessibility]](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
+-  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
