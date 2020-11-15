@@ -152,7 +152,7 @@ For example, provide alternative text for images and mark up headings. HTML mate
 
 ### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
 
-For example, provide captions and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+For example, provide captions (subtitles for the deaf and hard of hearing) and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
 ## Planning Your Session (speakers)
