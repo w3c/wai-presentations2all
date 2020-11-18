@@ -288,7 +288,7 @@ Information on web accessibility:
 :  Assistive listening devices (ALDs), hearing loops, and induction loops amplify sound from the speaker's microphone for people who are hard of hearing.
 
 <span id="captions">captions, captioner</span>
-:  _Captions_ (also called “subtitles”) are a text version of speech and important non-speech audio. Live captioning is also called CART, Computer Aided Real–Time Captioning or Communication Access Realtime Translation.<br>A _captioner_, is a professional who provides what is being said verbatim so that people can read the text output.<br>More information is in [Captions/Subtitles, in Making Audio and Video Media Accessible](/media/av/captions/).
+:  _Captions_ (also called “subtitles”) are a text version of speech and important non-speech audio. Live captioning is also called CART, Computer Aided Real–Time Captioning or Communication Access Realtime Translation.<br>A _captioner_ is a professional who provides what is being said verbatim so that people can read the text output.<br>More information is in [Captions/Subtitles, in Making Audio and Video Media Accessible](/media/av/captions/).
 
 <span id="terps">interpreters</span>
 :  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
