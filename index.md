@@ -252,6 +252,9 @@ For example, a speaker asks people to raise their hands if they make their websi
 {% include_cached excol.html type="middle" %}
 This web page addresses in-person sessions. There are additional considerations for online, remote, and virtual sessions.
 
+For detailed guidance on **making multimedia accessible, see**:
+-  **[[Making Audio and Video Media Accessible]](/media/av/)**
+
 **Details on how to make material that you give to participants accessible is beyond the scope of this document.**
 
 There are resources online that provide related guidance, such as:
