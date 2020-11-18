@@ -165,7 +165,7 @@ For example, provide [captions](#captions){:.termref} and/or transcripts for aud
 
 ### Provide material ahead of time, if requested
 
-Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref} writers, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
+Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
 ### Work with [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref} writers
 
