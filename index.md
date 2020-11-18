@@ -167,7 +167,7 @@ For example, provide [captions](#captions){:.termref} and/or transcripts for aud
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
-### Work with [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref} writers
+### Work with [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref}
 
 Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
