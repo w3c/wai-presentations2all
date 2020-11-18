@@ -5,7 +5,7 @@ title: "How to Make Your Presentations Accessible to All"   # Do not translate "
 nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2020-11-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: #Add one -name: line for every translator
 # - name: "Translator Name Here"
 # contributors: #Add one -name: line for every contributor
@@ -18,7 +18,7 @@ github:
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 10 November 2020. First published May 2010.</p>
+  <p><strong>Date:</strong> Updated 17 November 2020. First published May 2010.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -197,6 +197,10 @@ There are guidelines for web pages that you can use to help determine sufficient
 Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
 Ensure that the weight of text is sufficient (for example, bold).
 
+### Consider how to use motion or animations
+
+This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
+
 ### Make provided material accessible {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
@@ -258,7 +262,7 @@ There are resources online that provide related guidance, such as:
 
 Information on web accessibility:
 
--  [[Introduction to Web Accessibility]](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
+-  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
