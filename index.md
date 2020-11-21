@@ -88,18 +88,15 @@ Make your event and your presentations accessible so that you are prepared for s
 
 Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
 
-Accessible presentations also have additional benefits, such as in this situation:
+Accessible presentations also have additional benefits to organizations and individuals.
 
--  A live presentation with “slides” is recorded and made available online as an audio podcast. The presenter describe the important visual information in the slides during the presentation.
-   - That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well.
-   - Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
--  During the presentation, a professional captioner types what is being said as text.
-   - People who are deaf or hard of hearing read the captioning.
-   - It also helps people who understand written text better than spoken language. For example, people whose native language is different.
-   - Later, the live captioning output is used to develop a text transcript of the presentation.
--  That transcript is put online and it increases search engine optimization (SEO) for the presentation and your website.
+In this example situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
-For a list of other [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html) and captions, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits).
+-  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
+-  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captioning. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
+-  That transcript is put online and it increases search engine optimization (SEO) for the presentation, the podcast, and the website.
+
+If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html). 
 
 {% include_cached excol.html type="end" %}
 
@@ -127,7 +124,7 @@ Have good lighting on their face and upper body. Avoid distracting backgrounds, 
 
 *(Assistive listening devices ([ALDs](#ald){:.termref}), [interpreters](#terps){:.termref}, and ([captioners](#captions){:.termref}) are explained in the [Terminology](#terms) section.)* 
 
-Work with participants and service providers to ensure that important details are taken care of. For example, electricity and a screen are provided for the captioning. Or microphones and the presenter’s computer sound output is connected to the ALD system.
+Work with participants and service providers to ensure that important details are taken care of. For example, a remote captioner can hear the audio clearly, an in-person captioner has the connections they need, and a screen is provided for participants to read the captions. Or, microphones and the presenter’s computer sound output is connected to the ALD system.
 
 ### Arrange for good Internet connection when needed
 
@@ -157,7 +154,7 @@ For example, provide alternative text for images and mark up headings. HTML mate
 
 ### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
 
-For example, provide [captions](#captions){:.termref} and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
 ## Planning Your Session (speakers)
@@ -165,9 +162,9 @@ For example, provide [captions](#captions){:.termref} and/or transcripts for aud
 
 ### Provide material ahead of time, if requested
 
-Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
+Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
-### Work with [interpreters](#terps){:.termref}, translators, and [captioners](#captions){:.termref}
+### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
 
 Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
@@ -217,7 +214,7 @@ If you are giving participants material, make it accessible. See [provide access
 
 ### Speak clearly
 
-And avoid speaking too fast, so participants and sign language interpreters can better understand you and keep up.
+And avoid speaking too fast, so participants and interpreters can better understand you and keep up.
 
 ### Use simple language
 
@@ -288,10 +285,10 @@ Information on web accessibility:
 :  Assistive listening devices (ALDs), hearing loops, and induction loops amplify sound from the speaker's microphone for people who are hard of hearing.
 
 <span id="captions">captions, captioner</span>
-:  _Captions_ (also called “subtitles”) are a text version of speech and important non-speech audio. Live captioning is also called CART, Computer Aided Real–Time Captioning or Communication Access Realtime Translation.<br>A _captioner_ is a professional who provides what is being said verbatim so that people can read the text output.<br>More information is in [Captions/Subtitles, in Making Audio and Video Media Accessible](/media/av/captions/).
+:  _Captions (called “intralingual subtitles” in some areas)_ are a text version of speech and important non-speech audio. Live captioning in different areas is called different things, such as CART (Computer Aided Real–Time Captioning or Communication Access Realtime Translation), or real-time intralingual subtitling.<br>A _captioner_ (or “live subtitler”) is a professional who provides what is being said verbatim so that people can read the text output.<br>More information is in [Captions/Subtitles, in Making Audio and Video Media Accessible](/media/av/captions/).
 
 <span id="terps">interpreters</span>
-:  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
+:  In this resource, “interpreters” includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
 
 {% include_cached excol.html type="end" %}
 
