@@ -120,7 +120,7 @@ Often wireless lapel microphones are best so that speakers can move around. When
 
 Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
 
-### Arrange for assistive listening devices (ALD)s, interpreters, and captioners, as needed
+### Arrange for assistive listening devices (ALD)(e.g., hearing loops), interpreters, and captioners, as needed
 
 *(Assistive listening devices ([ALDs](#ald){:.termref}), [interpreters](#terps){:.termref}, and ([captioners](#captions){:.termref}) are explained in the [Terminology](#terms) section.)* 
 
