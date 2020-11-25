@@ -20,9 +20,9 @@ github:
   path: index.fr.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 17 November 2020. First published May 2010.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+  <p><strong>Date :</strong> Mise à jour : 17 novembre 2020. Première publication : mai 2010.</p>
+  <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributeurs : <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> et <a href="https://www.w3.org/groups/wg/eowg/participants">les participants au EOWG</a>.</p>
+  <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Développé avec des membres du <a href="http://www.w3.org/WAI/WAI-AGE/"> projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
@@ -30,14 +30,14 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ---
 
-**Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
+**Cela vous est-il déjà arrivé que tout le monde autour de vous éclate de rire, sans que vous n'ayez entendu la blague ? <br>
+Veillez à ne laisser aucun de vos auditeurs sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-This page helps you make your presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others. Inclusive presentations have <a href="#benefits">many benefits</a>.
+Cette page vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à tous les auditeurs de votre public potentiel, y compris les personnes handicapées et autres. Les présentations inclusives présentent <a href="#benefits">de nombreux avantages</a>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -46,7 +46,7 @@ This page helps you make your presentations, talks, meetings, and training acces
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Table des matières" class="full" %}
 {:/}
 
 -  TOC is created automatically.
@@ -59,236 +59,236 @@ This page helps you make your presentations, talks, meetings, and training acces
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
-## Basics (for organizers & speakers)
+## Les fondamentaux (pour les organisateurs et les intervenants)
 {% include_cached excol.html type="middle" %}
 
-Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
+Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscients qu'une partie de votre public pourrait ne pas être capable de :
 
--  **see** well or at all,
--  **hear** well or at all,
--  **move** well or at all,
--  **speak** well or at all, or
--  **understand** information presented in some ways well or at all.
+-  **voir** correctement ou pas du tout,
+-  **entendre** correctement ou pas du tout,
+-  **se déplacer** correctement ou pas du tout,
+-  **parler** correctement ou pas du tout,
+-  **comprendre** les informations telles qu'elles sont présentées correctement ou pas du tout.
 
-Organizers and speakers should do things like:
--  ensure the facility is accessible
--  speak clearly into the microphone
--  describe pertinent visuals
--  and other considerations listed on this page
+Les organisateurs et les intervenants devraient faire en sorte de :
+-  veiller à ce que l'établissement soit accessible
+-  parler clairement dans le micro
+-  décrire les images importantes
+-  prendre en compte les différentes considérations listées sur cette page
 
-**Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
+**Respectez les besoins des participants** et soyez ouverts à d'autres questions d'accessibilité. Il est possible que certaines personnes aient des besoins en matière d'accessibilité auxquels vous n'avez pas pensés. Par exemple : des personnes pourraient avoir besoin de pauses à des moments précis pour leurs injections d'insuline. Des personnes porteuses du syndrome de la Tourette pourraient subitement crier pendant la séance. Ou bien des personnes porteuses de handicap physique incapables de prendre des notes pourraient avoir besoin d'enregistrer la séance.
 
-Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
+Fréquemment, les intervenants ne sauront pas si des participants se trouvent en situation de handicap. Par exemple, lors d'une grande conférence où les orgnisateurs n'ont pas demandé aux participants de s'inscrire. Dans certains cas, vous pourriez savoir les besoins des participants en matière d'accessibilité en avance. Mais vous pourriez tout de même vous retrouvez face à des changements. Par exemple, un nouveau participant a pu venir à la formation en toute dernière minute. Ou quelqu'un pourrait avoir de nouveaux besoins en matière d'accessibilité juste avant la formation.
 
-Make your event and your presentations accessible so that you are prepared for such situations.
+Rendez vos événements et vos présentations accessibles de manière à vous préparer à de telles situations.
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="benefits" %}
-## Benefits (organizers & speakers)
+## Avantages (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
+Les présentations accessibles aux personnes en situation de handicap permettent d'**inclure** bon nombre d'autres participants. Par exemple, les personnes qui apprennent différemment et les personnes qui ne parlent pas couramment la langue.
 
-Accessible presentations also have additional benefits, such as in these situations:
+Les présentations accessibles présentent aussi d'autres avantages, comme dans ces situations :
 
--  A live presentation with visuals is recorded and made available online as an audio podcast. During the presentation you describe the visuals. That provides the visual information to people who are blind or can't see the visuals well during the presentation. People listening to the podcast later will also get the visual information.
--  [CART](#cart){:.termref} provides real-time text of the speaker and other audio. People who are deaf or hard of hearing use CART. CART also helps people who understand text better than spoken language. For example, people whose native language is different. CART output can also be used to develop a transcript.
--  Transcripts online can increase search engine optimization (SEO) for audio and video. [Transcripts also have many other benefits {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+-  Une présentation en direct est enregistrée et rendue disponible en ligne sous la forme d'un podcast audio. Pendant la présentation, vous décrivez des images, ce qui permet de fournir les informations visuelles aux personnes aveugles ou qui ne peuvent pas voir correctement les images durant la présentation. Les personnes qui écoutent le podcast plus tard auront également accès l'information visuelle.
+-  [CART](#cart){:.termref} fournit une transcription en temps réel de ce que dit l'orateur et des autres éléments audios. Les personnes sourdes ou malentendantes utilisent l'outil CART. Il aide aussi les personnes qui ont une meilleure compréhension de l'information écrite que l'oral. Par exemple, les personnes dont la langue maternelle est différente. CART peut aussi servir à rédiger une transcription.
+-  Les transcription en ligne peuvent améliorer l'optimisation pour les moteurs de recherche (SEO) pour les contenus audios et vidéos. [Les transcriptions présentent aussi de nombreux autres avantages {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
-For additional benefits of making online material accessible, see [[The Business Case for Digital Accessibility]](/business-case/).
+Pour connaître les autres avantages relatifs à l'accessibilité de vos ressources en ligne, obtenez plus d'informations sur [[Le cas d'affaire pour l'accessibilité numérique]](/business-case/).
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Planning the Event (organizers)
+## Organisation de l'événement (organisateurs)
 {% include_cached excol.html type="middle" %}
 
-### Ask speakers and participants if they have accessibility requirements
+### Demandez aux intervenants et aux participants s'ils ont des besoins en matière d'accessibilité
 
-For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
+Par exemple, prévoyez une question dans les formulaires d'inscription pour vos conférences, envoyez un e-mail aux participants à la formation au sein de l'entreprise, etc. Invitez les participants à faire part de leurs besoins spécifiques. Par exemple, une personne malentendante pourrait demander à ce que des petits groupes soient placés en cercle pour entendre plus facilement ce qui est dit. Ou bien une personne malvoyante pourrait demander de s'asseoir au premier rang pour mieux voir l'écran.
 
-### Ensure the facility and area is accessible to speakers and participants
+### Veillez à ce que l'établissement et ses alentours soient accessibles aux intervenants et aux participants
 
-For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
+Par exemple, assurez-vous que l'entrée du bâtiment, la salle de réunion, la scène pour la présentation, et les toilettes soient accessibles. (Il existe des checklists en ligne pour vérifier l'accessibilité d'un établissement, telles que la [checklist pour l'accessibilité des installations existantes {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Fournissez des informations sur l'accessibilité, telles que des trajets accessibles entre les salles de réunions. Permettez aux intervenants et aux participants de proposer à l'avance un positionnement optimal de l'intervenant, de l'écran, du public, etc.
 
-### Ensure adequate sound system, and arrange for microphones
+### Assurez un système de sonorisation adéquat et prévoyez des micros.
 
-Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
+Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'otateur de se déplacer. Lorsque des personnes dans le public commenteront ou poseront des questions, fournissez-leur des micros.
 
-### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
+### Assurez une bonne visibilité des intervenants et des [interprètes](#terps){:.termref}
 
-Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
+Illuminez correctement leur visage et le haut du corps. Évitez les arrière-plans distrayants, tels qu'un rayon lumineux ou une lumière clignotante.
 
-### Arrange for [ALDs/hearing loops](#ald){:.termref}, [interpreters](#terps){:.termref}, and/or [CART](#cart){:.termref} writers, as needed
+### Prévoyez des [assistants d'écoute/BIM (Boucles à induction magnétiques](#ald){:.termref}, [interprètes](#terps){:.termref}, et/ou éventuellement des rédacteurs de [CART](#cart){:.termref}
 
-*(Assistive listening devices ([ALDs](#ald){:.termref}), hearing loops, or induction loops; and Computer Aided Real–Time Captioning or Communication Access Realtime Translation ([CART](#cart){:.termref}) are explained in the [Terminology](#terms) section.)*
+*(Les assistants d'écoute ([ALDs](#ald){:.termref}), les BIM, ou Boucles à induction magnétique; et le sous-titrage automatique en temps réel ou la communication accessible par la traduction en temps réel ([CART](#cart){:.termref}) sont expliqués dans la section [Terminologie](#terms).)*
 
-Work with participants and service providers to ensure that important details are taken care of. For example, power and a screen are provided for CART. Or microphones and the speakers' computer sound output is connected to the [ALD/hearing loop](#ald){:.termref} system.
+Travaillez avec les participants et les fournisseurs des différents services pour veiller à ce que les détails importants soient pris en compte. Par exemple, pour le système CART, une prise et un écran sont à prévoir, ou le micro et les haut-parleurs de l'ordinateur de l'intervenant doivent être connectés aux [assistants d'écoute/BIM](#ald){:.termref}.
 
-### Arrange for good Internet connection when needed
+### Assurez une bonne connection Internet lorsque nécessaire
 
-Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [CART](#cart){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
+Parfois, vous pourriez utiliser Internet pour fournir votre contenu sous d'autres formats pendant la présentation. Par exemple, en permettant aux participants l'utilisation des lecteurs d'écran ou d'autres [technologies d'assistance](#terms){:.termref} pour suivre la présentation au moyen d'une version en ligne de votre contenu affiché. Pour un système [CART](#cart){:.termref} à distance, vous aurez besoin d'une bonne connection qui dispose d'un débit suffisant pour le transfert audio.
 
-### Consider accessibility when planning the schedule
+### Tenez compte de l'accessibilité au moment de prévoir les horaires
 
-Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+Certaines personnes ont besoin de plus de temps pour se rendre d'une salle à une autre. Par exemple, parce qu'elles se déplacent lentement, ou parce que le trajet accessible est plus long. Prévoyez des pause en suffisance. Certaines personnes pourraient avoir besoin de soins médicaux durant les pauses. Respectez autant que possible les horaires fixés, et informez en avance les participants en cas de changement.
 
-### Give speakers accessibility requirements and guidance
+### Donnez aux intervenants les exigences et les conseils en matière d'accessibilité
 
-Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
+Prévenez les intervenants que vous attendez que leurs contenus et leurs présentations soient accessibles aux personnes handicapées. Pensez à inclure les exigences en matières d'accessibilité dans vos contrats. Pensez également à inclure des liens vers cette page (www.w3.org/WAI/training/accessible) dans les conseils, les e-mails, les pages Web, etc. à l'intention des intervenants.
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Provide Accessible Material and Media (organizers & speakers)
+## Fournissez des ressources et des contenus multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Offer handouts, slides, and other material in accessible formats
+### Fournissez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
 
-Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de contenus aux formats divers tels que des caractères imprimés pour grands ou du braille. S'ils ont accès au contenu de manière électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
 
-### Ensure slides, handouts, and other electronic material for participants is accessible
+### Assurez l'accessibilité des diapositives, des supports papier, et d'autres contenus électroniques pour les participants
 
-For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/standards-guidelines/wcag/), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
+Par exemple, fournissez un texte équivalent pour les images et des titres. Le contenu HTML, tel qu'un site Web de conférence, devrait pouvoir atteindre le niveau AA des [WCAG](/standards-guidelines/wcag/), ([Préparation de diapositives et de contenu projeté](#slides) ci-dessous fournit des détails pour les intervenants. D'autres ressources sont listées dans la section [Pour plus d'informations](#fyi) ci-dessous)
 
-### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
+### Rendre les contenus multimédias entièrement accessibles — y compris les contenus audios et vidéos utilisés lors des séances, et les enregistrements des séances fournis après
 
-For example, provide captions and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+Par exemple, fournissez des sous-titres et/ou des transcriptions pour le contenu audio, et fournissez une audiodescription de informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **obtenez plus d'informations sur [[Rendre les contenus audios et vidéos accessibles]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
-## Planning Your Session (speakers)
+## Organisation de votre séance (intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Provide material ahead of time, if requested
+### Fournissez les contenus à l'avance, si besoin
 
-Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, translators, and [CART](#cart){:.termref} writers, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
+Fournissez les diapositives, les supports papier, et les autres contenus aux participants, aux [interprètes](#terps){:.termref}, aux traducteurs, et aux rédacteurs de [CART](#cart){:.termref}, si besoin. Rendez-les accessibles. (Retrouvez plus d'informations sur [fournir des contenus accessibles](#material) ci-dessous.)
 
-### Work with [interpreters](#terps){:.termref}, translators, and [CART](#cart){:.termref} writers
+### Travaillez avec des [interprètes](#terps){:.termref}, des traducteurs, et des rédacteurs, et des rédacteurs de [CART](#cart){:.termref}
 
-Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
+Donnez-leur le contenu à l'avance. Expliquez les acronymes, les termes, les noms, etc. que vous allez utiliser. Soyez disponibles pour répondre à leurs questions.
 
-### Caption audio, or otherwise make it available
+### Sous-titres du contenu audio, ou le rendre disponible autrement
 
-Ideally, any audio you use is also available in text, for example, videos are captioned. However, if [CART](#cart){:.termref} is provided for your presentation, that can provide text of the audio.
+Idéalement, tout contenu audio que vous utilisez est disponible sous forme de texte, par exemple, les vidéos sont sous-titrées. Cependant, si le système [CART](#cart){:.termref} est fourni pour votre présentation, cela vous procure le texte pour votre contenu audio.
 
-### Consider activities
+### N'oubliez pas les activités
 
-Remember potential accessibility issues with any participant activities. For example, responding to questions, arranging sticky notes, small group projects, etc.
+Pensez aux éventuelles questions d'accessibilité pour les activités incluant les participants. Par exemple, répondre aux questions, prévoir des post-it, des projets en petits groupes, etc.
 
-### Use multiple communication methods for different learning styles
+### Utilisez diverses méthodes de communication pour différents styles d'apprentissage
 
-Some people can better understand verbal information. Other people can better understand pictures and diagrams. And others better understand text.
+Certaines personnes ont une meilleure compréhension de l'information verbale. D'autres la comprennent mieux avec des images et des diagrammes. D'autres encore ont plus de facilité avec l'information écrite.
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
-## Preparing Slides and Projected Material (speakers)
+## Préparation des diapositives et du contenu projeté (intervenants)
 {% include_cached excol.html type="middle" %}
-### Make text and important visuals big enough to be read even from the back of the room.
+### Choisissez une taille pour le texte et les images importantes suffisamment grande pour les rendre visibles même du fond de la pièce.
 
-This includes graphics on slides, videos, posters, and other non-electronic material.
+Cela comprend les graphiques sur les diapositives, les vidéos, les affiches, et d'autres contenus non électroniques.
 
-### Use an easy-to-read font face
+### Utilisez une police facile à lire
 
-Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
+Les polices simples d'une épaisseur constante sont souvent plus faciles à lire de loin. Les polices qui rendent certaines lettres fines sont plus difficilement lisibles. Évitez les polices fantaisies difficiles à lire.
 
-### Use sufficient contrast between colors ("luminance contrast")
+### Utilisez un contraste suffisant entre les couleurs ("contraste de luminance")
 
-This includes contrast between text and background colors, and between colors in graphs.
-There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Understanding contrast guidance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) and [contrast evaluation tools](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
-Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
-Ensure that the weight of text is sufficient (for example, bold).
+Cela comprend le contraste entre les couleurs du texte et d'arrière-plan, et entre les couleurs dans les graphiques.
+Il existe des conseils pour les pages Web que vous peuvent vous aider à déterminer un contraste suffisant &mdash; même si le support est différent. Obtenez plus d'informations sur [Comprendre : conseils pour le contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) et [les outils d'évaluation du contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
+Utilisez des couleurs d'arrière-plan et de texte appropiées. Il serait conseillé d'afficher un texte sombre sur un fond clair si la pièce est claire, et d'afficher un texte clair sur un fond sombre si la pièce est sombre.
+Veillez à ce que le poids du texte est suffisant (par exemple, en gras)
 
-### Consider how to use motion or animations
+### Réfléchissez à la manière d'utiliser le mouvement ou les animations
 
-This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
+Cela comprend le texte ou les images qui surgissent par le côté. Le mouvement rend-il l'information plus facile à comprendre, ou est-il inutile ? Certains types de mouvements peuvent être particulièrement distrayants pour certains, et peut rendre certaines personnes malades.
 
-### Make provided material accessible {#expres}
+### Rendez le contenu fourni accessible {#expres}
 
-If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
+Si vous donnez du contenu aux participants, rendez-le accessible. obtenez plus d'informations sur [Fournir du contenu accessible](#material) ci-dessous. Vous trouverez un [exemple de contenu de présentation fourni à la fois dans le format de la présentation et dans le format Web (HTML et CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) en cliquant sur le lien situé en haut de la page après "La présentation des avantages des WCAG 2 est disponible dans 3 formats :".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
-## During the Presentation (speakers)
+## Pendant la présentation (intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Speak clearly
+### Parlez distinctement
 
-And avoid speaking too fast, so participants and sign language interpreters can better understand you and keep up.
+Évitez également de parler trop vite, pour pemettre aux participants et aux interprètes en langue des signes de mieux vous comprendre et de suivre.
 
-### Use simple language
+### Utilisez un langage simple
 
-Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing.
+Évitez ou expliquez le jargon, les acronymes, et les expressions idiomatiques. Par exemple, des expressions telles que "mettre la barre plus haut" peuvent être interprétées littéralement par certaines personnes présentant des troubles cognitifs et peut être déroutant.
 
-### Give people time to process information
+### Donnez à votre public le temps d'intégrer l'information
 
-Pause between topics. When you ask if anyone has questions, some people with cognitive disabilities will need extra time to form their thoughts into words.
+Faites une pause entre les sujets. Lorsque vous demandez si quelqu'un a une question, certaines personnes porteuses de troubles cognitifs auront besoin de plus de temps pour mettre des mots sur leurs pensées.
 
-### Be visible
+### Soyez visible
 
-Be visible and in good light when you talk, so participants can see your face. This helps some people hear and understand better. Be careful not to face away from the audience to read projected material, particularly if you don't have a microphone.
+Soyez visible et bien éclairé lorsque vous parlez, afin que les participants puissent voir votre visage. Cela permet à certaines personnes de mieux entendre et comprendre. Veillez à ce que votre visage soit toujours visible par le public en lisant le contenu projeté, en particulier si vous n'avez pas de micro.
 
-### Use a microphone {#usemic}
+### Utilisez un micro {#usemic}
 
-Some people might need the audio electronically, even in a small room. This includes people using [ALDs/hearing loops](#ald){:.termref} and remote [CART](#cart){:.termref} writers. Note that if you ask "Can everyone hear me OK?" some people might be uncomfortable saying that they cannot.
+Certaines personnes pourraient avoir besoin du contenu audio au format électronique, même dans une petite salle. Cela inclut les personnes qui utilisent les [assistants d'écoute/BIM](#ald){:.termref} et les rédacteurs [CART](#cart){:.termref} à distance. Notez que si vous demandez "Tout le monde m'entend bien ?", certaines personnes pourraient se sentir mal à l'aise en disant qu'elles ne peuvent pas.
 
-### Ensure that all relevant sound is audible through the sound system.
+### Veillez à ce que tout le contenu sonore pertinent soit audible par le système de sonorisation
 
-For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+Par exemple, si le public ne dispose pas de micro, répétez leurs questions et leurs commentaires dans votre micro avant de répondre.
 
-### Cover all displayed text {#visuals}
+### Reprenez tout le texte affiché {#visuals}
 
-Say all of the information that is on each slide. (This does not mean that you have to read the slide exactly as it is. It just means that you cover the visual information in what you say.)
+Dites toute l'information présente sur chaque diapositive. (Ce qui ne signifie pas que vous devez dire exactement tout ce qui est écrit. Cela veut simplement dire que vous devez reprendre les informations visuelles dans ce que vous dites.)
 
-### Describe pertinent parts of graphics, videos, and other visuals
+### Décrivez les parties importantes des graphiques, des vidéos et des autres images
 
-Describe them to the extent needed to understand the presentation. (You usually do not need to describe decorative images.)
+Décrivez-les dans la mesure nécessaire pour comprendre la présentation (Vous n'avez généralement pas besoin de décrire les images décoratives.)
 
-### Describe other visual information
+### Décrivez les autres informations visuelles
 
-For example, a speaker asks people to raise their hands if they make their websites fully accessible. The speaker should then describe the visual response: "About half raised their hand".
+Par exemple, un orateur demande au public de lever les mains s'ils rendent leur site Web entièrement accessible. L'orateur doit alors décrire la réponse visuelle : "Environ la moitié du public a levé la main".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
-## For More Information (speakers & organizers)
+## Pour plus d'informations (intervenants et organisateurs)
 {% include_cached excol.html type="middle" %}
-This web page addresses in-person sessions. There are additional considerations for online, remote, and virtual sessions.
+Cette page Web concerne les séances en personne. Vous trouverez également des considératios concernant les séances en ligne, à distance, et virtuelles.
 
-For detailed guidance on **making multimedia accessible, see**:
--  **[[Making Audio and Video Media Accessible]](/media/av/)**
+Pour des informations détaillées sur comment For detailed guidance on **rendre vos contenus multimédias accessibles, allez sur la page**:
+-  **[[Rendre du contenu audio et vidéo accessible]](/media/av/)**
 
-**Details on how to make material that you give to participants accessible is beyond the scope of this document.**
+**Retrouvez plus de détails encore sur comment rendre les contenus que vous donnez aux participants accessibles dans d'autres ressources**
 
-There are resources online that provide related guidance, such as:
+Il existe des ressources en ligne qui fournissent des conseils en matière de contenus accessibles pour les présentations, telles que :
 
--  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) links to Authoring Techniques for Accessible Office Documents, including for word processing and presentation applications
--  [Planning an Accessible Conference {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
--  [Interacting with People with Disabilities {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
+-  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) renvoie à des techniques de création de documents de bureau accessibles, y compris pour les applications de traitement de texte et de présentation
+-  [Organiser une conférence accessible {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
+-  [Interagir avec des personnes en situation de handicap {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
-Information on web accessibility:
+Informations sur l'accessibilité Web :
 
--  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
--  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
--  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
+-  [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/) - introduit brièvement l'accessibilité Web et renvoie à plus de ressources.
+-  [[Vue d'ensemble des Règles pour l'accessibilité des contenus Web (WCAG)]](/standards-guidelines/wcag/) - introduit des recommandation en matière d'accessibilité pour les contenus Web. Cela comprend les contenus pour les présentations, l'apprentissage en ligne, et d'autres contenu fournis dans un format Web.
+-  [Page d'accueil du Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) - renvoie à des recommandations/standards et à un large éventail de [contenus d'aide](http://www.w3.org/WAI/yourWAI).
 
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="terms" %}
-## Terminology (appendix)
+## Terminologie (annexe)
 {% include_cached excol.html type="middle" %}
 
-<span id="at">assistive technologies</span>
-:  Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as
-  **screen readers** that read aloud web pages for people who cannot read text, **screen magnifiers** for people with some types of low vision, and **voice recognition software** and **selection switches** for people who cannot use a keyboard or mouse.
+<span id="at">technologies d'assistance</span>
+:  Les technologies d'assistance sont des logiciels ou des équipements utilisés par les personnes handicapées pour améliorer l'interaction avec le Web, tels que les
+  **lecteurs d'écran** qui lisent à voix haute les pages Web pour les personnes qui ne peuvent pas lire le texte, les **agrandisseurs d'écran** pour les personnes malvoyantes, les **logiciels de reconnaissance vocale** et les **contrôles de sélection** poiur les personnes qui ne peuvent pas utiliser un clavier ou une souris.
 
-<span id="ald">ALDs, hearing loops, induction loops</span>
-:  Assistive listening devices (ALDs), hearing loops, and induction loops amplify sound from the speaker's microphone.
+<span id="ald">assistants d'écoute, BIM, boucle à induction magnétique</span>
+:  les assistants d'écoute, les BIM, et les boucles à induction magnétique amplifient le son du micro de l'intervenant.
 
 <span id="cart">CART</span>
-:  CART, Computer Aided Real–Time Captioning or Communication Access Realtime Translation, is when a professional types what is being  said verbatim so that people can read the text output.
+:  dans le système CART, sous-titrage automatique en temps réelle ou communication accessible par la traduction en temps réel, un professionnel tape ce qui est dit mot pour mot afin que les personnes puissent lire le texte.
 
-<span id="terps">interpreters</span>
-:  This includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
+<span id="terps">interprètes</span>
+:  Ce terme inclut à les interprètes en langue des signes, les traducteurs de conférence, et d'autres encore. À savoir que les langues des signes sont différentes des langues parlées et qu'il ne s'agit pas de traduction littérale.
 
 {% include_cached excol.html type="end" %}
 
