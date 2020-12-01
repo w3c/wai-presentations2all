@@ -205,7 +205,7 @@ This includes text or images flying in from the side. Will the motion make the i
 
 ### Make provided material accessible {#expres}
 
-If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 2 formats:".
+If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 3 formats:".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
