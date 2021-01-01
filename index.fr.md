@@ -1,17 +1,15 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: "Comment rendre vos présentations accessibles à tous"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Rendre vos présentations accessibles"   # A short title that is used in the navigation
+title: "Des présentations accessibles à tous"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Des présentations accessibles"   # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "Translator Name Here"
-Translators:
--name: Sofia Ahmed
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
+last_updated: 2020-12-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators: #Add one -name: line for every translator
+- name: "Sofia Ahmed"
+contributors: #Add one -name: line for every contributor
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 permalink: /teach-advocate/accessible-presentations/fr   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
 ref: /teach-advocate/accessible-presentations/   # Do not change this
 layout: default
@@ -21,7 +19,7 @@ github:
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date :</strong> Mise à jour : 17 novembre 2020. Première publication : mai 2010.</p>
-  <p><strong>Auteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributeurs : <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> et <a href="https://www.w3.org/groups/wg/eowg/participants">les participants au EOWG</a>.</p>
+  <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributeurs : <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> et <a href="https://www.w3.org/groups/wg/eowg/participants">les participants au EOWG</a>.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Développé avec des membres du <a href="http://www.w3.org/WAI/WAI-AGE/"> projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
@@ -31,13 +29,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ---
 
 **Cela vous est-il déjà arrivé que tout le monde autour de vous éclate de rire, sans que vous n'ayez entendu la blague ? <br>
-Veillez à ne laisser aucun de vos auditeurs sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
+Veillez à ne laisser personne dans votre public sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-Cette page vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à tous les auditeurs de votre public potentiel, y compris les personnes handicapées et autres. Les présentations inclusives présentent <a href="#benefits">de nombreux avantages</a>.
+Cette page vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à toutes les personnes qui composeront votre public potentiel, y compris les personnes handicapées, entre autres. Les présentations inclusives présentent <a href="#benefits">de nombreux avantages</a>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -62,7 +60,7 @@ Cette page vous aide à rendre vos présentations, vos conférences, vos réunio
 ## Les fondamentaux (pour les organisateurs et les intervenants)
 {% include_cached excol.html type="middle" %}
 
-Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscients qu'une partie de votre public pourrait ne pas être capable de :
+Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
 
 -  **voir** correctement ou pas du tout,
 -  **entendre** correctement ou pas du tout,
@@ -70,15 +68,15 @@ Soyez ouvert à la diversité de votre public et à toute question d'accessibili
 -  **parler** correctement ou pas du tout,
 -  **comprendre** les informations telles qu'elles sont présentées correctement ou pas du tout.
 
-Les organisateurs et les intervenants devraient faire en sorte de :
--  veiller à ce que l'établissement soit accessible
--  parler clairement dans le micro
--  décrire les images importantes
--  prendre en compte les différentes considérations listées sur cette page
+Les organisateurs et les intevenants doivent :
+-  s'assurer que les installations sont accessibles
+-  parler distinctement dans le micro
+-  décrire les images pertinentes
+-  et prendre en considération les autres éléments listés sur cette page
 
-**Respectez les besoins des participants** et soyez ouverts à d'autres questions d'accessibilité. Il est possible que certaines personnes aient des besoins en matière d'accessibilité auxquels vous n'avez pas pensés. Par exemple : des personnes pourraient avoir besoin de pauses à des moments précis pour leurs injections d'insuline. Des personnes porteuses du syndrome de la Tourette pourraient subitement crier pendant la séance. Ou bien des personnes porteuses de handicap physique incapables de prendre des notes pourraient avoir besoin d'enregistrer la séance.
+**Respectez les besoins des participants** et soyez ouvert à d'autres questions d'accessibilité. Il est possible que certaines personnes aient des besoins en matière d'accessibilité auxquels vous n'aviez pas pensés. Par exemple : des personnes pourraient avoir besoin de pauses à des moments précis pour leurs injections d'insuline. Des personnes porteuses du syndrome de la Tourette pourraient subitement crier pendant la séance. Ou bien des personnes porteuses de handicaps physiques incapables de prendre des notes pourraient avoir besoin d'enregistrer la séance.
 
-Fréquemment, les intervenants ne sauront pas si des participants se trouvent en situation de handicap. Par exemple, lors d'une grande conférence où les orgnisateurs n'ont pas demandé aux participants de s'inscrire. Dans certains cas, vous pourriez savoir les besoins des participants en matière d'accessibilité en avance. Mais vous pourriez tout de même vous retrouvez face à des changements. Par exemple, un nouveau participant a pu venir à la formation en toute dernière minute. Ou quelqu'un pourrait avoir de nouveaux besoins en matière d'accessibilité juste avant la formation.
+Fréquemment, les intervenants ne sauront pas si des participants se trouvent en situation de handicap. Par exemple, lors d'une conférence de grande envergure où les orgnisateurs n'ont pas demandé aux participants de s'inscrire. Dans certains cas, vous pourriez connaître les besoins des participants en matière d'accessibilité à l'avance. Mais vous pourriez tout de même vous retrouvez face à des changements. Par exemple, un nouveau participant a pu venir à la formation en toute dernière minute. Ou quelqu'un pourrait avoir de nouveaux besoins en matière d'accessibilité juste avant la formation.
 
 Rendez vos événements et vos présentations accessibles de manière à vous préparer à de telles situations.
 
@@ -88,15 +86,17 @@ Rendez vos événements et vos présentations accessibles de manière à vous pr
 ## Avantages (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-Les présentations accessibles aux personnes en situation de handicap permettent d'**inclure** bon nombre d'autres participants. Par exemple, les personnes qui apprennent différemment et les personnes qui ne parlent pas couramment la langue.
+Les présentations accessibles aux personnes en situation de handicap permettent d'**inclure** bon nombre d'autres publics. Par exemple, les personnes dont les méthodes d'apprentissage diffèrent et les personnes qui ne parlent pas couramment la langue.
 
-Les présentations accessibles présentent aussi d'autres avantages, comme dans ces situations :
+Les présentations accessibles présentent aussi d'autres avantages pour les organisations et les particuliers.
 
--  Une présentation en direct est enregistrée et rendue disponible en ligne sous la forme d'un podcast audio. Pendant la présentation, vous décrivez des images, ce qui permet de fournir les informations visuelles aux personnes aveugles ou qui ne peuvent pas voir correctement les images durant la présentation. Les personnes qui écoutent le podcast plus tard auront également accès l'information visuelle.
--  [CART](#cart){:.termref} fournit une transcription en temps réel de ce que dit l'orateur et des autres éléments audios. Les personnes sourdes ou malentendantes utilisent l'outil CART. Il aide aussi les personnes qui ont une meilleure compréhension de l'information écrite que l'oral. Par exemple, les personnes dont la langue maternelle est différente. CART peut aussi servir à rédiger une transcription.
--  Les transcription en ligne peuvent améliorer l'optimisation pour les moteurs de recherche (SEO) pour les contenus audios et vidéos. [Les transcriptions présentent aussi de nombreux autres avantages {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+Par exemple, dans cette situation, une présentation en direct avec des diapositives est enregistrée et rendue disponible en ligne sous forme de podcast audio :
 
-Pour connaître les autres avantages relatifs à l'accessibilité de vos ressources en ligne, obtenez plus d'informations sur [[Le cas d'affaire pour l'accessibilité numérique]](/business-case/).
+-   Le présentateur décrit les informations visuelles importantes contenues dans les diapositives pendant la présentation. Cela permet de fournir les informations visuelles aux personnes aveugles ou qui ne peuvent pas voir correctement les diapositives durant la présentation. Les personnes qui écoutent le podcast plus tard auront également accès l'information visuelle qui a été décrite, même si elles n'ont pas accès à la vidéo.
+-   Lors de la présentation, un sous-titreur professionnel transcrit ce qui est dit. Les personnes sourdes ou malentendantes lisent les sous-titres. Ceux-ci sont également utiles aux personnes qui ont une meilleure compréhension du texte écrit que du langage parlé. Par exemple, les personnes dont ce n'est pas la langue maternelle. Plus tard, les sous-titres émis en direct sont utilisés pour créer une transcription textuelle de la présentation.
+-   Cette transcription est mise en ligne et permet d'améliorer l'optimisation pour les moteurs de recherche (SEO) de la présentation, du podcast, et du site Web.
+
+Pour connaître les autres avantages d'un contenu multimédia accessible, allez sur [Avantages pour les organisations et les particuliers, dans Des contenus audios et vidéos accessibles](/media/av/#benefits) et [Avantages des transcriptions {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
 {% include_cached excol.html type="end" %}
 
@@ -106,55 +106,56 @@ Pour connaître les autres avantages relatifs à l'accessibilité de vos ressour
 
 ### Demandez aux intervenants et aux participants s'ils ont des besoins en matière d'accessibilité
 
-Par exemple, prévoyez une question dans les formulaires d'inscription pour vos conférences, envoyez un e-mail aux participants à la formation au sein de l'entreprise, etc. Invitez les participants à faire part de leurs besoins spécifiques. Par exemple, une personne malentendante pourrait demander à ce que des petits groupes soient placés en cercle pour entendre plus facilement ce qui est dit. Ou bien une personne malvoyante pourrait demander de s'asseoir au premier rang pour mieux voir l'écran.
+Par exemple, prévoyez une question dans les formulaires d'inscription pour vos conférences, envoyez un e-mail aux participants à des formations données au sein de votre entreprise, etc. Invitez les participants à faire part de leurs besoins spécifiques. Par exemple, une personne malentendante pourrait demander à ce que des petits groupes soient placés en cercle pour entendre plus facilement ce qui est dit. Ou bien une personne malvoyante pourrait demander de pouvoir s'asseoir au premier rang pour mieux voir l'écran.
 
-### Veillez à ce que l'établissement et ses alentours soient accessibles aux intervenants et aux participants
+### Veillez à ce que le bâtiment et ses alentours soient accessibles aux intervenants et aux participants
 
-Par exemple, assurez-vous que l'entrée du bâtiment, la salle de réunion, la scène pour la présentation, et les toilettes soient accessibles. (Il existe des checklists en ligne pour vérifier l'accessibilité d'un établissement, telles que la [checklist pour l'accessibilité des installations existantes {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Fournissez des informations sur l'accessibilité, telles que des trajets accessibles entre les salles de réunions. Permettez aux intervenants et aux participants de proposer à l'avance un positionnement optimal de l'intervenant, de l'écran, du public, etc.
+Par exemple, assurez-vous que l'entrée du bâtiment, la salle de réunion, la scène où se déroulera la présentation, et les toilettes soient accessibles. (Il existe des checklists en ligne pour vérifier l'accessibilité d'un bâtiment, telles que la [checklist pour l'accessibilité des installations existantes {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Fournissez des informations sur l'accessibilité, telles que des trajets accessibles entre les salles de réunion. Permettez aux intervenants et aux participants de proposer à l'avance un positionnement optimal de l'intervenant, de l'écran, du public, etc.
 
 ### Assurez un système de sonorisation adéquat et prévoyez des micros.
 
-Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'otateur de se déplacer. Lorsque des personnes dans le public commenteront ou poseront des questions, fournissez-leur des micros.
+Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'intervenant de se déplacer. Lorsque des personnes du public commenteront ou poseront des questions, fournissez-leur des micros.
 
 ### Assurez une bonne visibilité des intervenants et des [interprètes](#terps){:.termref}
 
-Illuminez correctement leur visage et le haut du corps. Évitez les arrière-plans distrayants, tels qu'un rayon lumineux ou une lumière clignotante.
+Éclairez correctement leur visage et le haut du corps. Évitez les arrière-plans distrayants, tels qu'un rayon lumineux ou une lumière clignotante.
 
-### Prévoyez des [assistants d'écoute/BIM (Boucles à induction magnétiques](#ald){:.termref}, [interprètes](#terps){:.termref}, et/ou éventuellement des rédacteurs de [CART](#cart){:.termref}
+### Prévoyez des assistants d'écoute (par exemple, des boucles à induction magnétique), des interprètes, et des sous-titreurs, si besoin
 
-*(Les assistants d'écoute ([ALDs](#ald){:.termref}), les BIM, ou Boucles à induction magnétique; et le sous-titrage automatique en temps réel ou la communication accessible par la traduction en temps réel ([CART](#cart){:.termref}) sont expliqués dans la section [Terminologie](#terms).)*
+*(Les assistants d'écoute(#ald){:.termref}), les [interprètes](#terps){:.termref}, et les ([sous-titreurs](#captions){:.termref}) sont expliqués dans la section [Terminologie](#terms).)*
 
-Travaillez avec les participants et les fournisseurs des différents services pour veiller à ce que les détails importants soient pris en compte. Par exemple, pour le système CART, une prise et un écran sont à prévoir, ou le micro et les haut-parleurs de l'ordinateur de l'intervenant doivent être connectés aux [assistants d'écoute/BIM](#ald){:.termref}.
+Travaillez avec les participants et les fournisseurs des différents services pour veiller à ce que les détails importants soient pris en compte. Par exemple, un sous-titreur à distance peut entendre le contenu audio clairement, un sous-titreur en présentiel dispose des connections nécessaires, un écran est fourni pour permettre aux intervenants de lire les sous-titres, ou les micros et les haut-parleurs de l'ordinateur de l'intervenant sont connectés aux assistants d'écoute.
+
 
 ### Assurez une bonne connection Internet lorsque nécessaire
 
-Parfois, vous pourriez utiliser Internet pour fournir votre contenu sous d'autres formats pendant la présentation. Par exemple, en permettant aux participants l'utilisation des lecteurs d'écran ou d'autres [technologies d'assistance](#terms){:.termref} pour suivre la présentation au moyen d'une version en ligne de votre contenu affiché. Pour un système [CART](#cart){:.termref} à distance, vous aurez besoin d'une bonne connection qui dispose d'un débit suffisant pour le transfert audio.
+Parfois, vous pourriez utiliser Internet pour fournir votre contenu dans d'autres formats pendant la présentation. Par exemple, en permettant aux participants l'utilisation des lecteurs d'écran ou d'autres [technologies d'assistance](#terms){:.termref} pour suivre la présentation au moyen d'une version en ligne de votre contenu affiché. Pour le [sous-titrage](#captions){:.termref} à distance, vous aurez besoin d'une bonne connection qui dispose d'un débit suffisant pour le transfert audio.
 
 ### Tenez compte de l'accessibilité au moment de prévoir les horaires
 
-Certaines personnes ont besoin de plus de temps pour se rendre d'une salle à une autre. Par exemple, parce qu'elles se déplacent lentement, ou parce que le trajet accessible est plus long. Prévoyez des pause en suffisance. Certaines personnes pourraient avoir besoin de soins médicaux durant les pauses. Respectez autant que possible les horaires fixés, et informez en avance les participants en cas de changement.
+Certaines personnes ont besoin de plus de temps pour se rendre d'une salle à une autre. Par exemple, parce qu'elles se déplacent lentement, ou parce que le trajet accessible est plus long. Prévoyez des pauses en suffisance. Certaines personnes pourraient avoir besoin de soins médicaux durant les pauses. Respectez autant que possible les horaires fixés, et informez à l'avance les participants en cas de changement.
 
-### Donnez aux intervenants les exigences et les conseils en matière d'accessibilité
+### Donnez aux intervenants les recommandations et les conseils en matière d'accessibilité
 
-Prévenez les intervenants que vous attendez que leurs contenus et leurs présentations soient accessibles aux personnes handicapées. Pensez à inclure les exigences en matières d'accessibilité dans vos contrats. Pensez également à inclure des liens vers cette page (www.w3.org/WAI/training/accessible) dans les conseils, les e-mails, les pages Web, etc. à l'intention des intervenants.
+Prévenez les intervenants que leurs contenus et leurs présentations sont censés être accessibles aux personnes handicapées. Pensez à inclure les exigences en matières d'accessibilité dans vos contrats. Pensez également à inclure des liens vers cette page (www.w3.org/WAI/training/accessible) dans les conseils, les e-mails, les pages Web, etc. à l'attention des intervenants.
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Fournissez des ressources et des contenus multimédias accessibles (organisateurs et intervenants)
+## Fournissez des supports papier et multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
 ### Fournissez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
 
-Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de contenus aux formats divers tels que des caractères imprimés pour grands ou du braille. S'ils ont accès au contenu de manière électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
+Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de contenus aux formats divers tels que des gros caractères ou du braille. S'ils ont accès au contenu sous forme électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
 
 ### Assurez l'accessibilité des diapositives, des supports papier, et d'autres contenus électroniques pour les participants
 
-Par exemple, fournissez un texte équivalent pour les images et des titres. Le contenu HTML, tel qu'un site Web de conférence, devrait pouvoir atteindre le niveau AA des [WCAG](/standards-guidelines/wcag/), ([Préparation de diapositives et de contenu projeté](#slides) ci-dessous fournit des détails pour les intervenants. D'autres ressources sont listées dans la section [Pour plus d'informations](#fyi) ci-dessous)
+Par exemple, fournissez un texte équivalent pour les images, et des titres. Le contenu HTML, tel qu'un site Web de conférence, devrait se situer au niveau AA des [WCAG](/standards-guidelines/wcag/). La section ([Préparation des diapositives et des contenus projetés](#slides) ci-dessous fournit plus de détails pour les intervenants. D'autres ressources sont listées dans la section [Pour plus d'informations](#fyi) ci-dessous)
 
-### Rendre les contenus multimédias entièrement accessibles — y compris les contenus audios et vidéos utilisés lors des séances, et les enregistrements des séances fournis après
+### Rendre les contenus multimédias entièrement accessibles — y compris les contenus audios et vidéos utilisés lors des séances, et les enregistrements des séances fournis par la suite
 
-Par exemple, fournissez des sous-titres et/ou des transcriptions pour le contenu audio, et fournissez une audiodescription de informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **obtenez plus d'informations sur [[Rendre les contenus audios et vidéos accessibles]](/media/av/)**.
+Par exemple, fournissez des [sous-titres](#captions){:.termref} et/ou des transcriptions pour le contenu audio, et fournissez une audiodescription des informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **allez sur [[Des contenus audios et vidéos accessibles]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
 ## Organisation de votre séance (intervenants)
@@ -162,50 +163,50 @@ Par exemple, fournissez des sous-titres et/ou des transcriptions pour le contenu
 
 ### Fournissez les contenus à l'avance, si besoin
 
-Fournissez les diapositives, les supports papier, et les autres contenus aux participants, aux [interprètes](#terps){:.termref}, aux traducteurs, et aux rédacteurs de [CART](#cart){:.termref}, si besoin. Rendez-les accessibles. (Retrouvez plus d'informations sur [fournir des contenus accessibles](#material) ci-dessous.)
+Fournissez les diapositives, les supports papier, et les autres contenus aux participants, aux [interprètes](#terps){:.termref}, et aux [sous-titreurs](#captions){:.termref}, si besoin. Rendez-les accessibles. (Retrouvez plus d'informations sur comment [fournir des contenus accessibles](#material) ci-dessous.)
 
-### Travaillez avec des [interprètes](#terps){:.termref}, des traducteurs, et des rédacteurs, et des rédacteurs de [CART](#cart){:.termref}
+### Travaillez avec des [interprètes](#terps){:.termref} et des [sous-titreurs](#captions){:.termref}
 
-Donnez-leur le contenu à l'avance. Expliquez les acronymes, les termes, les noms, etc. que vous allez utiliser. Soyez disponibles pour répondre à leurs questions.
+Donnez-leur le contenu à l'avance. Expliquez les acronymes, les termes, les noms, etc. que vous allez utiliser. Soyez disponible pour répondre à leurs questions.
 
-### Sous-titres du contenu audio, ou le rendre disponible autrement
+### Sous-titrer le contenu audio, ou le rendre disponible autrement
 
-Idéalement, tout contenu audio que vous utilisez est disponible sous forme de texte, par exemple, les vidéos sont sous-titrées. Cependant, si le système [CART](#cart){:.termref} est fourni pour votre présentation, cela vous procure le texte pour votre contenu audio.
+Idéalement, tout contenu audio que vous utilisez est disponible sous forme de texte, par exemple, les vidéos sont [sous-titrées](#captions){:.termref}. Cependant, si vous sous-titrez votre présentation, ce texte sera applicable à votre contenu audio.
 
 ### N'oubliez pas les activités
 
-Pensez aux éventuelles questions d'accessibilité pour les activités incluant les participants. Par exemple, répondre aux questions, prévoir des post-it, des projets en petits groupes, etc.
+Pensez aux éventuelles questions d'accessibilité pour les activités incluant les participants. Par exemple, répondre aux questions, prévoir des post-it, créer des projets en petits groupes, etc.
 
-### Utilisez diverses méthodes de communication pour différents styles d'apprentissage
+### Utilisez diverses méthodes de communication pour différents types d'apprentissage
 
-Certaines personnes ont une meilleure compréhension de l'information verbale. D'autres la comprennent mieux avec des images et des diagrammes. D'autres encore ont plus de facilité avec l'information écrite.
+Certaines personnes ont une meilleure compréhension de l'information orale. D'autres personnes la comprennent mieux avec des images et des diagrammes. D'autres encore ont plus de facilité avec l'information écrite.
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
-## Préparation des diapositives et du contenu projeté (intervenants)
+## Préparation des diapositives et des contenus projetés (intervenants)
 {% include_cached excol.html type="middle" %}
 ### Choisissez une taille pour le texte et les images importantes suffisamment grande pour les rendre visibles même du fond de la pièce.
 
-Cela comprend les graphiques sur les diapositives, les vidéos, les affiches, et d'autres contenus non électroniques.
+Cela comprend les graphiques sur les diapositives, les vidéos, les affiches, et les autres contenus non électroniques.
 
 ### Utilisez une police facile à lire
 
-Les polices simples d'une épaisseur constante sont souvent plus faciles à lire de loin. Les polices qui rendent certaines lettres fines sont plus difficilement lisibles. Évitez les polices fantaisies difficiles à lire.
+Les polices simples d'une épaisseur constante sont souvent plus faciles à lire de loin. Les polices qui s'affinent sur certaines parties des lettres sont plus difficilement lisibles. Évitez les polices fantaisies difficiles à lire.
 
 ### Utilisez un contraste suffisant entre les couleurs ("contraste de luminance")
 
-Cela comprend le contraste entre les couleurs du texte et d'arrière-plan, et entre les couleurs dans les graphiques.
-Il existe des conseils pour les pages Web que vous peuvent vous aider à déterminer un contraste suffisant &mdash; même si le support est différent. Obtenez plus d'informations sur [Comprendre : conseils pour le contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) et [les outils d'évaluation du contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
-Utilisez des couleurs d'arrière-plan et de texte appropiées. Il serait conseillé d'afficher un texte sombre sur un fond clair si la pièce est claire, et d'afficher un texte clair sur un fond sombre si la pièce est sombre.
-Veillez à ce que le poids du texte est suffisant (par exemple, en gras)
+Cela inclut le contraste entre les couleurs du texte et d'arrière-plan, et entre les couleurs dans les graphiques.
+Il existe des conseils pour les pages Web qui vous peuvent vous aider à déterminer un contraste suffisant &mdash; même si le medium est différent. Obtenez plus d'informations sur [Comprendre les recommandations liées au contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) et [les outils d'évaluation du contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
+Utilisez des couleurs d'arrière-plan et de texte adéquates. Certains conseillent d'afficher un texte sombre sur un fond clair si la pièce est claire, et d'afficher un texte clair sur un fond sombre si la pièce est sombre.
+Veillez à ce que la graisse du texte soit suffisante (par exemple, en gras)
 
-### Réfléchissez à la manière d'utiliser le mouvement ou les animations
+### Réfléchissez à la manière d'utiliser les déplacements ou les animations
 
-Cela comprend le texte ou les images qui surgissent par le côté. Le mouvement rend-il l'information plus facile à comprendre, ou est-il inutile ? Certains types de mouvements peuvent être particulièrement distrayants pour certains, et peut rendre certaines personnes malades.
+Cela comprend le texte ou les images qui surgissent par le côté. Le déplacement rend-il l'information plus facile à comprendre, ou est-il inutile ? Certains types de mouvements peuvent être particulièrement distrayants pour certains, et peuvent rendre malades certaines personnes.
 
 ### Rendez le contenu fourni accessible {#expres}
 
-Si vous donnez du contenu aux participants, rendez-le accessible. obtenez plus d'informations sur [Fournir du contenu accessible](#material) ci-dessous. Vous trouverez un [exemple de contenu de présentation fourni à la fois dans le format de la présentation et dans le format Web (HTML et CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) en cliquant sur le lien situé en haut de la page après "La présentation des avantages des WCAG 2 est disponible dans 3 formats :".
+Si vous donnez du contenu aux participants, rendez-le accessible. Obtenez plus d'informations sur [Fournir du contenu accessible](#material) ci-dessous. Vous trouverez un [exemple de contenu de présentation fourni à la fois dans le format de la présentation et dans un format Web (HTML et CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) en cliquant sur le lien situé en haut de la page après "La présentation des avantages des WCAG 2 est disponible dans 3 formats :".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
@@ -214,15 +215,15 @@ Si vous donnez du contenu aux participants, rendez-le accessible. obtenez plus d
 
 ### Parlez distinctement
 
-Évitez également de parler trop vite, pour pemettre aux participants et aux interprètes en langue des signes de mieux vous comprendre et de suivre.
+De même, évitez de parler trop vite, pour pemettre aux participants et aux interprètes en langue des signes de mieux vous comprendre et de vous suivre.
 
 ### Utilisez un langage simple
 
-Évitez ou expliquez le jargon, les acronymes, et les expressions idiomatiques. Par exemple, des expressions telles que "mettre la barre plus haut" peuvent être interprétées littéralement par certaines personnes présentant des troubles cognitifs et peut être déroutant.
+Évitez ou expliquez le jargon, les acronymes, et les expressions idiomatiques. Par exemple, des expressions telles que "mettre la barre plus haut" peuvent être interprétées littéralement par certaines personnes présentant des troubles cognitifs et peuvent s'avérer déroutantes.
 
 ### Donnez à votre public le temps d'intégrer l'information
 
-Faites une pause entre les sujets. Lorsque vous demandez si quelqu'un a une question, certaines personnes porteuses de troubles cognitifs auront besoin de plus de temps pour mettre des mots sur leurs pensées.
+Faites une pause entre les différents sujets. Lorsque vous demandez si quelqu'un a une question, certaines personnes porteuses de troubles cognitifs auront besoin de plus de temps pour mettre des mots sur leurs pensées.
 
 ### Soyez visible
 
@@ -230,46 +231,46 @@ Soyez visible et bien éclairé lorsque vous parlez, afin que les participants p
 
 ### Utilisez un micro {#usemic}
 
-Certaines personnes pourraient avoir besoin du contenu audio au format électronique, même dans une petite salle. Cela inclut les personnes qui utilisent les [assistants d'écoute/BIM](#ald){:.termref} et les rédacteurs [CART](#cart){:.termref} à distance. Notez que si vous demandez "Tout le monde m'entend bien ?", certaines personnes pourraient se sentir mal à l'aise en disant qu'elles ne peuvent pas.
+Certaines personnes pourraient avoir besoin du contenu audio au format électronique, même dans une petite salle. Cela inclut les personnes qui utilisent des [assistants d'écoute/BIM](#ald){:.termref} et les [sous-titreurs](#captions){:.termref} à distance. Notez que si vous demandez "Tout le monde m'entend bien ?", certaines personnes pourraient se sentir mal à l'aise en disant qu'elles ne peuvent pas.
 
-### Veillez à ce que tout le contenu sonore pertinent soit audible par le système de sonorisation
+### Veillez à ce que tous les sons pertinents soient perceptibles
 
 Par exemple, si le public ne dispose pas de micro, répétez leurs questions et leurs commentaires dans votre micro avant de répondre.
 
 ### Reprenez tout le texte affiché {#visuals}
 
-Dites toute l'information présente sur chaque diapositive. (Ce qui ne signifie pas que vous devez dire exactement tout ce qui est écrit. Cela veut simplement dire que vous devez reprendre les informations visuelles dans ce que vous dites.)
+Dites toute l'information présente sur chaque diapositive. (Ce qui ne signifie pas que vous devez dire absolument tout ce qui est écrit. Cela veut simplement dire que vous devez reprendre les informations visuelles dans ce que vous dites.)
 
 ### Décrivez les parties importantes des graphiques, des vidéos et des autres images
 
-Décrivez-les dans la mesure nécessaire pour comprendre la présentation (Vous n'avez généralement pas besoin de décrire les images décoratives.)
+Décrivez-les autant que nécessaire pour comprendre la présentation (Vous n'avez généralement pas besoin de décrire les images décoratives.)
 
 ### Décrivez les autres informations visuelles
 
-Par exemple, un orateur demande au public de lever les mains s'ils rendent leur site Web entièrement accessible. L'orateur doit alors décrire la réponse visuelle : "Environ la moitié du public a levé la main".
+Par exemple, un intervenant demande au public de lever les mains s'ils rendent leur site Web entièrement accessible. L'intervenant décrirait alors la réponse visuelle : "Environ la moitié du public a levé la main".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
 ## Pour plus d'informations (intervenants et organisateurs)
 {% include_cached excol.html type="middle" %}
-Cette page Web concerne les séances en personne. Vous trouverez également des considératios concernant les séances en ligne, à distance, et virtuelles.
+Cette page Web concerne les séances en présentiel. Vous trouverez également des informations supplémentaires sur les séances en ligne, à distance, et virtuelles.
 
-Pour des informations détaillées sur comment For detailed guidance on **rendre vos contenus multimédias accessibles, allez sur la page**:
--  **[[Rendre du contenu audio et vidéo accessible]](/media/av/)**
+Pour des informations détaillées sur **des contenus multimédias accessibles, allez sur la page**:
+-  **[[Des contenus audios et vidéos accessible]](/media/av/)**
 
-**Retrouvez plus de détails encore sur comment rendre les contenus que vous donnez aux participants accessibles dans d'autres ressources**
+**Retrouvez dans d'autres ressources plus de détails sur comment rendre accessibles les contenus que vous donnez aux participants.**
 
-Il existe des ressources en ligne qui fournissent des conseils en matière de contenus accessibles pour les présentations, telles que :
+Il existe des ressources en ligne qui fournissent des conseils relatifs au contenu de cette page, telles que :
 
--  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) renvoie à des techniques de création de documents de bureau accessibles, y compris pour les applications de traitement de texte et de présentation
+-  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) renvoie à des techniques de création de documents Office accessibles, y compris pour les applications de traitement de texte et de présentation
 -  [Organiser une conférence accessible {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
--  [Interagir avec des personnes en situation de handicap {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
+-  [Intéragir avec des personnes en situation de handicap {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
-Informations sur l'accessibilité Web :
+Retrouvez des informations sur l'accessibilité Web :
 
 -  [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/) - introduit brièvement l'accessibilité Web et renvoie à plus de ressources.
--  [[Vue d'ensemble des Règles pour l'accessibilité des contenus Web (WCAG)]](/standards-guidelines/wcag/) - introduit des recommandation en matière d'accessibilité pour les contenus Web. Cela comprend les contenus pour les présentations, l'apprentissage en ligne, et d'autres contenu fournis dans un format Web.
--  [Page d'accueil du Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) - renvoie à des recommandations/standards et à un large éventail de [contenus d'aide](http://www.w3.org/WAI/yourWAI).
+-  [[Vue d'ensemble des Règles pour l'accessibilité des contenus Web (WCAG)]](/standards-guidelines/wcag/) - introduit les recommandations liées à l'accessibilité des contenus Web. Cela comprend les contenus utilisés lors de présentations, l'apprentissage en ligne, et d'autres contenus fournis dans des formats Web.
+-  [Page d'accueil de l'Initiative pour l'accessibilité Web (WAI)](https://www.w3.org/WAI/) - renvoie à des recommandations/standards et à un large éventail de [contenus d'aide](http://www.w3.org/WAI/yourWAI).
 
 
 {% include_cached excol.html type="end" %}
@@ -279,16 +280,17 @@ Informations sur l'accessibilité Web :
 
 <span id="at">technologies d'assistance</span>
 :  Les technologies d'assistance sont des logiciels ou des équipements utilisés par les personnes handicapées pour améliorer l'interaction avec le Web, tels que les
-  **lecteurs d'écran** qui lisent à voix haute les pages Web pour les personnes qui ne peuvent pas lire le texte, les **agrandisseurs d'écran** pour les personnes malvoyantes, les **logiciels de reconnaissance vocale** et les **contrôles de sélection** poiur les personnes qui ne peuvent pas utiliser un clavier ou une souris.
+  **lecteurs d'écran** qui lisent à voix haute les pages Web pour les personnes qui ne peuvent pas lire le texte, les **agrandisseurs d'écran** pour les personnes malvoyantes, les **logiciels de reconnaissance vocale** et les **capteurs** pour les personnes qui ne peuvent pas utiliser un clavier ou une souris.
 
 <span id="ald">assistants d'écoute, BIM, boucle à induction magnétique</span>
-:  les assistants d'écoute, les BIM, et les boucles à induction magnétique amplifient le son du micro de l'intervenant.
+:  les assistants d'écoute, les BIM, et les boucles à induction magnétique amplifient le son du micro de l'intervenant pour les personnes malentendantes.
 
-<span id="cart">CART</span>
-:  dans le système CART, sous-titrage automatique en temps réelle ou communication accessible par la traduction en temps réel, un professionnel tape ce qui est dit mot pour mot afin que les personnes puissent lire le texte.
+<span id="captions">sous-titres, sous-titreur</span>
+:  _Les sous-titres_ sont une version texte du contenu audio parlé et du contenu non parlé important. Les termes désignant le sous-titrage en direct varient en fonction des régions, comme le CART (sous-titrage automatique en temps réel ou communication accessible par la traduction en temps réel), ou le sous-titrage en temps réel.<br>Un _sous-titreur_ (ou "sous-titreur en direct") est un professionnel qui fournit ce qui est dit mot pour mot afin que les personnes puissent lire le texte.<br>Retrouvez plus d'informations sur la page [Légendes/sous-titres, dans Des contenus audios et vidéos accessibles](/media/av/captions/).
+
 
 <span id="terps">interprètes</span>
-:  Ce terme inclut à les interprètes en langue des signes, les traducteurs de conférence, et d'autres encore. À savoir que les langues des signes sont différentes des langues parlées et qu'il ne s'agit pas de traduction littérale.
+:  Dans cette ressource, le terme "interprète" inclut les interprètes en langue des signes, les traducteurs de conférence, et d'autres encore. À savoir que les langues des signes sont différentes des langues parlées et qu'il ne s'agit pas de traduction littérale.
 
 {% include_cached excol.html type="end" %}
 
