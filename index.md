@@ -13,7 +13,7 @@ last_updated: 2020-11-24   # Put the date of this translation YYYY-MM-DD (with m
 # - name: "Contributor Name Here"
 permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
 ref: /teach-advocate/accessible-presentations/   # Do not change this
-layout: default
+
 github:
   repository: w3c/wai-presentations2all
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
