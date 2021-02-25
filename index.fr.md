@@ -16,6 +16,8 @@ layout: default
 github:
   repository: w3c/wai-presentations2all
   path: index.fr.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  
+description: This page helps make presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others.  # translate the description @@ @@ @@  
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date :</strong> Mise à jour : 17 novembre 2020. Première publication : mai 2010.</p>
