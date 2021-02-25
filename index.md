@@ -26,7 +26,7 @@ layout: default
 description: This page helps make presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 25 February 2021. First published May 2010. <a href="../changelog/">Changelog</a>.</p>
+  <p><strong>Date:</strong> Updated 25 February 2021. First published May 2010. <a href="/teach-advocate/accessible-presentations/changelog/">Changelog</a>.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
