@@ -21,6 +21,7 @@ github:
 permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end, with no slash at end, for example /teach-advocate/accessible-presentations/fr
 
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
+layout: default
 
 description: This page helps make presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others.  # translate the description
 
