@@ -1,31 +1,36 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "How to Make Your Presentations Accessible to All"   # Do not translate "title:". Do translate the text after "title:".
+title: "How to Make Your Presentations Accessible to All"
 nav_title: "Make Presentations Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2020-11-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "Translator Name Here"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
-permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
-ref: /teach-advocate/accessible-presentations/   # Do not change this
-layout: default
+
+# translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
 github:
   repository: w3c/wai-presentations2all
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end, with no slash at end, for example /teach-advocate/accessible-presentations/fr
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
+
+description: This page helps make presentations, talks, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others.  # translate the description
+
+footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
   <p><strong>Date:</strong> Updated 24 November 2020. First published May 2010.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
+# Check for any Translations Notes specifically for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
 # end of translation instructions
-
 ---
 
 **Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
