@@ -17,7 +17,7 @@ last_updated: 2021-02-25   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-presentations2all
-  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.md   # Add the language shortcode to the middle of the filename, for example content/index.fr.md
 permalink: /teach-advocate/accessible-presentations/   # Add the language shortcode to the end, with no slash at end, for example /teach-advocate/accessible-presentations/fr
 
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
