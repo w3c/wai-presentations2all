@@ -70,7 +70,7 @@ Soyez ouvert à la diversité de votre public et à toute question d'accessibili
 -  **parler** correctement ou pas du tout,
 -  **comprendre** les informations telles qu'elles sont présentées correctement ou pas du tout.
 
-Les organisateurs et les intevenants doivent :
+Les organisateurs et les intevenants doivent faire :
 -  s'assurer que les installations sont accessibles
 -  parler distinctement dans le micro
 -  décrire les images pertinentes
