@@ -116,7 +116,7 @@ Par exemple, assurez-vous que l'entrée du bâtiment, la salle de réunion, la s
 
 ### Assurez un système de sonorisation adéquat et prévoyez des micros.
 
-Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'intervenant de se déplacer. Lorsque des personnes du public commenteront ou poseront des questions, fournissez-leur des micros.
+Il est généralement Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'intervenant de se déplacer. Lorsque des personnes du public commenteront ou poseront des questions, fournissez-leur des micros.
 
 ### Assurez une bonne visibilité des intervenants et des [interprètes](#terps){:.termref}
 
