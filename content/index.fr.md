@@ -30,7 +30,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ---
 
-**Vous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
+**CVous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
 Veillez à ne laisser personne dans votre public sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
@@ -144,7 +144,7 @@ Prévenez les intervenants que leurs contenus et leurs présentations sont cens�
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Fournissez des supports papier et multimédias accessibles (organisateurs et intervenants)
+## Fournir du matériel et des multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
 ### Fournissez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
