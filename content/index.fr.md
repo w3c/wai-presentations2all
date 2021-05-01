@@ -160,7 +160,7 @@ Par exemple, fournissez un texte équivalent pour les images, et des titres. Le 
 Par exemple, fournissez des [sous-titres](#captions){:.termref} et/ou des transcriptions pour le contenu audio, et fournissez une audiodescription des informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **allez sur [[Des contenus audios et vidéos accessibles]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
-## Organisation de votre séance (intervenants)
+## Planification de votre session (intervenants)
 {% include_cached excol.html type="middle" %}
 
 ### Fournissez les contenus à l'avance, si besoin
