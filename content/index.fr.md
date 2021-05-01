@@ -61,7 +61,7 @@ Cette page vous aide à rendre vos présentations, vos conférences, vos réunio
 ## Les fondamentaux (pour les organisateurs et les intervenants)
 {% include_cached excol.html type="middle" %}
 
-Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
+Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Essentiellement, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
 
 -  **voir** correctement ou pas du tout,
 -  **entendre** correctement ou pas du tout,
