@@ -1,8 +1,8 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: "Des présentations accessibles à tous"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Des présentations accessibles"   # A short title that is used in the navigation
+title: "Comment rendre vos présentations accessibles à tous"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Des présentations accessibles à tous"   # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2020-12-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
