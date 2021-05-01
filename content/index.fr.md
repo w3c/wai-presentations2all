@@ -103,7 +103,7 @@ Pour connaître les autres avantages d'un contenu multimédia accessible, allez 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Organisation de l'événement (organisateurs)
+## Planification de l'événement (organisateurs)
 {% include_cached excol.html type="middle" %}
 
 ### Demandez aux intervenants et aux participants s'ils ont des besoins en matière d'accessibilité
