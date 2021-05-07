@@ -37,7 +37,7 @@ Veillez à ne laisser personne dans votre public sans accès à toute l'informat
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-Cette page vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à toutes les personnes qui composeront votre public potentiel, y compris les personnes handicapées, entre autres. Les présentations inclusives présentent <a href="#benefits">de nombreux avantages</a>.
+Cette page vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à toutes les personnes qui composeront votre public potentiel, y compris les personnes en situation de handicap, entre autres. Les présentations inclusives présentent <a href="#benefits">de nombreux avantages</a>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
