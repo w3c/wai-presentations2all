@@ -88,17 +88,17 @@ Rendez vos événements et vos présentations accessibles de manière à vous pr
 ## Avantages (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-Les présentations accessibles aux personnes en situation de handicap permettent d'**inclure** bon nombre d'autres publics. Par exemple, les personnes dont les méthodes d'apprentissage diffèrent et les personnes qui ne parlent pas couramment la langue.
+Les présentations accessibles aux personnes en situation de handicap permettent d'**inclure** bon nombre d'autres publics. Par exemple, les personnes dont les styles d'apprentissage différents et les personnes qui ne parlent pas couramment la langue.
 
-Les présentations accessibles présentent aussi d'autres avantages pour les organisations et les particuliers.
+Les présentations accessibles présentent également des avantages supplémentaires pour les organisations et les particuliers.
 
-Par exemple, dans cette situation, une présentation en direct avec des diapositives est enregistrée et rendue disponible en ligne sous forme de podcast audio :
+Par exemple, dans cette situation, une présentation en direct avec des diapositives est enregistrée et rendue disponible ultérieurement sous forme de podcast audio :
 
--   Le présentateur décrit les informations visuelles importantes contenues dans les diapositives pendant la présentation. Cela permet de fournir les informations visuelles aux personnes aveugles ou qui ne peuvent pas voir correctement les diapositives durant la présentation. Les personnes qui écoutent le podcast plus tard auront également accès l'information visuelle qui a été décrite, même si elles n'ont pas accès à la vidéo.
--   Lors de la présentation, un sous-titreur professionnel transcrit ce qui est dit. Les personnes sourdes ou malentendantes lisent les sous-titres. Ceux-ci sont également utiles aux personnes qui ont une meilleure compréhension du texte écrit que du langage parlé. Par exemple, les personnes dont ce n'est pas la langue maternelle. Plus tard, les sous-titres émis en direct sont utilisés pour créer une transcription textuelle de la présentation.
+-   Le présentateur décrit les informations visuelles importantes contenues dans les diapositives pendant la présentation. Cela permet de fournir les informations visuelles aux personnes aveugles ou qui ne peuvent pas bien voir les diapositives durant la présentation. Plus tard, les personnes qui écoutent le podcast obtiennent également les informations visuelles qui ont été décrites, même si elles n'ont pas de vidéo.
+-   Lors de la présentation, un sous-titreur professionnel tape ce qui est dit sous forme de texte. Les personnes sourdes ou malentendantes lisent les sous-titres. Ceux-ci sont également utiles aux personnes qui ont une meilleure compréhension du texte écrit que du langage parlé. Par exemple, les personnes dont la langue maternelle est différente. Plus tard, les sous-titres émis en direct sont utilisés pour créer une transcription textuelle de la présentation.
 -   Cette transcription est mise en ligne et permet d'améliorer l'optimisation pour les moteurs de recherche (SEO) de la présentation, du podcast, et du site Web.
 
-Pour connaître les autres avantages d'un contenu multimédia accessible, allez sur [Avantages pour les organisations et les particuliers, dans Des contenus audios et vidéos accessibles](/media/av/#benefits) et [Avantages des transcriptions {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+Pour connaître les autres avantages d'un contenu multimédia accessible, allez sur [Avantages pour les organisations et les particuliers, dans des contenus audios et vidéos accessibles](/media/av/#benefits) et [Avantages des transcriptions {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
 {% include_cached excol.html type="end" %}
 
