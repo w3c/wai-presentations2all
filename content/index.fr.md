@@ -64,11 +64,11 @@ Cette page vous aide à rendre vos présentations, vos conférences, vos réunio
 
 Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
 
--  **voir** correctement ou pas du tout,
--  **entendre** correctement ou pas du tout,
--  **se déplacer** correctement ou pas du tout,
--  **parler** correctement ou pas du tout,
--  **comprendre** les informations telles qu'elles sont présentées correctement ou pas du tout.
+-  **voir** bien ou pas du tout,
+-  **entendre** bien ou pas du tout,
+-  **se déplacer** bien ou pas du tout,
+-  **parler** bien ou pas du tout,
+-  **comprendre** bien ou pas du tout les informations présentées de certaines manières.
 
 Les organisateurs et les intevenants doivent :
 -  s'assurer que les installations sont accessibles
