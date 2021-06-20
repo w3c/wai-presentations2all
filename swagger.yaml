@@ -65,7 +65,7 @@ paths:
                     votes: '1'
                   - choice: Python
                     votes: '2'
-                  - choice: Objective-C
+                  - choice: Objective-C++
                     votes: '3'
                   - choice: Ruby
                     votes: '4'
