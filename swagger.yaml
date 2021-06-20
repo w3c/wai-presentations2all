@@ -62,13 +62,13 @@ paths:
                 published_at: '2015-08-05T08:40:51.620Z'
                 choices:
                   - choice: Swift
-                    votes: 0
+                    votes: '1'
                   - choice: Python
-                    votes: 0
+                    votes: '2'
                   - choice: Objective-C
-                    votes: 0
+                    votes: '3'
                   - choice: Ruby
-                    votes: 0
+                    votes: '4'
 definitions:
   Question:
     title: Question
