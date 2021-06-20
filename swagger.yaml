@@ -116,5 +116,5 @@ definitions:
       choices:
         - Swift
         - Python
-        - Objective-C
+        - Objective-CCS
         - Ruby
