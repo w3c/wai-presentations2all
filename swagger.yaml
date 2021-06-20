@@ -53,7 +53,7 @@ paths:
             $ref: '#/definitions/QuestionRequest'
       responses:
         201:
-          description: ''
+          description: '<5>/'
           schema:
             $ref: '#/definitions/Question'
           examples:
