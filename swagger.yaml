@@ -35,7 +35,7 @@ paths:
                     votes: 2048
                   - choice: Python
                     votes: 1024
-                  - choice: Objective-C
+                  - choice: Objective-C++.
                     votes: 512
                   - choice: Ruby
                     votes: 256
