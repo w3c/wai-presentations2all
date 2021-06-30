@@ -103,7 +103,7 @@ Pour connaître les autres avantages d'un contenu multimédia accessible, allez 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Organisation de l'événement (organisateurs)
+## Planifier l'événement (organisateurs)
 {% include_cached excol.html type="middle" %}
 
 ### Demandez aux intervenants et aux participants s'ils ont des besoins en matière d'accessibilité
@@ -114,32 +114,32 @@ Par exemple, prévoyez une question dans les formulaires d'inscription pour vos 
 
 Par exemple, assurez-vous que l'entrée du bâtiment, la salle de réunion, la scène où se déroulera la présentation, et les toilettes soient accessibles. (Il existe des checklists en ligne pour vérifier l'accessibilité d'un bâtiment, telles que la [checklist pour l'accessibilité des installations existantes {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Fournissez des informations sur l'accessibilité, telles que des trajets accessibles entre les salles de réunion. Permettez aux intervenants et aux participants de proposer à l'avance un positionnement optimal de l'intervenant, de l'écran, du public, etc.
 
-### Assurez un système de sonorisation adéquat et prévoyez des micros.
+### Assurez un système de sonorisation adéquat et prévoyez des microphones.
 
-Il est généralement recommandé d'utiliser les micro-cravates sans fil pour permettre à l'intervenant de se déplacer. Lorsque des personnes du public commenteront ou poseront des questions, fournissez-leur des micros.
+Il est généralement recommandé d'utiliser les microphones sans fil pour permettre à l'intervenant de se déplacer. Lorsque des personnes du public commenteront ou poseront des questions, fournissez-leur des microphones.
 
 ### Assurez une bonne visibilité des intervenants et des [interprètes](#terps){:.termref}
 
-Éclairez correctement leur visage et le haut du corps. Évitez les arrière-plans distrayants, tels qu'un rayon lumineux ou une lumière clignotante.
+Avoir un bon éclairage sur leur visage et le haut du corps. Évitez les arrière-plans distrayants, tels que la lumière du soleil ou une lumière clignotante.
 
 ### Prévoyez des assistants d'écoute (par exemple, des boucles à induction magnétique), des interprètes, et des sous-titreurs, si besoin
 
-*(Les assistants d'écoute(#ald){:.termref}), les [interprètes](#terps){:.termref}, et les ([sous-titreurs](#captions){:.termref}) sont expliqués dans la section [Terminologie](#terms).)*
+*([Les appareils assistants d'écoute](#ald){:.termref}), les [interprètes](#terps){:.termref}, et les ([sous-titreurs](#captions){:.termref}) sont expliqués dans la section [Terminologie](#terms).)*
 
-Travaillez avec les participants et les fournisseurs des différents services pour veiller à ce que les détails importants soient pris en compte. Par exemple, un sous-titreur à distance peut entendre le contenu audio clairement, un sous-titreur en présentiel dispose des connections nécessaires, un écran est fourni pour permettre aux intervenants de lire les sous-titres, ou les micros et les haut-parleurs de l'ordinateur de l'intervenant sont connectés aux assistants d'écoute.
+Travaillez avec les participants et les prestataires de services pour veiller à ce que les détails importants soient pris en compte. Par exemple, un sous-titreur à distance peut entendre le contenu audio clairement, un sous-titreur en présentiel dispose des connections nécessaires, et un écran est fourni pour permettre aux participants de lire les sous-titres.  Ou bien, les microphones et la sortie audio de l'ordinateur de l'intervenant sont connectés au système des appareils assistants d'écoute.
 
 
 ### Assurez une bonne connection Internet lorsque nécessaire
 
-Parfois, vous pourriez utiliser Internet pour fournir votre contenu dans d'autres formats pendant la présentation. Par exemple, en permettant aux participants l'utilisation des lecteurs d'écran ou d'autres [technologies d'assistance](#terms){:.termref} pour suivre la présentation au moyen d'une version en ligne de votre contenu affiché. Pour le [sous-titrage](#captions){:.termref} à distance, vous aurez besoin d'une bonne connection qui dispose d'un débit suffisant pour le transfert audio.
+Parfois, vous pourriez utiliser Internet pour fournir des formats alternatifs de documents pendant la présentation. Par exemple, en permettant aux participants l'utilisation des lecteurs d'écran ou d'autres [technologies d'assistance](#terms){:.termref} de suivre la présentation au moyen d'une version en ligne de votre contenu affiché. Pour le [sous-titrage](#captions){:.termref} à distance, vous aurez besoin d'une connexion fiable disposant d'une bande passante suffisante pour le transfert audio.
 
 ### Tenez compte de l'accessibilité au moment de prévoir les horaires
 
 Certaines personnes ont besoin de plus de temps pour se rendre d'une salle à une autre. Par exemple, parce qu'elles se déplacent lentement, ou parce que le trajet accessible est plus long. Prévoyez des pauses en suffisance. Certaines personnes pourraient avoir besoin de soins médicaux durant les pauses. Respectez autant que possible les horaires fixés, et informez à l'avance les participants en cas de changement.
 
-### Donnez aux intervenants les recommandations et les conseils en matière d'accessibilité
+### Donnez aux intervenants les exigences et les conseils en matière d'accessibilité
 
-Prévenez les intervenants que leurs contenus et leurs présentations sont censés être accessibles aux personnes handicapées. Pensez à inclure les exigences en matières d'accessibilité dans vos contrats. Pensez également à inclure des liens vers cette page (www.w3.org/WAI/training/accessible) dans les conseils, les e-mails, les pages Web, etc. à l'attention des intervenants.
+Prévenez les intervenants que leurs contenus et leurs présentations sont censés être accessibles aux personnes handicapées. Pensez à inclure les exigences en matières d'accessibilité dans vos contrats. Pensez également à inclure des liens vers cette page (www.w3.org/WAI/training/accessible) dans les directives aux intervenants, les e-mails, les pages Web, etc.
 
 {% include_cached excol.html type="end" %}
 
