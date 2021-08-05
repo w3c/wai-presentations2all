@@ -147,33 +147,33 @@ Prévenez les intervenants que leurs contenus et leurs présentations sont cens�
 ## Fournir du matériel et des multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Fournissez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
+### Offrez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
 
-Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de contenus aux formats divers tels que des gros caractères ou du braille. S'ils ont accès au contenu sous forme électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
+Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de matériel dans des formats alternatifs tels que des gros caractères ou du braille. S'ils ont accès au contenu sous forme électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
 
 ### Assurez l'accessibilité des diapositives, des supports papier, et d'autres contenus électroniques pour les participants
 
-Par exemple, fournissez un texte équivalent pour les images, et des titres. Le contenu HTML, tel qu'un site Web de conférence, devrait se situer au niveau AA des [WCAG](/standards-guidelines/wcag/). La section ([Préparation des diapositives et des contenus projetés](#slides) ci-dessous fournit plus de détails pour les intervenants. D'autres ressources sont listées dans la section [Pour plus d'informations](#fyi) ci-dessous)
+Par exemple, fournissez un texte équivalent pour les images, et des titres. Le contenu HTML, tel qu'un site Web de conférence, devrait se situer au moins au niveau AA des [WCAG](/standards-guidelines/wcag/). La section ([Préparation des diapositives et des contenus projetés](#slides) ci-dessous fournit plus de détails pour les intervenants. D'autres ressources sont listées dans la section [Pour plus d'informations](#fyi) ci-dessous).
 
 ### Rendre les contenus multimédias entièrement accessibles — y compris les contenus audios et vidéos utilisés lors des séances, et les enregistrements des séances fournis par la suite
 
-Par exemple, fournissez des [sous-titres](#captions){:.termref} et/ou des transcriptions pour le contenu audio, et fournissez une audiodescription des informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **allez sur [[Des contenus audios et vidéos accessibles]](/media/av/)**.
+Par exemple, fournissez des [sous-titres](#captions){:.termref} et/ou des transcriptions pour le contenu audio, et fournissez une description audio des informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **allez sur [[Des contenus audios et vidéos accessibles]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
-## Organisation de votre séance (intervenants)
+## Planifier votre séance (intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Fournissez les contenus à l'avance, si besoin
+### Fournissez les contenus à l'avance, si demandé
 
-Fournissez les diapositives, les supports papier, et les autres contenus aux participants, aux [interprètes](#terps){:.termref}, et aux [sous-titreurs](#captions){:.termref}, si besoin. Rendez-les accessibles. (Retrouvez plus d'informations sur comment [fournir des contenus accessibles](#material) ci-dessous.)
+Fournissez les diapositives, les supports papier, et les autres contenus aux participants, aux [interprètes](#terps){:.termref}, et aux [sous-titreurs](#captions){:.termref}, si besoin. Rendez-les accessibles. (Vous trouverez plus d'informations sur [fournir des contenus accessibles](#material) ci-dessus.)
 
 ### Travaillez avec des [interprètes](#terps){:.termref} et des [sous-titreurs](#captions){:.termref}
 
 Donnez-leur le contenu à l'avance. Expliquez les acronymes, les termes, les noms, etc. que vous allez utiliser. Soyez disponible pour répondre à leurs questions.
 
-### Sous-titrer le contenu audio, ou le rendre disponible autrement
+### Sous-titrer le contenu audio ou le rendre disponible autrement
 
-Idéalement, tout contenu audio que vous utilisez est disponible sous forme de texte, par exemple, les vidéos sont [sous-titrées](#captions){:.termref}. Cependant, si vous sous-titrez votre présentation, ce texte sera applicable à votre contenu audio.
+Idéalement, tout contenu audio que vous utilisez est disponible sous forme de texte, par exemple, les vidéos sont [sous-titrées](#captions){:.termref}. Cependant, si un sous-titrage est fourni pour votre présentation, cela peut fournir le texte de l'audio.
 
 ### N'oubliez pas les activités
 
@@ -181,13 +181,13 @@ Pensez aux éventuelles questions d'accessibilité pour les activités incluant 
 
 ### Utilisez diverses méthodes de communication pour différents types d'apprentissage
 
-Certaines personnes ont une meilleure compréhension de l'information orale. D'autres personnes la comprennent mieux avec des images et des diagrammes. D'autres encore ont plus de facilité avec l'information écrite.
+Certaines personnes ont une meilleure compréhension de l'information verbale. D'autres personnes la comprennent mieux avec des images et des diagrammes. D'autres encore ont plus de facilité avec l'information écrite.
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
 ## Préparation des diapositives et des contenus projetés (intervenants)
 {% include_cached excol.html type="middle" %}
-### Choisissez une taille pour le texte et les images importantes suffisamment grande pour les rendre visibles même du fond de la pièce.
+### Faites en sorte que le texte et les éléments visuels importants soient suffisamment gros pour être lus même depuis le fond de la pièce.
 
 Cela comprend les graphiques sur les diapositives, les vidéos, les affiches, et les autres contenus non électroniques.
 
@@ -198,17 +198,16 @@ Les polices simples d'une épaisseur constante sont souvent plus faciles à lire
 ### Utilisez un contraste suffisant entre les couleurs ("contraste de luminance")
 
 Cela inclut le contraste entre les couleurs du texte et d'arrière-plan, et entre les couleurs dans les graphiques.
-Il existe des conseils pour les pages Web qui vous peuvent vous aider à déterminer un contraste suffisant &mdash; même si le medium est différent. Obtenez plus d'informations sur [Comprendre les recommandations liées au contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) et [les outils d'évaluation du contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
-Utilisez des couleurs d'arrière-plan et de texte adéquates. Certains conseillent d'afficher un texte sombre sur un fond clair si la pièce est claire, et d'afficher un texte clair sur un fond sombre si la pièce est sombre.
-Veillez à ce que la graisse du texte soit suffisante (par exemple, en gras)
+Il existe des conseils pour les pages Web qui vous peuvent vous aider à déterminer un contraste suffisant &mdash; même si le support est différent. Obtenez plus d'informations sur [Comprendre les recommandations liées au contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) et [les outils d'évaluation du contraste](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
+Utilisez des couleurs d'arrière-plan et de texte adéquates. Lors d'une présentation, certains suggèrent d’afficher un texte sombre sur un fond clair si la pièce est claire, et d’afficher un texte clair sur un fond sombre si la pièce est sombre. Veillez à ce que la graisse du texte soit suffisante (par exemple, en gras)
 
-### Réfléchissez à la manière d'utiliser les déplacements ou les animations
+### Réfléchissez à la manière d'utiliser le mouvement ou les animations
 
-Cela comprend le texte ou les images qui surgissent par le côté. Le déplacement rend-il l'information plus facile à comprendre, ou est-il inutile ? Certains types de mouvements peuvent être particulièrement distrayants pour certains, et peuvent rendre malades certaines personnes.
+Cela comprend le texte ou les images qui surgissent par le côté. Le mouvement rendra-t-il l'information plus facile à comprendre, ou est-ce inutile? Certains types de mouvements peuvent être particulièrement distrayants pour certains, et peuvent rendre malades certaines personnes.
 
-### Rendez le contenu fourni accessible {#expres}
+### Rendez le matériel fourni accessible {#expres}
 
-Si vous donnez du contenu aux participants, rendez-le accessible. Obtenez plus d'informations sur [Fournir du contenu accessible](#material) ci-dessous. Vous trouverez un [exemple de contenu de présentation fourni à la fois dans le format de la présentation et dans un format Web (HTML et CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) en cliquant sur le lien situé en haut de la page après "La présentation des avantages des WCAG 2 est disponible dans 3 formats :".
+Si vous donnez du contenu aux participants, rendez-le accessible. Obtenez plus d'informations sur [Fournir du matériel accessible](#material) ci-dessus. Vous trouverez un [exemple de contenu de présentation fourni à la fois dans le format de la présentation et dans un format Web (HTML et CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) en cliquant sur le lien situé en haut de la page après "La présentation des avantages des WCAG 2 est disponible dans 3 formats :".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
