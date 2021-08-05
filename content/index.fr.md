@@ -147,9 +147,9 @@ Prévenez les intervenants que leurs contenus et leurs présentations sont cens�
 ## Fournir du matériel et des multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
-### Fournissez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
+### Offrez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
 
-Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de contenus aux formats divers tels que des gros caractères ou du braille. S'ils ont accès au contenu sous forme électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
+Les formats de traitement de texte sont souvent les plus flexibles pour répondre aux différents besoins du public. Les participants pourraient avoir besoin de matériel dans des formats alternatifs tels que des gros caractères ou du braille. S'ils ont accès au contenu sous forme électronique à l'avance, ils pourraient ne pas avoir besoin de version papier.
 
 ### Assurez l'accessibilité des diapositives, des supports papier, et d'autres contenus électroniques pour les participants
 
