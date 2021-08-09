@@ -217,7 +217,7 @@ Si vous donnez du contenu aux participants, rendez-le accessible. Obtenez plus d
 
 ### Parlez distinctement
 
-De même, évitez de parler trop vite, pour pemettre aux participants et aux interprètes en langue des signes de mieux vous comprendre et de vous suivre.
+De même, évitez de parler trop vite, pour pemettre aux participants et aux interprètes de mieux vous comprendre et de vous suivre.
 
 ### Utilisez un langage simple
 
@@ -225,7 +225,7 @@ De même, évitez de parler trop vite, pour pemettre aux participants et aux int
 
 ### Donnez à votre public le temps d'intégrer l'information
 
-Faites une pause entre les différents sujets. Lorsque vous demandez si quelqu'un a une question, certaines personnes porteuses de troubles cognitifs auront besoin de plus de temps pour mettre des mots sur leurs pensées.
+Faites une pause entre les sujets. Lorsque vous demandez si quelqu'un a une question, certaines personnes porteuses de troubles cognitifs auront besoin de plus de temps pour mettre des mots sur leurs pensées.
 
 ### Soyez visible
 
@@ -235,21 +235,21 @@ Soyez visible et bien éclairé lorsque vous parlez, afin que les participants p
 
 Certaines personnes pourraient avoir besoin du contenu audio au format électronique, même dans une petite salle. Cela inclut les personnes qui utilisent des [assistants d'écoute/BIM](#ald){:.termref} et les [sous-titreurs](#captions){:.termref} à distance. Notez que si vous demandez "Tout le monde m'entend bien ?", certaines personnes pourraient se sentir mal à l'aise en disant qu'elles ne peuvent pas.
 
-### Veillez à ce que tous les sons pertinents soient perceptibles
+### Veillez à ce que tous les sons pertinents soient perceptibles à travers le système audio
 
 Par exemple, si le public ne dispose pas de micro, répétez leurs questions et leurs commentaires dans votre micro avant de répondre.
 
-### Reprenez tout le texte affiché {#visuals}
+### Veillez à couvrir tout le texte affiché {#visuals}
 
-Dites toute l'information présente sur chaque diapositive. (Ce qui ne signifie pas que vous devez dire absolument tout ce qui est écrit. Cela veut simplement dire que vous devez reprendre les informations visuelles dans ce que vous dites.)
+Dites toute l'information présente sur chaque diapositive. (Cela ne signifie pas que vous devez lire la diapositive exactement telle qu'elle est. Cela veut simplement dire que vous devez reprendre les informations visuelles dans ce que vous dites.)
 
-### Décrivez les parties importantes des graphiques, des vidéos et des autres images
+### Décrivez les parties importantes des graphiques, des vidéos et autres éléments visuels
 
-Décrivez-les autant que nécessaire pour comprendre la présentation (Vous n'avez généralement pas besoin de décrire les images décoratives.)
+Décrivez-les autant que nécessaire pour comprendre la présentation. (Vous n'avez généralement pas besoin de décrire les images décoratives.)
 
 ### Décrivez les autres informations visuelles
 
-Par exemple, un intervenant demande au public de lever les mains s'ils rendent leur site Web entièrement accessible. L'intervenant décrirait alors la réponse visuelle : "Environ la moitié du public a levé la main".
+Par exemple, un intervenant demande au public de lever les mains s'ils rendent leurs sites Web entièrement accessibles. L'intervenant décrirait alors la réponse visuelle : "Environ la moitié du public a levé la main".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
@@ -257,22 +257,22 @@ Par exemple, un intervenant demande au public de lever les mains s'ils rendent l
 {% include_cached excol.html type="middle" %}
 Cette page Web concerne les séances en présentiel. Vous trouverez également des informations supplémentaires sur les séances en ligne, à distance, et virtuelles.
 
-Pour des informations détaillées sur **des contenus multimédias accessibles, allez sur la page**:
+Pour obtenir des conseils détaillées comment rendre **des contenus multimédias accessibles, allez sur la page**:
 -  **[[Des contenus audios et vidéos accessible]](/media/av/)**
 
-**Retrouvez dans d'autres ressources plus de détails sur comment rendre accessibles les contenus que vous donnez aux participants.**
+**Les détails sur la façon de rendre accessible le matériel que vous fournissez aux participants dépassent le cadre de ce document.**
 
 Il existe des ressources en ligne qui fournissent des conseils relatifs au contenu de cette page, telles que :
 
 -  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) renvoie à des techniques de création de documents Office accessibles, y compris pour les applications de traitement de texte et de présentation
--  [Organiser une conférence accessible {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
+-  [Planifier une conférence accessible {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
 -  [Intéragir avec des personnes en situation de handicap {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
 Retrouvez des informations sur l'accessibilité Web :
 
 -  [[Introduction à l'accessibilité Web]](/fundamentals/accessibility-intro/) - introduit brièvement l'accessibilité Web et renvoie à plus de ressources.
 -  [[Vue d'ensemble des Règles pour l'accessibilité des contenus Web (WCAG)]](/standards-guidelines/wcag/) - introduit les recommandations liées à l'accessibilité des contenus Web. Cela comprend les contenus utilisés lors de présentations, l'apprentissage en ligne, et d'autres contenus fournis dans des formats Web.
--  [Page d'accueil de l'Initiative pour l'accessibilité Web (WAI)](https://www.w3.org/WAI/) - renvoie à des recommandations/standards et à un large éventail de [contenus d'aide](http://www.w3.org/WAI/yourWAI).
+-  [Page d'accueil de l'Initiative pour l'accessibilité Web (WAI)](https://www.w3.org/WAI/) - renvoie à des recommandations/normes et à un large éventail de [contenus d'aide](http://www.w3.org/WAI/yourWAI).
 
 
 {% include_cached excol.html type="end" %}
