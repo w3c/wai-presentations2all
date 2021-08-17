@@ -31,7 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ---
 
 **CVous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
-Veillez à ne laisser personne dans votre public sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
+Veillez à ne pas laisser de côté des informations pour certaines personnes de votre public. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
