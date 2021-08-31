@@ -8,6 +8,7 @@ lang: fr   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2020-12-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
 - name: "Sofia Ahmed"
+- name: "Victoria Menezes Miller"
 contributors: #Add one -name: line for every contributor
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 permalink: /teach-advocate/accessible-presentations/fr   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
@@ -30,7 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ---
 
-**CVous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
+**Vous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
 Veillez à ne pas laisser de côté des informations pour certaines personnes de votre public. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
