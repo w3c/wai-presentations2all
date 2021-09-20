@@ -34,6 +34,8 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 # end of translation instructions
 ---
 
+@@@ DRAFT for TESTING @@@
+
 **Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
 Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
 
