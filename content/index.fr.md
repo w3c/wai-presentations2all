@@ -264,7 +264,7 @@ Pour obtenir des conseils détaillées comment rendre **des contenus multimédia
 
 Il existe des ressources en ligne qui fournissent des conseils relatifs au contenu de cette page, telles que :
 
--  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) renvoie à des techniques de création de documents Office accessibles, y compris pour les applications de traitement de texte et de présentation
+-  [ADOD Project {% include_cached external.html %}](http://adod.idrc.ocad.ca/) ([traduction partielle](https://adod.idrc.ocadu.ca/translations.html#fr)) renvoie à des techniques de création de documents Office accessibles, y compris pour les applications de traitement de texte et de présentation
 -  [Planifier une conférence accessible {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/)
 -  [Intéragir avec des personnes en situation de handicap {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
