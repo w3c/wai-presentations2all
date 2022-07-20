@@ -23,7 +23,7 @@ permalink: /teach-advocate/accessible-presentations/   # Add the language shortc
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
 layout: default
 
-description: This page helps make presentations, meetings, and training accessible to everyone in your potential audience, including people with disabilities and others.  # translate the description
+description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
   <p><strong>Date:</strong> Updated 25 February 2021. First published May 2010. <a href="/teach-advocate/accessible-presentations/changelog/">Changelog</a>.</p>
@@ -41,7 +41,7 @@ Be careful not to leave out information for some people in your audience. For ex
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page helps you make your presentations, meetings, and training accessible to everyone in your potential audience and meetings, including people with disabilities and others.
+This page helps you make your presentations, meetings, conferences, and training more accessible to everyone, including people with disabilities and others. It provides details on in-person events and overlapping issues with remote events.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -63,7 +63,7 @@ This page helps you make your presentations, meetings, and training accessible t
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
-## Basics (for organizers & speakers) _(in-person, remote)_
+## Basics (for organizers & speakers)
 {% include_cached excol.html type="middle" %}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
@@ -89,7 +89,7 @@ Make your event and your presentations accessible so that you are prepared for s
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="benefits" %}
-## Benefits (organizers & speakers) _(in-person, remote)_
+## Benefits (organizers & speakers)
 {% include_cached excol.html type="middle" %}
 
 Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
@@ -107,7 +107,7 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Planning the Event (organizers) _(in-person, remote)_
+## Planning the Event (organizers)
 {% include_cached excol.html type="middle" %}
 
 ### Ask speakers and participants if they have accessibility requirements _(in-person, remote)_
@@ -147,7 +147,7 @@ Tell speakers that you expect their material and presentations to be accessible 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Provide Accessible Material and Media (organizers & speakers) _(in-person, remote)_
+## Provide Accessible Material and Media (organizers & speakers)
 {% include_cached excol.html type="middle" %}
 
 ### Offer handouts, slides, and other material in accessible formats _(in-person, remote)_
@@ -163,14 +163,14 @@ For example, provide alternative text for images and mark up headings. HTML mate
 For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
-## Planning Your Session (speakers) _(in-person, remote)_
+## Planning Your Session (speakers)
 {% include_cached excol.html type="middle" %}
 
 ### Provide material ahead of time, if requested _(in-person, remote)_
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
-### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
+### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref} _(in-person, remote)_
 
 Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
@@ -188,7 +188,7 @@ Some people can better understand verbal information. Other people can better un
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
-## Preparing Slides and Projected Material (speakers) _(in-person, remote)_
+## Preparing Slides and Projected Material (speakers)
 {% include_cached excol.html type="middle" %}
 ### Make text and important visuals big enough to be read even from the back of the room _(in-person, remote)_
 
@@ -215,7 +215,7 @@ If you are giving participants material, make it accessible. See [provide access
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
-## During the Presentation or Meeting (speakers) _(in-person, remote)_
+## During the Presentation or Meeting (speakers)
 {% include_cached excol.html type="middle" %}
 
 ### Speak clearly _(in-person, remote)_
@@ -256,7 +256,7 @@ For example, a speaker asks people to raise their hands if they make their websi
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
-## For More Information (speakers & organizers) _(in-person, remote)_
+## For More Information (speakers & organizers)
 {% include_cached excol.html type="middle" %}
 This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
 
