@@ -260,9 +260,8 @@ For example, a speaker asks people to raise their hands if they make their websi
 {% include_cached excol.html type="middle" %}
 This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
 
--  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible
 -  **[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)** for details on [meeting platform accessibility](https://w3c.github.io/remote-meetings/#meeting-platform-selection-and-development), [hybrid meetings](https://w3c.github.io/remote-meetings/#holding-accessible-hybrid-meetings), and more.
-
+-  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible
 
 **Details on how to make material that you give to participants accessible is beyond the scope of this document.**
 
