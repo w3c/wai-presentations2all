@@ -207,7 +207,7 @@ Ensure that the weight of text is sufficient (for example, bold).
 
 ### Consider how to use motion or animations _(in-person, remote)_
 
-This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
+This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill. Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
 ### Make provided material accessible {#expres} _(in-person, remote)_
 
