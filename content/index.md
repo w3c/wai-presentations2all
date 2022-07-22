@@ -132,6 +132,10 @@ Have good lighting on their face and upper body. Avoid distracting backgrounds, 
 
 Work with participants and service providers to ensure that important details are taken care of. For example, a remote captioner can hear the audio clearly, an in-person captioner has the connections they need, and a screen is provided for participants to read the captions. Or, microphones and the presenter’s computer sound output is connected to the ALD system.
 
+### Limit distractions such as background noise _(in-person, remote)_
+
+Consider not having background music in the halls or conference rooms, including during breaks.
+
 ### Arrange for good Internet connection when needed _(in-person)_
 
 Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [captioning](#captions){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
