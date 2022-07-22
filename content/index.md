@@ -209,6 +209,10 @@ Ensure that the weight of text is sufficient (for example, bold).
 
 This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
 
+### Use simple language _(in-person, remote)_
+
+Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing. Use simple language also applies to speaking during presentations and meetings.
+
 ### Make provided material accessible {#expres} _(in-person, remote)_
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 3 formats:".
@@ -221,10 +225,6 @@ If you are giving participants material, make it accessible. See [provide access
 ### Speak clearly _(in-person, remote)_
 
 And avoid speaking too fast, so participants and interpreters can better understand you and keep up.
-
-### Use simple language _(in-person, remote)_
-
-Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
 ### Give people time to process information _(in-person, remote)_
 
