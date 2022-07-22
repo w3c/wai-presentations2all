@@ -100,9 +100,9 @@ Make your event and your presentations accessible so that you are prepared for s
 ## Benefits <span class="forwhich">(organizers & speakers)</span>
 {% include_cached excol.html type="middle" %}
 
-Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
+Sessions that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
 
-Accessible presentations also have additional benefits to organizations and individuals.
+Accessible sessions also have additional benefits to organizations and individuals.
 
 In this example situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
@@ -229,7 +229,7 @@ Ensure that the weight of text is sufficient (for example, bold).
 
 This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.  Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
-### Make provided material accessible {#expres} <span class="forwhich">(in-person, remote)</span>
+### Make provided material accessible <span class="forwhich">(in-person, remote)</span> {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 3 formats:".
 
@@ -254,7 +254,7 @@ Pause between topics. When you ask if anyone has questions, some people with cog
 
 Be visible and in good light when you talk, so participants can see your face. This helps some people hear and understand better. Be careful not to face away from the audience to read projected material, particularly if you don't have a microphone.
 
-### Use a microphone {#usemic} <span class="forwhich">(in-person)</span>
+### Use a microphone <span class="forwhich">(in-person)</span> {#usemic}
 
 Some people might need the audio electronically, even in a small room. This includes people using [ALDs](#ald){:.termref} and remote [captioners](#captions){:.termref}. Note that if you ask "Can everyone hear me OK?" some people might be uncomfortable saying that they cannot.
 
@@ -262,7 +262,7 @@ Some people might need the audio electronically, even in a small room. This incl
 
 For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
 
-### Cover all displayed text {#visuals} <span class="forwhich">(in-person, remote)</span>
+### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
 
 Say all of the information that is on each slide. (This does not mean that you have to read the slide exactly as it is. It just means that you cover the visual information in what you say.)
 
