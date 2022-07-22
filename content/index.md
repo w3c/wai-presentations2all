@@ -166,9 +166,9 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 ## Planning Your Session (speakers)
 {% include_cached excol.html type="middle" %}
 
-### Provide material ahead of time, if requested _(in-person, remote)_
+### Provide material ahead of time _(in-person, remote)_
 
-Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
+Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)<br>For remote sessions, note that content in screen sharing is not accessible. You will need to provide the accessible material to participants directly as needed.
 
 ### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref} _(in-person, remote)_
 
