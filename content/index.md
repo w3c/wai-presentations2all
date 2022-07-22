@@ -6,7 +6,7 @@ title: "How to Make Your Presentations and Meetings Accessible to All"
 nav_title: "Make Presentations and Meetings Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-07-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -26,7 +26,7 @@ layout: default
 description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 21 July 2022. First published May 2010.</p>
+  <p><strong>Date:</strong> Updated 22 July 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -49,7 +49,7 @@ Be careful not to leave out information for some people in your audience. For ex
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page helps you make your presentations, meetings, conferences, and training more accessible to everyone, including people with disabilities and others. It provides details on in-person events and overlapping issues with remote events.
+This page helps you make your presentations, meetings, conferences, and training more accessible to everyone, particularly people with disabilities. **It focuses on in-person events and indicates overlapping issues with remote and hybrid events.**
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -126,6 +126,10 @@ For example, include a question on registration forms for conferences, send an e
 
 For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
+### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
+
+In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform](https://www.w3.org/TR/remote-meetings/#selection).
+
 ### Ensure adequate sound system, and arrange for microphones <span class="forwhich">(in-person)</span>
 
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
@@ -174,9 +178,12 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 ## Planning Your Session <span class="forwhich">(speakers)</span>
 {% include_cached excol.html type="middle" %}
 
-### Provide material ahead of time, if requested <span class="forwhich">(in-person, remote)</span>
+### Provide material ahead of time <span class="forwhich">(in-person, remote)</span>
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
+
+For remote sessions, note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through the screen sharing.
+
 
 ### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref} <span class="forwhich">(in-person, remote)</span>
 
@@ -198,6 +205,11 @@ Some people can better understand verbal information. Other people can better un
 {% include_cached excol.html type="start" id="slides" %}
 ## Preparing Slides and Projected Material <span class="forwhich">(speakers)</span>
 {% include_cached excol.html type="middle" %}
+
+### Limit the amount of text on each slide <span class="forwhich">(in-person, remote)</span> {#slide-text}
+
+It is difficult for many people to read text and listen to the speaker at the same time. Avoid putting lots of text or other content on slides. (If you want to provide additional information, you could put it in a handout or in slides with notes separate from the presentation.) Use [simple language](#simple-language).
+
 ### Make text and important visuals big enough to be read even from the back of the room <span class="forwhich">(in-person, remote)</span>
 
 This includes graphics on slides, videos, posters, and other non-electronic material.
@@ -215,7 +227,7 @@ Ensure that the weight of text is sufficient (for example, bold).
 
 ### Consider how to use motion or animations <span class="forwhich">(in-person, remote)</span>
 
-This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.
+This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.  Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
 ### Make provided material accessible {#expres} <span class="forwhich">(in-person, remote)</span>
 
@@ -230,7 +242,7 @@ If you are giving participants material, make it accessible. See [provide access
 
 And avoid speaking too fast, so participants and interpreters can better understand you and keep up.
 
-### Use simple language <span class="forwhich">(in-person, remote)</span>
+### Use simple language <span class="forwhich">(in-person, remote)</span> {#simple-language}
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
