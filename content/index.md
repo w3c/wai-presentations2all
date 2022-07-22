@@ -37,6 +37,7 @@ inline_css: |
   .forwhich {
     color: #3b3b3b;
     font-style: italic;
+    font-weight: normal;
   }
 
 ---
