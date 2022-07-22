@@ -32,6 +32,13 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 
 # Check for any Translations Notes specifically for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
 # end of translation instructions
+
+inline_css: |
+  .forwhich {
+    color: #3b3b3b;
+    font-style: italic;
+  }
+
 ---
 
 **Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
@@ -63,7 +70,7 @@ This page helps you make your presentations, meetings, conferences, and training
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
-## Basics (for organizers & speakers)
+## Basics <span class="forwhich">(for organizers & speakers)</span>
 {% include_cached excol.html type="middle" %}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
@@ -89,7 +96,7 @@ Make your event and your presentations accessible so that you are prepared for s
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="benefits" %}
-## Benefits (organizers & speakers)
+## Benefits <span class="forwhich">(organizers & speakers)</span>
 {% include_cached excol.html type="middle" %}
 
 Presentations that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
@@ -107,18 +114,18 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
-## Planning the Event (organizers)
+## Planning the Event <span class="forwhich">(organizers)</span>
 {% include_cached excol.html type="middle" %}
 
-### Ask speakers and participants if they have accessibility requirements _(in-person, remote)_
+### Ask speakers and participants if they have accessibility requirements <span class="forwhich">(in-person, remote)</span>
 
 For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
 
-### Ensure the facility and area is accessible to speakers and participants _(in-person)_
+### Ensure the facility and area is accessible to speakers and participants <span class="forwhich">(in-person)</span>
 
 For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
-### Ensure adequate sound system, and arrange for microphones _(in-person)_
+### Ensure adequate sound system, and arrange for microphones <span class="forwhich">(in-person)</span>
 
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
 
