@@ -118,6 +118,10 @@ For example, include a question on registration forms for conferences, send an e
 
 For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
+### Ensure the remote meeting platform is accessible _(remote)_
+
+In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform](https://www.w3.org/TR/remote-meetings/#selection).
+
 ### Ensure adequate sound system, and arrange for microphones _(in-person)_
 
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
