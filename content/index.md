@@ -190,6 +190,11 @@ Some people can better understand verbal information. Other people can better un
 {% include_cached excol.html type="start" id="slides" %}
 ## Preparing Slides and Projected Material (speakers)
 {% include_cached excol.html type="middle" %}
+
+### Limit the amount of text and other content on slides _(in-person, remote)_
+
+It is difficult for many people to read text and listen to the speaker at the same time.
+
 ### Make text and important visuals big enough to be read even from the back of the room _(in-person, remote)_
 
 This includes graphics on slides, videos, posters, and other non-electronic material.
