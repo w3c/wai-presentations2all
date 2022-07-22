@@ -193,7 +193,7 @@ Some people can better understand verbal information. Other people can better un
 
 ### Limit the amount of text and other content on slides _(in-person, remote)_
 
-It is difficult for many people to read text and listen to the speaker at the same time.
+It is difficult for many people to read text and listen to the speaker at the same time. Put limited content on the slides during a presentation, and consider providing more information in supporting material (such as a handout or slides with notes) for after the presentation.
 
 ### Make text and important visuals big enough to be read even from the back of the room _(in-person, remote)_
 
