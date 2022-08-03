@@ -6,7 +6,7 @@ title: "How to Make Your Presentations and Meetings Accessible to All"
 nav_title: "Make Presentations and Meetings Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-08-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -26,7 +26,7 @@ layout: default
 description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 22 July 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
+  <p><strong>Date:</strong> Updated 17 August 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -87,6 +87,12 @@ Organizers and speakers should do things like:
 -  speak clearly into the microphone
 -  describe pertinent visuals
 -  and other considerations listed on this page
+
+{#coga2}
+Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
+* For meetings and presentations, start with an overview and end with a review of most important points
+* Use consistent design in slide presentations to limit cognitive load
+* [Use clear and understandable content {% include_cached different-view.html %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 
 **Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
