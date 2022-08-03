@@ -92,7 +92,7 @@ Organizers and speakers should do things like:
 Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
 * For meetings and presentations, start with an overview and end with a review of most important points
 * Use consistent design in slide presentations to limit cognitive load
-* [Use clear and understandable content {% include_cached different-view.html %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
+* [Use clear and understandable content {% include_cached icon.html name="different-view" %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 
 **Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
