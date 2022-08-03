@@ -88,7 +88,7 @@ Organizers and speakers should do things like:
 -  describe pertinent visuals
 -  and other considerations listed on this page
 
-{#coga2}
+<a id="#coga2"></a>
 Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
 * For meetings and presentations, start with an overview and end with a review of most important points
 * Use consistent design in slide presentations to limit cognitive load
@@ -157,6 +157,9 @@ Sometimes you might use the Internet for providing alternative formats of materi
 ### Consider accessibility when planning the schedule <span class="forwhich">(in-person, remote)</span>
 
 Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+
+### Plan to limit distractions <span class="forwhich">(in-person, remote)</span>
+Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners. Try to avoid distractions such as catering setup during a meeting or presentation.
 
 ### Give speakers accessibility requirements and guidance <span class="forwhich">(in-person, remote)</span>
 
@@ -267,6 +270,10 @@ Some people might need the audio electronically, even in a small room. This incl
 ### Ensure that all relevant sound is audible through the sound system <span class="forwhich">(in-person, remote)</span>
 
 For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+
+### Limit distractions (in-person, remote) <span class="forwhich">(in-person, remote)</span>
+
+For example, ask participants to turn off mobile phone notifications, and presenters to turn off system notifications. Discourage side conversations during meetings and presentations.
 
 ### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
 
