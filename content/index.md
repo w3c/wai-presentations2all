@@ -128,7 +128,7 @@ For example, ensure the building entrance, meeting room, presentation stage, and
 
 ### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
 
-In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform](https://www.w3.org/TR/remote-meetings/#selection).
+This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform](https://www.w3.org/TR/remote-meetings/#selection).
 
 ### Ensure adequate sound system, and arrange for microphones <span class="forwhich">(in-person)</span>
 
