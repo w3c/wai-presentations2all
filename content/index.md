@@ -40,6 +40,12 @@ inline_css: |
     font-style: italic;
     font-weight: normal;
   }
+  h3 {padding-bottom:0; margin-bottom:0;}
+  ul li {
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+  }
+
 
 ---
 
@@ -53,9 +59,10 @@ inline_css: |
 Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.</em>
 
 This page helps you avoid excluding people with disabilities. It applies to:
-* Presenters &mdash; all except "Organizers: Planning the Event"
-* Organizers &mdash; primarily the first the sections
-* Participants &mdash; most of "[During the Presentation or Meeting](#during-the-presentation-or-meeting)"
+
+* **Presenters** &mdash; all except "Organizers: Planning the Event"
+* **Organizers** &mdash; primarily the first the sections
+* **Participants** &mdash; most of "[During the Presentation or Meeting](#during-the-presentation-or-meeting)"
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -70,6 +77,8 @@ This page helps you avoid excluding people with disabilities. It applies to:
 -  TOC is created automatically.
 {:toc}
 
+
+
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
@@ -77,7 +86,9 @@ This page helps you avoid excluding people with disabilities. It applies to:
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
+
 ## Basics
+
 {% include_cached excol.html type="middle" %}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
@@ -89,6 +100,7 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **understand** information presented in some ways well or at all.
 
 Organizers and speakers should do things like:
+
 -  ensure the facility is accessible
 -  speak clearly into the microphone
 -  describe pertinent visuals
@@ -130,7 +142,9 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
+
 ## Provide Accessible Material and Media
+
 {% include_cached excol.html type="middle" %}
 
 ### Format - Offer handouts, slides, and other material in accessible formats
@@ -147,7 +161,9 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
+
 ## Organizers: Planning the Event
+
 {% include_cached excol.html type="middle" %}
 
 ### Ask speakers and participants if they have accessibility requirements
@@ -185,6 +201,7 @@ Sometimes you might use the Internet for providing alternative formats of materi
 Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
 
 ### Plan to limit distractions
+
 Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
 
 ### Give speakers accessibility requirements and guidance
@@ -194,7 +211,9 @@ Tell speakers that you expect their material and presentations to be accessible 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="plan" %}
+
 ## Planning Your Session
+
 {% include_cached excol.html type="middle" %}
 
 ### Provide material ahead of time
@@ -221,7 +240,9 @@ Some people can better understand verbal information. Other people can better un
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
+
 ## Preparing Slides and Projected Material
+
 {% include_cached excol.html type="middle" %}
 
 ### Limit the amount of text on each slide {#slide-text}
@@ -253,7 +274,9 @@ If you are giving participants material, make it accessible. See [provide access
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
+
 ## During the Presentation or Meeting
+
 {% include_cached excol.html type="middle" %}
 
 ### Speak clearly
@@ -298,7 +321,9 @@ For example, a speaker asks people to raise their hands if they make their websi
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
+
 ## For More Information
+
 {% include_cached excol.html type="middle" %}
 This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
 
@@ -319,10 +344,10 @@ Information on web accessibility:
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
-
-{% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="terms" %}
-### Terminology <span class="forwhich">(appendix)</span>
+
+### Terminology
+
 {% include_cached excol.html type="middle" %}
 
 <span id="at">assistive technologies</span>
@@ -337,6 +362,8 @@ Information on web accessibility:
 
 <span id="terps">interpreters</span>
 :  In this resource, “interpreters” includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
+
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="end" %}
 
