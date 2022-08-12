@@ -46,13 +46,16 @@ inline_css: |
 
 
 {::nomarkdown}
-{% include box.html type="start" class="full" %}
+{% include box.html type="start" title="Introduction" class="full" %}
 {:/}
 
 <em>Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
 Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.</em>
 
-This page helps you avoid excluding people with disabilities. Most of it applies presenters, some for organizers is in a separate section. 
+This page helps you avoid excluding people with disabilities. It applies to:
+* Presenters &mdash; all except "Organizers: Planning the Event"
+* Organizers &mdash; primarily the first the sections
+* Participants &mdash; most of "[During the Presentation or Meeting](#during-the-presentation-or-meeting)"
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -104,17 +107,15 @@ Often speakers won't know if participants have disabilities. For example, at a l
 
 Make your event and your presentations accessible so that you are prepared for such situations.
 
-{% include_cached excol.html type="end" %}
-
 ### Benefits
 
 Sessions that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language. Accessible sessions also have additional benefits to organizations and individuals.
 
 {::nomarkdown}
-{% include box.html type="start" title="Benefits Example" class="simple aside" %}
+{% include box.html type="start" title="Example" class="simple aside" %}
 {:/}
 
-In this example situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
+In this situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
 -  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
 -  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captioning. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
@@ -124,7 +125,9 @@ In this example situation, a live presentation with “slides” is recorded and
 {% include box.html type="end" %}
 {:/}
 
-If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html). 
+If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
 ## Provide Accessible Material and Media
