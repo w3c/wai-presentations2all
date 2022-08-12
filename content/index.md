@@ -24,7 +24,7 @@ permalink: /teach-advocate/accessible-presentations/   # Add the language shortc
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
 layout: default
 
-description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
+description: Helps make your sessions accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
   <p><strong>Date:</strong> Updated @@ August 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
@@ -41,15 +41,21 @@ inline_css: |
     font-weight: normal;
   }
   h3 {padding-bottom:0; margin-bottom:0;}
+  h4 {
+    font-size: 1.125rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+ }
   ul li {
     margin-top: 5px !important;
     margin-bottom: 0px !important;
   }
 
-
 ---
-
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -168,7 +174,9 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 
 {% include_cached excol.html type="middle" %}
 
+{% include_cached excol.html type="start" id="initial" %}
 ### Initial Planning
+{% include_cached excol.html type="middle" %}
 
 #### Ensure the venue is accessible to speakers and participants <span class="forwhich">(in-person)</span>
 
@@ -188,7 +196,11 @@ Work with participants and service providers to ensure that important details ar
 
 For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
 
+{% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" id="set-up" %}
 ### Event  Set-up
+{% include_cached excol.html type="middle" %}
 
 #### Ensure adequate sound system, and arrange for microphones
 
@@ -215,6 +227,8 @@ Avoid distractions such as catering setup during a meeting or presentation. Cons
 Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
 
 #### ahead of time, see Michele's
+
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="end" %}
 
