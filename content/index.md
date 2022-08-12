@@ -49,7 +49,7 @@ inline_css: |
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
- }
+  }
   ul li {
     margin-top: 5px !important;
     margin-bottom: 0px !important;
@@ -166,13 +166,10 @@ For example, provide alternative text for images and mark up headings. HTML mate
 #### Multimedia - Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
 
 For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="arrange" %}
-
 ## Organizers: Planning the Event
-
-{% include_cached excol.html type="middle" %}
 
 {% include_cached excol.html type="start" id="initial" %}
 ### Initial Planning
@@ -227,8 +224,6 @@ Avoid distractions such as catering setup during a meeting or presentation. Cons
 Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
 
 #### ahead of time, see Michele's
-
-{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="end" %}
 
