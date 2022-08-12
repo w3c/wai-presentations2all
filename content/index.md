@@ -52,17 +52,10 @@ inline_css: |
 
 
 {::nomarkdown}
-{% include box.html type="start" title="Introduction" class="full" %}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-<em>Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.</em>
-
-This page helps you avoid excluding people with disabilities. It applies to:
-
-* **Presenters** &mdash; all except "Organizers: Planning the Event"
-* **Organizers** &mdash; primarily the first the sections
-* **Participants** &mdash; most of "[During the Presentation or Meeting](#during-the-presentation-or-meeting)"
+This page guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, including international participants.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -77,17 +70,26 @@ This page helps you avoid excluding people with disabilities. It applies to:
 -  TOC is created automatically.
 {:toc}
 
-
-
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="User Experience" class="simple aside" %}
+{:/}
+
+Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
+Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.
+
+{::nomarkdown}
+{% include box.html type="end" %}
 {:/}
 
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
 
-## Basics
+## Everyone: Basics
 
 {% include_cached excol.html type="middle" %}
 
@@ -143,19 +145,19 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 
 {% include_cached excol.html type="start" id="material" %}
 
-## Provide Accessible Material and Media
+### Providing Accessible Material and Media
 
 {% include_cached excol.html type="middle" %}
 
-### Format - Offer handouts, slides, and other material in accessible formats
+#### Format - Offer handouts, slides, and other material in accessible formats
 
-Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Word processing formats are often the most flexible to meet different people's needs. PDF is not accessible to some participants with low vision or cognitive disabilities. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
 
-### Materials - Ensure slides, handouts, and other electronic material for participants is accessible
+#### Materials - Ensure slides, handouts, and other electronic material for participants is accessible
 
 For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/standards-guidelines/wcag/), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
 
-### Multimedia - Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
+#### Multimedia - Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards
 
 For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
 {% include_cached excol.html type="end" %}
@@ -166,53 +168,59 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 
 {% include_cached excol.html type="middle" %}
 
-### Ask speakers and participants if they have accessibility requirements
+### Initial Planning
 
-For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
-
-### Ensure the facility and area is accessible to speakers and participants <span class="forwhich">(in-person)</span>
+#### Ensure the venue is accessible to speakers and participants <span class="forwhich">(in-person)</span>
 
 For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
-### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
+#### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
 
 This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/remote-meetings/#selection).
 
-### Ensure adequate sound system, and arrange for microphones
-
-Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
-
-### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
-
-Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
-
-### Arrange for assistive listening devices (ALD)(e.g., hearing loops), interpreters, and captioners, as needed
+#### Arrange for assistive listening devices (ALD)(e.g., hearing loops), interpreters, and captioners, as needed
 
 *(Assistive listening devices ([ALDs](#ald){:.termref}), [interpreters](#terps){:.termref}, and ([captioners](#captions){:.termref}) are explained in the [Terminology](#terms) section.)* 
 
 Work with participants and service providers to ensure that important details are taken care of. For example, a remote captioner can hear the audio clearly, an in-person captioner has the connections they need, and a screen is provided for participants to read the captions. Or, microphones and the presenter’s computer sound output is connected to the ALD system.
 
-### Arrange for good Internet connection when needed <span class="forwhich">(in-person)</span>
+#### Ask speakers and participants about their accessibility requirements
+
+For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
+
+### Event  Set-up
+
+#### Ensure adequate sound system, and arrange for microphones
+
+Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
+
+#### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
+
+Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
+
+#### Arrange for good Internet connections
 
 Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [captioning](#captions){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
 
-### Consider accessibility when planning the schedule
+#### Consider accessibility when planning the schedule
 
 Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
 
-### Plan to limit distractions
+#### Plan to limit distractions
 
 Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
 
-### Give speakers accessibility requirements and guidance
+#### Give speakers accessibility requirements and guidance
 
 Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
+
+#### ahead of time, see Michele's
 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="plan" %}
 
-## Planning Your Session
+## Speakers: Planning Your Session
 
 {% include_cached excol.html type="middle" %}
 
@@ -241,7 +249,7 @@ Some people can better understand verbal information. Other people can better un
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="slides" %}
 
-## Preparing Slides and Projected Material
+## Speakers: Preparing Slides and Projected Material
 
 {% include_cached excol.html type="middle" %}
 
@@ -275,7 +283,7 @@ If you are giving participants material, make it accessible. See [provide access
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
 
-## During the Presentation or Meeting
+## Participants and Speakers: During the Meeting or Presentation
 
 {% include_cached excol.html type="middle" %}
 
