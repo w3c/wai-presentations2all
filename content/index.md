@@ -49,10 +49,10 @@ inline_css: |
 {% include box.html type="start" class="full" %}
 {:/}
 
-Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.
+<em>Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
+Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.</em>
 
-This page helps you avoid excluding people with disabilities.
+This page helps you avoid excluding people with disabilities. Most of it applies presenters, some for organizers is in a separate section. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -74,7 +74,7 @@ This page helps you avoid excluding people with disabilities.
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
-## Basics <span class="forwhich">(for organizers & speakers)</span>
+## Basics
 {% include_cached excol.html type="middle" %}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
@@ -106,30 +106,28 @@ Make your event and your presentations accessible so that you are prepared for s
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="benefits" %}
 ### Benefits
-{% include_cached excol.html type="middle" %}
 
 Sessions that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language. Accessible sessions also have additional benefits to organizations and individuals.
 
 {::nomarkdown}
 {% include box.html type="start" title="Benefits Example" class="simple aside" %}
 {:/}
+
 In this example situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
 -  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
 -  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captioning. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
 -  That transcript is put online and it increases search engine optimization (SEO) for the presentation, the podcast, and the website.
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html). 
 
-{% include_cached excol.html type="end" %}
-
 {% include_cached excol.html type="start" id="material" %}
-## Provide Accessible Material and Media <span class="forwhich">(for organizers & speakers)</span>
+## Provide Accessible Material and Media
 {% include_cached excol.html type="middle" %}
 
 ### Format - Offer handouts, slides, and other material in accessible formats
@@ -297,7 +295,7 @@ For example, a speaker asks people to raise their hands if they make their websi
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
-## For More Information <span class="forwhich">(for speakers & organizers)</span>
+## For More Information
 {% include_cached excol.html type="middle" %}
 This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
 
