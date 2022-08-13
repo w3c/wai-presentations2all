@@ -40,7 +40,6 @@ inline_css: |
     font-style: italic;
     font-weight: normal;
   }
-  h3 {padding-bottom:0; margin-bottom:0;}
   h4 {
     font-size: 1.125rem;
     display: block;
@@ -49,7 +48,9 @@ inline_css: |
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    margin: 40px 0 20px;
   }
+  h3, h4 {padding-bottom:0; margin-bottom:0;}
   ul li {
     margin-top: 5px !important;
     margin-bottom: 0px !important;
@@ -157,7 +158,7 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 
 #### Format - Offer handouts, slides, and other material in accessible formats
 
-Word processing formats are often the most flexible to meet different people's needs. PDF is not accessible to some participants with low vision or cognitive disabilities. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
 
 #### Materials - Ensure slides, handouts, and other electronic material for participants is accessible
 
@@ -227,7 +228,9 @@ Avoid distractions such as catering setup during a meeting or presentation. Cons
 
 Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
 
-#### ahead of time, see Michele's
+#### Coordinate getting material to participants, interpreters, and captioners
+
+Work with speakers to get material to participants with accesibility needs, to interpreters, and to captioners before the event.
 
 {% include_cached excol.html type="end" %}
 
@@ -332,7 +335,7 @@ Note that if you ask “Can everyone hear me OK?” some people might be uncomfo
 
 ### Ensure that all relevant sound is audible through the sound system
 
-For example, if the someone puts a question in chat or doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+For example, if the someone puts a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
 
 ### Limit distractions
 
