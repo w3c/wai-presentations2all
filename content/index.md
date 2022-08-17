@@ -42,8 +42,16 @@ inline_css: |
 
 ---
 
-**Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
+{::nomarkdown}
+{% include box.html type="start" title="Updated Version" icon="default" %}
+{:/}
+
+An updated Editors' Draft of this document is available: **[Making Events Accessible:
+Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://deploy-preview-86--wai-presentations2all.netlify.app/teach-advocate/accessible-presentations/)**. We plan to publish it here by early September 2022.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -67,6 +75,9 @@ This page helps you make your presentations, meetings, conferences, and training
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
+
+**Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
+Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
 
 {% include_cached excol.html type="all" %}
 
