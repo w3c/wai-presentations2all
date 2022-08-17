@@ -6,7 +6,7 @@ title: "How to Make Your Presentations and Meetings Accessible to All"
 nav_title: "Make Presentations and Meetings Accessible"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-08-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -26,7 +26,7 @@ layout: default
 description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 22 July 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
+  <p><strong>Date:</strong> Updated 17 August 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -88,6 +88,13 @@ Organizers and speakers should do things like:
 -  describe pertinent visuals
 -  and other considerations listed on this page
 
+<a id="coga2"></a>
+Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
+
+* For meetings and presentations, start with an overview and end with a review of the most important points
+* Use consistent design in slide presentations to limit cognitive load
+* [Use clear and understandable content {% include_cached icon.html name="different-view" %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
+
 **Respect participant's needs** and be open for other accessibility issues. People might have accessibility needs that you didn't think of. For example: Someone might need to take breaks at set times for insulin injections. Someone with Tourette syndrome might randomly shout out during a session. Someone with a physical disability who cannot take notes might need to record the session.
 
 Often speakers won't know if participants have disabilities. For example, at a large conference where organizers didn't ask registrants. In some cases, you might know the accessibility needs of participants ahead of time. Even then something could change. For example, a new participant could join the training at the last minute. Or someone could develop accessibility needs before the training.
@@ -128,7 +135,7 @@ For example, ensure the building entrance, meeting room, presentation stage, and
 
 ### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
 
-In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform](https://www.w3.org/TR/remote-meetings/#selection).
+This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/remote-meetings/#selection).
 
 ### Ensure adequate sound system, and arrange for microphones <span class="forwhich">(in-person)</span>
 
@@ -151,6 +158,9 @@ Sometimes you might use the Internet for providing alternative formats of materi
 ### Consider accessibility when planning the schedule <span class="forwhich">(in-person, remote)</span>
 
 Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+
+### Plan to limit distractions <span class="forwhich">(in-person, remote)</span>
+Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
 
 ### Give speakers accessibility requirements and guidance <span class="forwhich">(in-person, remote)</span>
 
@@ -261,6 +271,10 @@ Some people might need the audio electronically, even in a small room. This incl
 ### Ensure that all relevant sound is audible through the sound system <span class="forwhich">(in-person, remote)</span>
 
 For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+
+### Limit distractions <span class="forwhich">(in-person, remote)</span>
+
+For example, ask participants to turn off mobile phone notifications, and presenters to turn off system notifications. Discourage side conversations during meetings and presentations.
 
 ### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
 
