@@ -7,7 +7,7 @@ title_html: "Making Events Accessible: <br /><small>Checklist for meetings, conf
 nav_title: "Making Events Accessible Checklist"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-08-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-08-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -27,7 +27,7 @@ layout: default
 description: Helps make your sessions accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated @@ August 2022. First published May 2010. <strong>Note:</strong> EOWG is refining this resource through August and September 2022.</p>
+  <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010. <strong>Note:</strong> EOWG is refining this resource through August and September 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Michele Williams, and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
@@ -173,7 +173,7 @@ For example, provide [captions](#captions){:.termref} _(called “intralingual s
 ## Organizers: Planning the Event
 
 {% include_cached excol.html type="start" id="initial" %}
-### Initial Planning
+### Initial Event Planning
 {% include_cached excol.html type="middle" %}
 
 #### Ensure the venue is accessible to speakers and participants <span class="forwhich">(in-person)</span>
@@ -234,65 +234,64 @@ Work with speakers to get material to participants with accesibility needs, to i
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="plan" %}
-
 ## Speakers: Planning Your Session
 
+{% include_cached excol.html type="start" id="session" %}
+### Initial Session Planning
 {% include_cached excol.html type="middle" %}
 
-### Provide material ahead of time
+#### Provide material ahead of time
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
 <span class="forwhich">Remote:</span> Note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through the screen sharing.
 
-### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
+#### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
 
 Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
-### Caption audio, or otherwise make it available
+#### Caption audio, or otherwise make it available
 
 Ideally, any audio you use is also available in text, for example, videos are captioned. However, if [captioning](#captions){:.termref} is provided for your presentation, that can provide text of the audio.
 
-### Consider activities
+#### Consider activities
 
 Remember potential accessibility issues with participant activities. For example, it may be difficult or impossible for some people to use an online polling feature, arranging sticky notes on a virtual or physical board, or respond quickly to questions.
 
-### Use multiple communication methods for different learning styles
+#### Use multiple communication methods for different learning styles
 
 Some people can better understand verbal information. Other people can better understand pictures and diagrams. And others better understand text.
 
 {% include_cached excol.html type="end" %}
+
 {% include_cached excol.html type="start" id="slides" %}
-
-## Speakers: Preparing Slides and Projected Material
-
+### Preparing Slides and Projected Material
 {% include_cached excol.html type="middle" %}
 
-### Limit the amount of text on each slide {#slide-text}
+#### Limit the amount of text on each slide {#slide-text}
 
 It is difficult for many people to read text and listen to the speaker at the same time. Avoid putting lots of text or other content on slides. (If you want to provide additional information, you could put it in a handout or in slides with notes separate from the presentation.) Use [simple language](#simple-language).
 
-### Make text and important visuals big enough to be read even from the back of the room
+#### Make text and important visuals big enough to be read even from the back of the room
 
 This includes graphics on slides, videos, posters, and other non-electronic material.
 
-### Use an easy-to-read font face
+#### Use an easy-to-read font face
 
 Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
 
-### Use sufficient contrast between colors ("luminance contrast")
+#### Use sufficient contrast between colors ("luminance contrast")
 
 This includes contrast between text and background colors, and between colors in graphs.
 There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Understanding contrast guidance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) and [contrast evaluation tools](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
 Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
 Ensure that the weight of text is sufficient (for example, bold).
 
-### Consider how to use motion or animations
+#### Consider how to use motion or animations
 
 This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.  Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
-### Make provided material accessible {#expres}
+#### Make provided material accessible {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 3 formats:".
 
