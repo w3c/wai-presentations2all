@@ -91,7 +91,7 @@ Organizers and speakers should do things like:
 <a id="coga2"></a>
 Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
 
-* For meetings and presentations, start with an overview and end with a review of most important points
+* For meetings and presentations, start with an overview and end with a review of the most important points
 * Use consistent design in slide presentations to limit cognitive load
 * [Use clear and understandable content {% include_cached icon.html name="different-view" %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 
