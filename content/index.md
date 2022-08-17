@@ -168,8 +168,6 @@ For example, provide alternative text for images and mark up headings. HTML mate
 #### Multimedia - Make media fully accessible, including audio and video used in sessions and recordings of sessions provided afterwards
 
 For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
-@@ CHECK HERE
-This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/remote-meetings/#selection).
 
 {% include_cached excol.html type="end" %}
 
@@ -205,12 +203,6 @@ For example, include a question on registration forms for conferences, send an e
 
 
 #### Ensure adequate sound system, and arrange for microphones
-@@ CHECK HERE
-### Plan to limit distractions <span class="forwhich">(in-person, remote)</span>
-Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
-
-### Give speakers accessibility requirements and guidance <span class="forwhich">(in-person, remote)</span>
-
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
 
 #### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
@@ -340,14 +332,6 @@ Note that if you ask “Can everyone hear me OK?” some people might be uncomfo
 <span class="forwhich">In-person:</span> Some people might need the audio electronically, even in a small room. This includes remote [captioners](#captions){:.termref} and people using [ALDs](#ald){:.termref}.
 
 <span class="forwhich">Remote:</span> Usually built-in laptop microphones are not sufficient quality.
-
-@@ CHECK HERE
-
-### Limit distractions <span class="forwhich">(in-person, remote)</span>
-
-For example, ask participants to turn off mobile phone notifications, and presenters to turn off system notifications. Discourage side conversations during meetings and presentations.
-
-### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
 
 ### Ensure that all relevant sound is audible through the sound system
 
