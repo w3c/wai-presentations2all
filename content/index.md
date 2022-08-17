@@ -7,6 +7,7 @@ title_html: "Making Events Accessible: <br /><small>Checklist for meetings, conf
 nav_title: "Making Events Accessible Checklist"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
 last_updated: 2022-08-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -118,7 +119,7 @@ Organizers and speakers should do things like:
 <a id="coga2"></a>
 Most aspects that are general good practice are particularly important for people with cognitive disabilities. For example:
 
-* For meetings and presentations, start with an overview and end with a review of most important points
+* For meetings and presentations, start with an overview and end with a review of the most important points
 * Use consistent design in slide presentations to limit cognitive load
 * [Use clear and understandable content {% include_cached icon.html name="different-view" %}](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 
@@ -167,6 +168,8 @@ For example, provide alternative text for images and mark up headings. HTML mate
 #### Multimedia - Make media fully accessible, including audio and video used in sessions and recordings of sessions provided afterwards
 
 For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+@@ CHECK HERE
+This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/remote-meetings/#selection).
 
 {% include_cached excol.html type="end" %}
 
@@ -200,7 +203,13 @@ For example, include a question on registration forms for conferences, send an e
 ### Event  Set-up
 {% include_cached excol.html type="middle" %}
 
+
 #### Ensure adequate sound system, and arrange for microphones
+@@ CHECK HERE
+### Plan to limit distractions <span class="forwhich">(in-person, remote)</span>
+Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
+
+### Give speakers accessibility requirements and guidance <span class="forwhich">(in-person, remote)</span>
 
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
 
@@ -331,6 +340,14 @@ Note that if you ask “Can everyone hear me OK?” some people might be uncomfo
 <span class="forwhich">In-person:</span> Some people might need the audio electronically, even in a small room. This includes remote [captioners](#captions){:.termref} and people using [ALDs](#ald){:.termref}.
 
 <span class="forwhich">Remote:</span> Usually built-in laptop microphones are not sufficient quality.
+
+@@ CHECK HERE
+
+### Limit distractions <span class="forwhich">(in-person, remote)</span>
+
+For example, ask participants to turn off mobile phone notifications, and presenters to turn off system notifications. Discourage side conversations during meetings and presentations.
+
+### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
 
 ### Ensure that all relevant sound is audible through the sound system
 
