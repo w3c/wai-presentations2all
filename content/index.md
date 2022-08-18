@@ -109,11 +109,11 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **speak** well or at all, or
 -  **understand** information presented in some ways well or at all.
 
-Organizers and speakers should do things like:
-
--  ensure the facility is accessible
--  speak clearly into the microphone
--  describe pertinent visuals
+<a id="examples"></a>
+To be inclusive:
+-  organizers ensure the remote platform and the in-person venue is accessible
+-  speakers describe pertinent visuals
+-  participants speak clearly into a good quality microphone
 -  and other considerations listed on this page
 
 <a id="coga2"></a>
