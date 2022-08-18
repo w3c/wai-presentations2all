@@ -110,9 +110,9 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **understand** information presented in some ways well or at all.
 
 <a id="examples"></a>
-To be inclusive:
+For example, to be inclusive:
 -  organizers ensure the remote platform and the in-person venue is accessible
--  speakers describe pertinent visuals
+-  speakers describe pertinent visual information
 -  participants speak clearly into a good quality microphone
 -  and other considerations listed on this page
 
