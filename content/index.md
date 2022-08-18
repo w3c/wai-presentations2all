@@ -97,7 +97,7 @@ Be careful not to leave out information for some people in your audience. For ex
 
 {% include_cached excol.html type="start" id="basic" %}
 
-## Everyone: Basics
+## Everyone: Understanding the Basics
 
 {% include_cached excol.html type="middle" %}
 
