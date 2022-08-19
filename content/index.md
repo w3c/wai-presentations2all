@@ -205,6 +205,7 @@ For example, include a question on registration forms for conferences, send an e
 
 
 #### Ensure adequate sound system, and arrange for microphones
+
 Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
 
 #### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
@@ -329,11 +330,9 @@ Be visible and in good light when you talk, so participants can see your face. T
 
 ### Use a good quality microphone
 
-Note that if you ask “Can everyone hear me OK?” some people might be uncomfortable saying that they cannot.
+Ensure the microphone is positioned so it picks up your voice well. Note that if you ask “Can everyone hear me OK?” some people might be uncomfortable saying that they cannot.
 
 <span class="forwhich">In-person:</span> Some people might need the audio electronically, even in a small room. This includes remote [captioners](#captions){:.termref} and people using [ALDs](#ald){:.termref}.
-
-<span class="forwhich">Remote:</span> Usually built-in laptop microphones are not sufficient quality.
 
 ### Ensure that all relevant sound is audible through the sound system
 
