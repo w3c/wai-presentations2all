@@ -63,7 +63,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
+This page guides presenters, organizers, and participants in making events inclusive of people with disabilities. This benefits everyone, particularly international participants.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -159,7 +159,9 @@ If you want to learn about more benefits of accessible media, see [Benefits to O
 
 #### Format - Offer handouts, slides, and other material in accessible formats
 
-Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
+Use formats that allow users to adapt the presentation to meet their needs, such as word processing, HTML, or EPUB. (Most users are more skilled at adapting word processing formats.) Avoid providing material only in formats that users cannot adapt, including PDF and protected Word documents. Tagged PDF is not accessible to users with low vision and cognitive disabilities who need to change font size, line spacing, colors, zoom, reflow, and print.
+
+Some participants will need print material in alternative formats such as large print and braille. If you give participants accessible digital material in advance, then you usually don’t need to provide these alternative print formats.
 
 #### Materials - Ensure slides, handouts, and other electronic material for participants is accessible
 
