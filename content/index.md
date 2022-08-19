@@ -63,7 +63,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page guides presenters, organizers, and participants in making events inclusive of people with disabilities. This benefits everyone, particularly international participants.
+This page guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
 
 {::nomarkdown}
 {% include box.html type="end" %}
