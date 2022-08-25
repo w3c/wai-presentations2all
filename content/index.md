@@ -147,7 +147,7 @@ In this situation, a live presentation with “slides” is recorded and later m
 {% include box.html type="end" %}
 {:/}
 
-If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
+If you want to learn about more benefits of accessible media, see [User Experiences and Benefits to Organizations](/media/av/users-orgs/) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
 {% include_cached excol.html type="end" %}
 
