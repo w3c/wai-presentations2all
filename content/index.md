@@ -28,7 +28,7 @@ layout: default
 description: Helps make your sessions accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010. <strong>Note:</strong> EOWG is refining this resource through August and September 2022.</p>
+  <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Michele Williams, and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
