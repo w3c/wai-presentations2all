@@ -159,7 +159,7 @@ If you want to learn about more benefits of accessible media, see [User Experien
 
 #### Format - Offer handouts, slides, and other material in accessible formats
 
-Use formats that allow users to adapt the presentation to meet their needs, such as word processing, HTML, or EPUB. (Most users are more skilled at adapting word processing formats.) Avoid providing material only in formats that users cannot adapt, including PDF and protected Word documents. Tagged PDF is not accessible to users with low vision and cognitive disabilities who need to change font size, line spacing, colors, zoom, reflow, and print.
+Use formats that allow users to adapt the presentation to meet their needs, such as word processing, HTML, or EPUB. (Most users are more skilled at adapting word processing formats.) Avoid providing material only in formats that users cannot adapt, including PDF and protected Word documents. Even tagged PDF is not accessible to users with low vision and cognitive disabilities who need to change font size, line spacing, colors, zoom, reflow, and print; and has significant exceptions for screen reader users. _([references]https://github.com/w3c/wai-presentations2all/issues/88#issuecomment-1221003885)_
 
 Some participants will need print material in alternative formats such as large print and braille. If you give participants accessible digital material in advance, then you usually don’t need to provide these alternative print formats.
 
