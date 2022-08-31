@@ -199,8 +199,8 @@ For example, include a question on registration forms for conferences, send an e
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="set-up" %}
-### Event  Set-up
+{% include_cached excol.html type="start" id="setup" %}
+### Event  Setup
 {% include_cached excol.html type="middle" %}
 
 
