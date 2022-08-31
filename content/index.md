@@ -2,11 +2,13 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "How to Make Your Presentations and Meetings Accessible to All"
-nav_title: "Make Presentations and Meetings Accessible"   # A short title that is used in the navigation
+title: "Making Events Accessible - Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid"
+title_html: "Making Events Accessible: <br /><small>Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid</small>"
+nav_title: "Making Events Accessible Checklist"   # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-08-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+last_updated: 2022-08-31   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -23,11 +25,11 @@ permalink: /teach-advocate/accessible-presentations/   # Add the language shortc
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
 layout: default
 
-description: Helps make your presentations and meetings accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
+description: Helps presenters, organizers, and participants make events inclusive, particularly to participants with disabilities and to international participants.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-  <p><strong>Date:</strong> Updated 17 August 2022. First published May 2010. <strong>Note:</strong> We are updating and expanding this resource in July and August 2022.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
+  <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Michele Williams, and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
 # Check for any Translations Notes specifically for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
@@ -39,25 +41,29 @@ inline_css: |
     font-style: italic;
     font-weight: normal;
   }
+  h4 {
+    font-size: 1.125rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin: 40px 0 20px;
+  }
+  h3, h4 {padding-bottom:0; margin-bottom:0;}
+  ul li {
+    margin-top: 5px !important;
+    margin-bottom: 0px !important;
+  }
 
 ---
-
-{::nomarkdown}
-{% include box.html type="start" title="Updated Version" icon="default" %}
-{:/}
-
-An updated Editors' Draft of this document is available: **[Making Events Accessible:
-Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid](https://deploy-preview-86--wai-presentations2all.netlify.app/teach-advocate/accessible-presentations/)**. We plan to publish it here by early September 2022.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page helps you make your presentations, meetings, conferences, and training more accessible to everyone, particularly people with disabilities. **It focuses on in-person events and indicates overlapping issues with remote and hybrid events.**
+This page guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -76,13 +82,23 @@ This page helps you make your presentations, meetings, conferences, and training
 {% include_cached toc.html type="end" %}
 {:/}
 
-**Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
-Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.**
+{::nomarkdown}
+{% include box.html type="start" title="User Experience" class="simple aside" %}
+{:/}
+
+Do you remember a time when people around you broke out in laughter, but you didn't hear the joke? <br>
+Be careful not to leave out information for some people in your audience. For example, if you say "you can read it on the slide", you are probably excluding people who cannot see the slide.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {% include_cached excol.html type="all" %}
 
 {% include_cached excol.html type="start" id="basic" %}
-## Basics <span class="forwhich">(for organizers & speakers)</span>
+
+## Everyone: Understanding the Basics
+
 {% include_cached excol.html type="middle" %}
 
 Be open to diversity in your audience and any accessibility issues. Basically, be aware that some of your audience might not be able to:
@@ -93,10 +109,11 @@ Be open to diversity in your audience and any accessibility issues. Basically, b
 -  **speak** well or at all, or
 -  **understand** information presented in some ways well or at all.
 
-Organizers and speakers should do things like:
--  ensure the facility is accessible
--  speak clearly into the microphone
--  describe pertinent visuals
+<a id="examples"></a>
+For example, to be inclusive:
+-  organizers ensure the remote platform and the in-person venue is accessible
+-  speakers describe pertinent visual information
+-  participants speak clearly into a good quality microphone
 -  and other considerations listed on this page
 
 <a id="coga2"></a>
@@ -112,196 +129,224 @@ Often speakers won't know if participants have disabilities. For example, at a l
 
 Make your event and your presentations accessible so that you are prepared for such situations.
 
-{% include_cached excol.html type="end" %}
+### Benefits
 
-{% include_cached excol.html type="start" id="benefits" %}
-## Benefits <span class="forwhich">(organizers & speakers)</span>
-{% include_cached excol.html type="middle" %}
+Sessions that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language. Accessible sessions also have additional benefits to organizations and individuals.
 
-Sessions that are accessible to people with disabilities are also **inclusive** to many more audiences. For example, people with different learning styles and people who are not fluent in the language.
+{::nomarkdown}
+{% include box.html type="start" title="Example" class="simple aside" %}
+{:/}
 
-Accessible sessions also have additional benefits to organizations and individuals.
-
-In this example situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
+In this situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
 -  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
 -  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captioning. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
 -  That transcript is put online and it increases search engine optimization (SEO) for the presentation, the podcast, and the website.
 
-If you want to learn about more benefits of accessible media, see [Benefits to Organizations and Individuals, in Making Audio and Video Media Accessible](/media/av/#benefits) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html). 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+If you want to learn about more benefits of accessible media, see [User Experiences and Benefits to Organizations](/media/av/users-orgs/) and [benefits of transcripts {% include_cached external.html %}](http://www.uiaccess.com/transcripts/transcripts_on_the_web.html).
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="arrange" %}
-## Planning the Event <span class="forwhich">(organizers)</span>
+{% include_cached excol.html type="start" id="material" %}
+
+### Providing Accessible Material and Media
+
 {% include_cached excol.html type="middle" %}
 
-### Ask speakers and participants if they have accessibility requirements <span class="forwhich">(in-person, remote)</span>
+#### Format - Offer handouts, slides, and other material in accessible formats
 
-For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests. For example, someone who is hard of hearing might request seating small discussion groups in a circle to make it easier to hear people talking. Or someone with low vision might ask to sit in the front row to see the screen better.
+Use formats that allow users to adapt the presentation to meet their needs, such as word processing, HTML, or EPUB. (Most users are more skilled at adapting word processing formats.) Avoid providing material only in formats that users cannot adapt, including PDF and protected Word documents. Even tagged PDF is not accessible to users with low vision and cognitive disabilities who need to change font size, line spacing, colors, zoom, reflow, and print; and has significant exceptions for screen reader users. _([references](https://github.com/w3c/wai-presentations2all/issues/88#issuecomment-1221003885))_
 
-### Ensure the facility and area is accessible to speakers and participants <span class="forwhich">(in-person)</span>
+Some participants will need print material in alternative formats such as large print and braille. If you give participants accessible digital material in advance, then you usually don’t need to provide these alternative print formats.
+
+#### Materials - Ensure slides, handouts, and other electronic material for participants is accessible
+
+For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/standards-guidelines/wcag/), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
+
+#### Multimedia - Make media fully accessible, including audio and video used in sessions and recordings of sessions provided afterwards
+
+For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
+
+{% include_cached excol.html type="end" %}
+
+## Organizers: Planning the Event
+
+{% include_cached excol.html type="start" id="initial" %}
+### Initial Event Planning
+{% include_cached excol.html type="middle" %}
+
+#### Ensure the venue is accessible to speakers and participants <span class="forwhich">(in-person)</span>
 
 For example, ensure the building entrance, meeting room, presentation stage, and bathrooms are accessible. (There are checklists online to help ensure a facility is accessible, such as [Accessibility Checklist for Existing Facilities {% include_cached external.html %}](http://uiaccess.com/facilities.html).) Provide accessibility information, such as the accessible routes between meeting rooms. Let speakers and participants check out the rooms in advance to suggest optimum positioning of the speaker, screen, seating, etc.
 
-### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
+#### Ensure the remote meeting platform is accessible <span class="forwhich">(remote)</span>
 
 This includes providing multiple connection options. In the W3C resource <cite>Accessibility of Remote Meetings</cite>, see the section on [selecting an accessible remote meeting platform {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/remote-meetings/#selection).
 
-### Ensure adequate sound system, and arrange for microphones <span class="forwhich">(in-person)</span>
-
-Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
-
-### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref} <span class="forwhich">(in-person, remote)</span>
-
-Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
-
-### Arrange for assistive listening devices (ALD)(e.g., hearing loops), interpreters, and captioners, as needed <span class="forwhich">(in-person, remote)</span>
+#### Arrange for assistive listening devices (ALD)(e.g., hearing loops), interpreters, and captioners, as needed
 
 *(Assistive listening devices ([ALDs](#ald){:.termref}), [interpreters](#terps){:.termref}, and ([captioners](#captions){:.termref}) are explained in the [Terminology](#terms) section.)* 
 
 Work with participants and service providers to ensure that important details are taken care of. For example, a remote captioner can hear the audio clearly, an in-person captioner has the connections they need, and a screen is provided for participants to read the captions. Or, microphones and the presenter’s computer sound output is connected to the ALD system.
 
-### Arrange for good Internet connection when needed <span class="forwhich">(in-person)</span>
+#### Ask speakers and participants about their accessibility requirements
 
-Sometimes you might use the Internet for providing alternative formats of materials during the presentation. For example, allowing people using screen readers or other [assistive technologies](#terms){:.termref} to follow along with an online version of your displayed material. For remote [captioning](#captions){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
+For example, include a question on registration forms for conferences, send an email to company-internal training participants, etc. Invite participants to include specific requests.
 
-### Consider accessibility when planning the schedule <span class="forwhich">(in-person, remote)</span>
+{% include_cached excol.html type="end" %}
 
-Some people need more time to get from room to room. For example, because they move slowly, or because the accessible route is longer. Schedule sufficient breaks. People might need to take care of medical needs during breaks. Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+{% include_cached excol.html type="start" id="setup" %}
+### Event  Setup
+{% include_cached excol.html type="middle" %}
 
-### Plan to limit distractions <span class="forwhich">(in-person, remote)</span>
+
+#### Ensure adequate sound system, and arrange for microphones
+
+Often wireless lapel microphones are best so that speakers can move around. When the audience will be commenting or asking questions, provide microphones for them.
+
+#### Arrange for good visibility of the speakers and [interpreters](#terps){:.termref}
+
+Have good lighting on their face and upper body. Avoid distracting backgrounds, such as bright sunlight or flashing light.
+
+#### Arrange for good Internet connections
+
+<span class="forwhich">In-person:</span> Participants might need Internet access to follow along with an online version of displayed material. If using remote [captioning](#captions){:.termref}, you will need a reliable connection that has enough bandwidth for transferring audio.
+
+<span class="forwhich">Remote:</span> Strong, stable connections help speakers come through clearly.
+
+#### Consider accessibility when planning the schedule
+
+Some people need breaks to take care of medical needs. <span class="forwhich">For in-person,</span> it may take more time to get from room to room.
+
+Keep to the schedule as much as possible, and inform participants ahead of time of any changes.
+
+#### Plan to limit distractions
+
 Avoid distractions such as catering setup during a meeting or presentation. Consider not having background music in the halls or conference rooms, including during breaks. Or, keep the volume low. Background noise is difficult for people who are hard of hearing and for captioners.
 
-### Give speakers accessibility requirements and guidance <span class="forwhich">(in-person, remote)</span>
+#### Give speakers accessibility requirements and guidance
 
 Tell speakers that you expect their material and presentations to be accessible to people with disabilities. Consider including accessibility requirements in any contracts. Consider including the link to this page (www.w3.org/WAI/training/accessible) in speaker guidelines, e-mails, web pages, etc.
 
+#### Coordinate getting material to participants, interpreters, and captioners
+
+Work with speakers to get material to participants with accesibility needs, to interpreters, and to captioners before the event.
+
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" id="material" %}
-## Provide Accessible Material and Media <span class="forwhich">(organizers & speakers)</span>
+## Speakers: Planning Your Session
+
+{% include_cached excol.html type="start" id="session" %}
+### Initial Session Planning
 {% include_cached excol.html type="middle" %}
 
-### Offer handouts, slides, and other material in accessible formats <span class="forwhich">(in-person, remote)</span>
-
-Word processing formats are often the most flexible to meet different people's needs. Participants might need material in alternative formats such as large print or braille. If they get the material in advance electronically, they may not need it in hard copy.
-
-### Ensure slides, handouts, and other electronic material for participants is accessible <span class="forwhich">(in-person, remote)</span>
-
-For example, provide alternative text for images and mark up headings. HTML material, such as a conference website, should meet [WCAG](/standards-guidelines/wcag/), at least Level AA. ([Preparing Slides and Projected Material](#slides) below has details for speakers. Some other resources are listed under [For More Information](#fyi) below.)
-
-### Make media fully accessible — including audio and video used in sessions, and recordings of sessions provided afterwards <span class="forwhich">(in-person, remote)</span>
-
-For example, provide [captions](#captions){:.termref} _(called “intralingual subtitles” in some areas)_ and/or transcripts for audio, and provide audio description of visual information in videos. For guidance on creating accessible media, **see [[Making Audio and Video Media Accessible]](/media/av/)**.
-{% include_cached excol.html type="end" %}
-{% include_cached excol.html type="start" id="plan" %}
-## Planning Your Session <span class="forwhich">(speakers)</span>
-{% include_cached excol.html type="middle" %}
-
-### Provide material ahead of time <span class="forwhich">(in-person, remote)</span>
+#### Provide material ahead of time
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
-For remote sessions, note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through the screen sharing.
+<span class="forwhich">Remote:</span> Note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through the screen sharing.
 
-
-### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref} <span class="forwhich">(in-person, remote)</span>
+#### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
 
 Give them material in advance. Explain acronyms, terms, names, etc. that you will use. Be available to answer questions.
 
-### Caption audio, or otherwise make it available <span class="forwhich">(in-person, remote)</span>
+#### Caption audio, or otherwise make it available
 
 Ideally, any audio you use is also available in text, for example, videos are captioned. However, if [captioning](#captions){:.termref} is provided for your presentation, that can provide text of the audio.
 
-### Consider activities <span class="forwhich">(in-person, remote)</span>
+#### Consider activities
 
-Remember potential accessibility issues with any participant activities. For example, responding to questions, arranging sticky notes, small group projects, etc.
+Remember potential accessibility issues with participant activities. For example, it may be difficult or impossible for some people to use an online polling feature, arranging sticky notes on a virtual or physical board, or respond quickly to questions.
 
-### Use multiple communication methods for different learning styles <span class="forwhich">(in-person, remote)</span>
+#### Use multiple communication methods for different learning styles
 
 Some people can better understand verbal information. Other people can better understand pictures and diagrams. And others better understand text.
 
 {% include_cached excol.html type="end" %}
+
 {% include_cached excol.html type="start" id="slides" %}
-## Preparing Slides and Projected Material <span class="forwhich">(speakers)</span>
+### Preparing Slides and Projected Material
 {% include_cached excol.html type="middle" %}
 
-### Limit the amount of text on each slide <span class="forwhich">(in-person, remote)</span> {#slide-text}
+#### Limit the amount of text on each slide {#slide-text}
 
 It is difficult for many people to read text and listen to the speaker at the same time. Avoid putting lots of text or other content on slides. (If you want to provide additional information, you could put it in a handout or in slides with notes separate from the presentation.) Use [simple language](#simple-language).
 
-### Make text and important visuals big enough to be read even from the back of the room <span class="forwhich">(in-person, remote)</span>
+#### Make text and important visuals big enough to be read even from the back of the room
 
 This includes graphics on slides, videos, posters, and other non-electronic material.
 
-### Use an easy-to-read font face <span class="forwhich">(in-person, remote)</span>
+#### Use an easy-to-read font face
 
 Simple fonts with consistent thickness are often easier to read from a distance. Fonts where parts of the letters are thin are harder to read. Avoid fancy fonts that are difficult to read.
 
-### Use sufficient contrast between colors ("luminance contrast") <span class="forwhich">(in-person, remote)</span>
+#### Use sufficient contrast between colors ("luminance contrast")
 
 This includes contrast between text and background colors, and between colors in graphs.
 There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Understanding contrast guidance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) and [contrast evaluation tools](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
 Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
 Ensure that the weight of text is sufficient (for example, bold).
 
-### Consider how to use motion or animations <span class="forwhich">(in-person, remote)</span>
+#### Consider how to use motion or animations
 
 This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.  Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
-### Make provided material accessible <span class="forwhich">(in-person, remote)</span> {#expres}
+#### Make provided material accessible {#expres}
 
 If you are giving participants material, make it accessible. See [provide accessible material](#material) above. An [example of presentation material provided in both presentation format and web format (HTML and CSS)](http://www.w3.org/WAI/presentations/WCAG20_benefits/) is linked from the top of the page after "The Benefits of WCAG 2 presentation is available in 3 formats:".
 
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="during" %}
-## During the Presentation or Meeting <span class="forwhich">(speakers)</span>
+
+## Participants and Speakers: During the Meeting or Presentation
+
 {% include_cached excol.html type="middle" %}
 
-### Speak clearly <span class="forwhich">(in-person, remote)</span>
+### Describe all relevant visual information {#visuals}
+
+Say all of the information that is on each slide, including text and graphics. (This does not mean that you have to read the slide exactly as it is. It just means that you cover the visual information in what you say.)
+
+Describe visual information in the environment. For example, a speaker asks people to raise their hands if they make their websites fully accessible. The speaker should then describe the visual response: "About half raised their hand".
+
+### Speak clearly
 
 And avoid speaking too fast, so participants and interpreters can better understand you and keep up.
 
-### Use simple language <span class="forwhich">(in-person, remote)</span> {#simple-language}
+### Use simple language {#simple-language}
 
 Avoid or explain jargon, acronyms, and idioms. For example, expressions such as "raising the bar" can be interpreted literally by some people with cognitive disabilities and can be confusing.
 
-### Give people time to process information <span class="forwhich">(in-person, remote)</span>
+### Give people time to process information
 
 Pause between topics. When you ask if anyone has questions, some people with cognitive disabilities will need extra time to form their thoughts into words.
 
-### Be visible <span class="forwhich">(in-person, remote)</span>
+### Be visible
 
-Be visible and in good light when you talk, so participants can see your face. This helps some people hear and understand better. Be careful not to face away from the audience to read projected material, particularly if you don't have a microphone.
+Be visible and in good light when you talk, so participants can see your face. This helps some people hear and understand better, including many who are hard of hearing or have difficulty understanding accents. Be careful not to face away from your webcam or the audience to read projected material.
 
-### Use a microphone <span class="forwhich">(in-person)</span> {#usemic}
+### Use a good quality microphone
 
-Some people might need the audio electronically, even in a small room. This includes people using [ALDs](#ald){:.termref} and remote [captioners](#captions){:.termref}. Note that if you ask "Can everyone hear me OK?" some people might be uncomfortable saying that they cannot.
+Ensure the microphone is positioned so it picks up your voice well. Note that if you ask “Can everyone hear me OK?” some people might be uncomfortable saying that they cannot.
 
-### Ensure that all relevant sound is audible through the sound system <span class="forwhich">(in-person, remote)</span>
+<span class="forwhich">In-person:</span> Some people might need the audio electronically, even in a small room. This includes remote [captioners](#captions){:.termref} and people using [ALDs](#ald){:.termref}.
 
-For example, if the audience doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+### Ensure that all relevant sound is audible through the sound system
 
-### Limit distractions <span class="forwhich">(in-person, remote)</span>
+For example, if the someone puts a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+
+### Limit distractions
 
 For example, ask participants to turn off mobile phone notifications, and presenters to turn off system notifications. Discourage side conversations during meetings and presentations.
 
-### Cover all displayed text <span class="forwhich">(in-person, remote)</span> {#visuals}
-
-Say all of the information that is on each slide. (This does not mean that you have to read the slide exactly as it is. It just means that you cover the visual information in what you say.)
-
-### Describe pertinent parts of graphics, videos, and other visuals <span class="forwhich">(in-person, remote)</span>
-
-Describe them to the extent needed to understand the presentation. (You usually do not need to describe decorative images.)
-
-### Describe other visual information <span class="forwhich">(in-person, remote)</span>
-
-For example, a speaker asks people to raise their hands if they make their websites fully accessible. The speaker should then describe the visual response: "About half raised their hand".
-
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="fyi" %}
-## For More Information <span class="forwhich">(speakers & organizers)</span>
+
+## For More Information
+
 {% include_cached excol.html type="middle" %}
 This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
 
@@ -322,10 +367,10 @@ Information on web accessibility:
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
 
-
-{% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="terms" %}
-## Terminology <span class="forwhich">(appendix)</span>
+
+### Terminology
+
 {% include_cached excol.html type="middle" %}
 
 <span id="at">assistive technologies</span>
@@ -340,6 +385,8 @@ Information on web accessibility:
 
 <span id="terps">interpreters</span>
 :  In this resource, “interpreters” includes sign language interpreters, cued speech transliterators, and others. Note that sign languages are different from spoken languages and there is not a one-to-one translation.
+
+{% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="end" %}
 
