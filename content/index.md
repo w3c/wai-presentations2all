@@ -25,7 +25,7 @@ permalink: /teach-advocate/accessible-presentations/   # Add the language shortc
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
 layout: default
 
-description: Helps make your sessions accessible to people with disabilities. Addresses in-person, remote, and hybrid events.  # translate the description
+description: Helps presenters, organizers, and participants make events inclusive, particularly to participants with disabilities and to international participants.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
   <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010.</p>
