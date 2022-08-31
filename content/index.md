@@ -25,7 +25,7 @@ permalink: /teach-advocate/accessible-presentations/   # Add the language shortc
 ref: /teach-advocate/accessible-presentations/   # Translators, do not change this
 layout: default
 
-description: Helps presenters, organizers, and participants make events inclusive, particularly to participants with disabilities and to international participants.  # translate the description
+description: Helps presenters, participants, and organizers make events inclusive, particularly to people with disabilities and to international participants.  # translate the description
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
   <p><strong>Date:</strong> Updated 31 August 2022. First published May 2010.</p>
@@ -63,7 +63,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
+This page helps presenters, participants, and organizers make events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -348,11 +348,6 @@ For example, ask participants to turn off mobile phone notifications, and presen
 ## For More Information
 
 {% include_cached excol.html type="middle" %}
-This resource primarily addresses in-person presentations and overlapping issues with remote meetings. There are additional considerations for remote and hybrid sessions. See also:
-
--  **[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)** for details on [meeting platform accessibility](https://w3c.github.io/remote-meetings/#meeting-platform-selection-and-development), [hybrid meetings](https://w3c.github.io/remote-meetings/#holding-accessible-hybrid-meetings), and more.
--  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible
-
 **Details on how to make material that you give to participants accessible is beyond the scope of this document.**
 
 There are resources online that provide related guidance, such as:
@@ -361,11 +356,13 @@ There are resources online that provide related guidance, such as:
 -  [Planning an Accessible Conference {% include_cached external.html %}](http://www.sigaccess.org/community/accessible_conference/), [Accessible Virtual Conferences {% include_cached external.html %}](https://www.sigaccess.org/accessible-virtual-conferences/)
 -  [Interacting with People with Disabilities {% include_cached external.html %}](http://www.uiaccess.com/accessucd/interact.html)
 
-Information on web accessibility:
+Related information from W3C Web Accessibility Initiative (WAI):
 
+-  **[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)** for details on [meeting platform accessibility](https://w3c.github.io/remote-meetings/#meeting-platform-selection-and-development), [hybrid meetings](https://w3c.github.io/remote-meetings/#holding-accessible-hybrid-meetings), and more.
+-  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible.
 -  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
 -  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
--  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/yourWAI).
+-  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/resources).
 
 {% include_cached excol.html type="start" id="terms" %}
 
