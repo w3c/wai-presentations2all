@@ -139,8 +139,8 @@ Sessions that are accessible to people with disabilities are also **inclusive** 
 
 In this situation, a live presentation with “slides” is recorded and later made available in an audio podcast:
 
--  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have video.
--  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captioning. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
+-  The presenter describes the important visual information in the slides during the presentation. That provides the visual information during the presentation to people who are blind and to people who cannot see the slides well. Later, people listening to the podcast also get the visual information that was described, even though they don’t have the video.
+-  During the presentation, a professional captioner types what is being said as text. People who are deaf or hard of hearing read the captions. It also helps people who understand written text better than spoken language. For example, people whose native language is different. Later, the live captioning output is used to develop a text transcript of the presentation.
 -  That transcript is put online and it increases search engine optimization (SEO) for the presentation, the podcast, and the website.
 
 {::nomarkdown}
@@ -248,7 +248,7 @@ Work with speakers to get material to participants with accesibility needs, to i
 
 Provide slides, handouts, and other material to participants, [interpreters](#terps){:.termref}, and [captioners](#captions){:.termref}, as needed. Make it accessible. (More about [providing accessible material](#material) is above.)
 
-<span class="forwhich">Remote:</span> Note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through the screen sharing.
+<span class="forwhich">Remote:</span> Note that content in screen sharing is often not accessible. You usually need to provide the material so participants can access it directly, not through screen sharing.
 
 #### Work with [interpreters](#terps){:.termref} and [captioners](#captions){:.termref}
 
@@ -256,7 +256,7 @@ Give them material in advance. Explain acronyms, terms, names, etc. that you wil
 
 #### Caption audio, or otherwise make it available
 
-Ideally, any audio you use is also available in text, for example, videos are captioned. However, if [captioning](#captions){:.termref} is provided for your presentation, that can provide text of the audio.
+Ideally, any audio you use is also available in text, for example, videos are captioned. However, if [captioning](#captions){:.termref} is provided for your presentation, then that can provide the text of the audio.
 
 #### Consider activities
 
@@ -288,12 +288,12 @@ Simple fonts with consistent thickness are often easier to read from a distance.
 
 This includes contrast between text and background colors, and between colors in graphs.
 There are guidelines for web pages that you can use to help determine sufficient contrast &mdash; even though the medium is different. See [Understanding contrast guidance](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced) and [contrast evaluation tools](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced#resources).
-Use appropriate background and text colors. Some suggest when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
+Use appropriate background and text colors. Some people suggest, when presenting in a light room, to display dark text on a light background. And when presenting in a darkened room, to display light text on a dark background.
 Ensure that the weight of text is sufficient (for example, bold).
 
 #### Consider how to use motion or animations
 
-This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill.  Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
+This includes text or images flying in from the side. Will the motion make the information easier to understand, or is it unnecessary? Certain types of motion can be particularly distracting for some people, and can make some people ill. Avoid blinking or flashing that could cause seizures. See [Understanding Guideline 2.3: Seizures and Physical Reactions](https://www.w3.org/WAI/WCAG21/Understanding/seizures-and-physical-reactions).
 
 #### Make provided material accessible {#expres}
 
@@ -336,7 +336,7 @@ Ensure the microphone is positioned so it picks up your voice well. Note that if
 
 ### Ensure that all relevant sound is audible through the sound system
 
-For example, if the someone puts a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+For example, if someone asks a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
 
 ### Limit distractions
 
@@ -359,9 +359,9 @@ There are resources online that provide related guidance, such as:
 Related information from W3C Web Accessibility Initiative (WAI):
 
 -  **[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)** for details on [meeting platform accessibility](https://w3c.github.io/remote-meetings/#meeting-platform-selection-and-development), [hybrid meetings](https://w3c.github.io/remote-meetings/#holding-accessible-hybrid-meetings), and more.
--  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible.
--  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
--  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
+-  **[Making Audio and Video Media Accessible](/media/av/)** for detailed guidance on making multimedia accessible.
+-  [Introduction to Web Accessibility](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
+-  [Web Content Accessibility Guidelines (WCAG) Overview](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/resources).
 
 {% include_cached excol.html type="start" id="terms" %}
