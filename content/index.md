@@ -359,9 +359,9 @@ There are resources online that provide related guidance, such as:
 Related information from W3C Web Accessibility Initiative (WAI):
 
 -  **[Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/)** for details on [meeting platform accessibility](https://w3c.github.io/remote-meetings/#meeting-platform-selection-and-development), [hybrid meetings](https://w3c.github.io/remote-meetings/#holding-accessible-hybrid-meetings), and more.
--  **[Making Audio and Video Media Accessible](/media/av/)** for detailed guidance on making multimedia accessible.
--  [Introduction to Web Accessibility](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
--  [Web Content Accessibility Guidelines (WCAG) Overview](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
+-  **[[Making Audio and Video Media Accessible]](/media/av/)** for detailed guidance on making multimedia accessible.
+-  [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/) - briefly introduces web accessibility and links to more resources.
+-  [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/) - introduces guidelines for making web content accessible. This includes presentation material, online learning, and other material provided in web formats.
 -  [Web Accessibility Initiative (WAI) home page](https://www.w3.org/WAI/) - links to guidelines/standards and a wide range of [support material](http://www.w3.org/WAI/resources).
 
 {% include_cached excol.html type="start" id="terms" %}
