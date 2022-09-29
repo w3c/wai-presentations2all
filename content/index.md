@@ -336,7 +336,7 @@ Ensure the microphone is positioned so it picks up your voice well. Note that if
 
 ### Ensure that all relevant sound is audible through the sound system
 
-For example, if the someone puts a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
+For example, if someone puts a question in remote chat or someone in-person doesn't have a microphone, repeat their questions and comments into your microphone before replying.
 
 ### Limit distractions
 
