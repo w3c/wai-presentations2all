@@ -8,6 +8,7 @@ lang: fr   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2020-12-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: #Add one -name: line for every translator
 - name: "Sofia Ahmed"
+- name: "Victoria Menezes Miller"
 contributors: #Add one -name: line for every contributor
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 permalink: /teach-advocate/accessible-presentations/fr   # Add the language shortcode to the end; for example /teach-advocate/accessible-presentations/fr
