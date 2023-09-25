@@ -31,8 +31,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ---
 
-**Vous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>
-Veillez à ne laisser personne dans votre public sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
+**Vous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ? Veillez à ne laisser personne dans votre public sans accès à toute l'information. Par exemple, si vous dites "vous pouvez le lire sur la diapositive", vous êtes probablement entrain d'exclure les personnes qui ne peuvent pas voir la diapositive.**
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
@@ -63,7 +62,7 @@ Cette page vous aide à rendre vos présentations, vos conférences, vos réunio
 ## Les fondamentaux (pour les organisateurs et les intervenants)
 {% include_cached excol.html type="middle" %}
 
-Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Pour faire simple, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
+Soyez ouvert à la diversité de votre public et à toute question d'accessibilité. Essentiellement, soyez conscient qu'une partie de votre public pourrait ne pas être capable de :
 
 -  **voir** bien ou pas du tout,
 -  **entendre** bien ou pas du tout,
@@ -74,10 +73,10 @@ Soyez ouvert à la diversité de votre public et à toute question d'accessibili
 Les organisateurs et les intevenants doivent :
 -  s'assurer que les installations sont accessibles
 -  parler distinctement dans le micro
--  décrire les visuels pertinents
+-  décrire les images pertinentes
 -  et prendre en considération les autres éléments listés sur cette page
 
-**Respectez les besoins des participants** et soyez ouvert à d'autres questions d'accessibilité. Il est possible que certaines personnes aient des besoins en matière d'accessibilité auxquels vous n'aviez pas pensés. Par exemple : quelqu'un pourrait avoir besoin de prendre des pauses à des heures fixes pour les injections d'insuline. Des personnes porteuses du syndrome de la Tourette pourraient subitement crier pendant la séance. Ou bien des personnes porteuses de handicaps physiques incapables de prendre des notes pourraient avoir besoin d'enregistrer la séance.
+**Respectez les besoins des participants** et soyez ouvert à d'autres questions d'accessibilité. Il est possible que certaines personnes aient des besoins en matière d'accessibilité auxquels vous n'aviez pas pensés. Par exemple : des personnes pourraient avoir besoin de pauses à des moments précis pour leurs injections d'insuline. Une personne porteuse du syndrome de la Tourette pourrait subitement crier pendant la séance. Ou bien des personnes porteuses de handicaps physiques incapables de prendre des notes pourraient avoir besoin d'enregistrer la séance.
 
 Fréquemment, les intervenants ne sauront pas si des participants se trouvent en situation de handicap. Par exemple, lors d'une conférence de grande envergure où les orgnisateurs n'ont pas demandé aux participants de s'inscrire. Dans certains cas, vous pourriez connaître les besoins des participants en matière d'accessibilité à l'avance. Mais vous pourriez tout de même vous retrouvez face à des changements. Par exemple, un nouveau participant a pu venir à la formation en toute dernière minute. Ou quelqu'un pourrait avoir de nouveaux besoins en matière d'accessibilité juste avant la formation.
 
@@ -104,7 +103,9 @@ Pour connaître les autres avantages d'un contenu multimédia accessible, allez 
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="arrange" %}
+
 ## Planifier l'événement (organisateurs)
+
 {% include_cached excol.html type="middle" %}
 
 ### Demandez aux intervenants et aux participants s'ils ont des besoins en matière d'accessibilité
@@ -145,7 +146,7 @@ Prévenez les intervenants que leurs contenus et leurs présentations sont cens�
 {% include_cached excol.html type="end" %}
 
 {% include_cached excol.html type="start" id="material" %}
-## Fournir du matériel et des multimédias accessibles (organisateurs et intervenants)
+## Fournissez des supports papier et multimédias accessibles (organisateurs et intervenants)
 {% include_cached excol.html type="middle" %}
 
 ### Offrez des supports papier, des diapositives, et d'autres contenus dans des formats accessibles
@@ -161,7 +162,9 @@ Par exemple, fournissez un texte équivalent pour les images, et des titres. Le 
 Par exemple, fournissez des [sous-titres](#captions){:.termref} et/ou des transcriptions pour le contenu audio, et fournissez une description audio des informations visuelles présentes dans les vidéos. Pour obtenir des conseils sur la création de contenus multimédias accessibles, **allez sur [[Des contenus audios et vidéos accessibles]](/media/av/)**.
 {% include_cached excol.html type="end" %}
 {% include_cached excol.html type="start" id="plan" %}
+
 ## Planifier votre séance (intervenants)
+
 {% include_cached excol.html type="middle" %}
 
 ### Fournissez les contenus à l'avance, si demandé
