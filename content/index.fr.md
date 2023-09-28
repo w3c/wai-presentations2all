@@ -23,11 +23,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
   <p><strong>Date :</strong> Mise à jour : 17 novembre 2020. Première publication : mai 2010.</p>
   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributeurs : <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> et <a href="https://www.w3.org/groups/wg/eowg/participants">les participants au EOWG</a>.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Développé avec des membres du <a href="http://www.w3.org/WAI/WAI-AGE/"> projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre.</p>
-
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
-# end of translation instructions
-
 ---
 
 **CVous souvenez-vous d'un moment où les gens autour de vous ont éclaté de rire, mais vous n'avez pas entendu la blague ?<br>

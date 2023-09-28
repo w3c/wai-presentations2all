@@ -32,9 +32,6 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Michele Williams, and <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with staff of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
-# Check for any Translations Notes specifically for this resource at https://github.com/w3c/wai-presentations2all/blob/master/README.md
-# end of translation instructions
-
 inline_css: |
   .forwhich {
     color: #3b3b3b;
